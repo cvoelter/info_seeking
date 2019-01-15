@@ -1,0 +1,689 @@
+---
+title: "Lids task - Markdown"
+author: "Christoph Voelter"
+date: "December 13, 2018"
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+    toc_depth: 4
+    theme: united
+  #pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+
+library(lme4)
+library(readr)
+library(tidyverse)
+library(sjPlot)
+library(ggthemes)
+library(gridExtra)
+library(reshape2)
+#library(Hmisc)
+library("PerformanceAnalytics")
+source("C:/Users/cjv3/R/R scripts/Roger/diagnostic_fcns.r")
+source("C:/Users/cjv3/R/R scripts/Roger/glmm_stability.r")
+source("C:/Users/cjv3/R/R scripts/Roger/boxplotteR.r")
+source("C:/Users/cjv3/R/R scripts/Roger/boot_glmm.r")
+source("C:/Users/cjv3/R/R scripts/Roger/corr_exact.r")
+#load(file ="mm1_mult_poss.RData")
+#readRDS(file ="multpos_model.rds")
+```
+
+
+
+```{r include=FALSE}
+#install.packages("exactRankTests")
+library(exactRankTests)
+
+better.wilcox=function(var1){
+  test.data=data.frame(var1)
+  test.data=subset( test.data, var1 !=0.5)
+  N=nrow(test.data)
+  w.res=wilcox.exact (test.data$var1, paired=F, exact=T, mu=0.25, alternative = c("two.sided"))
+  wT=w.res$statistic
+  wT=max(c(wT, N*(N+1)/2- wT))
+return(data.frame(T.plus=wT, N=N, P=w.res$p.value) )
+}
+
+better.wilcox2=function(var1, var2){
+  test.data=data.frame(var1, var2)
+  test.data=subset( test.data, var1 != var2)
+  N=nrow(test.data)
+  w.res=wilcox.exact (test.data$var1, test.data$var2, paired=T, exact=T, alternative = c("two.sided"))
+  wT=w.res$statistic
+  wT=max(c(wT, N*(N+1)/2- wT))
+return(data.frame(T.plus=wT, N=N, P=w.res$p.value) )
+}
+```
+
+####Notes
+* Safari excluded (he completed only 5 trials in the transparent condition within 2 sessions)  
+
+
+```{r loading data, include = FALSE}
+#Preparing code for mixed modeling. 
+Lids.data <- read.table(file="data/20181213Lids_data_sweetwaters.txt", header=T, sep="\t") %>%
+  filter(Subject != "Safari") #did not complete test trials
+
+
+
+```
+
+```{r eval=FALSE, include=FALSE}
+summary(Lids.data )
+```
+
+
+##Choice performance  
+
+### Transparent vs opaque phase
+
+```{r lids plot, echo=FALSE}
+#correct
+lids_individual <- Lids.data %>%
+  filter(!is.na(correct)) %>%
+  group_by(Phase, Subject) %>% 
+  summarize(lids.correct = mean(correct)) %>% 
+  add_count(lids.correct)
+
+  
+lids_individual$Phase <- factor(lids_individual$Phase, levels = c("transparent", "opaque"))
+
+
+p1<-  ggplot(
+  data=lids_individual, aes(x=Phase, y=lids.correct, group=Phase)) +
+  geom_boxplot()+
+  geom_point(size = lids_individual$n, colour = "purple")+
+  ylim(0,1)+
+  #xlim(0,2)+
+#  geom_line(lty=2)+
+  labs(x="",y="Mean proportion of correct choices")+
+  theme_few()+
+  #theme(axis.text.x=element_blank(), axis.ticks.x=element_blank())+
+  ggtitle("Choice performance")+
+  geom_hline(yintercept=1/4, linetype="dashed", color = "red")
+
+
+#peeking
+
+
+
+lids_individual2 <- Lids.data %>%
+  filter(!is.na(peeking)) %>%
+  group_by(Phase, Subject) %>% 
+  summarize(lids.peeking = mean(peeking)) %>% 
+  add_count(lids.peeking)
+
+  
+lids_individual2$Phase <- factor(lids_individual$Phase, levels = c("transparent", "opaque"))
+
+p2<-  ggplot(
+  data=lids_individual2, aes(x=Phase, y=lids.peeking, group=Phase)) +
+  geom_boxplot()+
+  geom_point(size = lids_individual2$n, colour = "purple")+
+  ylim(0,1)+
+  #xlim(0,2)+
+#  geom_line(lty=2)+
+  labs(x="",y="Mean proportion of peeking")+
+  theme_few()+
+  #theme(axis.text.x=element_blank(), axis.ticks.x=element_blank())+
+  ggtitle("Peeking")
+
+  grid.arrange(p1, p2, nrow=1)
+
+```
+
+
+#### Comparison to chance
+
+* DV: mean performance of correct choices.
+* Chance value: 0.25
+
+##### T-Test
+
+```{r echo=FALSE}
+tt<-t.test(lids_individual[lids_individual$Phase=="transparent",]$lids.correct, mu=1/4, alternative = "two.sided")
+```
+* Transparent condition (pretest): Mean = `r round(tt$estimate, 2)`, 95% CI [`r round(tt$conf.int[1],2)`, `r round(tt$conf.int[2],2)`], *t*(`r tt$parameter`)=`r round(tt$statistic,2)`, *p*=`r round(tt$p.value,5)` 
+
+```{r echo=FALSE}
+tt<-t.test( lids_individual[lids_individual$Phase=="opaque",]$lids.correct, mu=1/4, alternative = "two.sided")
+```
+* Opaque condition (test): Mean = `r round(tt$estimate, 2)`, 95% CI [`r round(tt$conf.int[1],2)`, `r round(tt$conf.int[2],2)`], *t*(`r tt$parameter`)=`r round(tt$statistic,2)`, *p*=`r round(tt$p.value,3)`
+
+##### Wilcoxon
+
+```{r echo=FALSE}
+wt<-better.wilcox( lids_individual[lids_individual$Phase=="transparent",]$lids.correct) 
+
+```
+* Transparent condition (pretest):  Median = `r round(median( lids_individual[lids_individual$Phase=="transparent",]$lids.correct), 2)`, T<sup>+</sup>=`r wt$T.plus`, N=`r wt$N`, *p*=`r round(wt$P,3)`
+
+
+
+```{r echo=FALSE}
+wt<-better.wilcox( lids_individual[lids_individual$Phase=="opaque",]$lids.correct) 
+
+```
+* Opaque condition (test): Median = `r round(median( lids_individual[lids_individual$Phase=="opaque",]$lids.correct), 2)`, T<sup>+</sup>=`r wt$T.plus`, N=`r wt$N`, *p*=`r round(wt$P,3)`
+
+
+
+
+### Transparent phase: trial types
+
+```{r echo=FALSE}
+#correct
+lids_individual_config <- Lids.data %>%
+  filter(!is.na(correct)) %>%
+  filter(Phase=="transparent") %>%
+  group_by(configuration, Subject) %>% 
+  summarize(lids.correct = mean(correct)) %>% 
+  add_count(lids.correct) 
+
+  ggplot(
+  data=lids_individual_config, aes(x=configuration, y=lids.correct, group=configuration))+
+  geom_boxplot()+
+  geom_point(size = lids_individual_config$n, colour = "purple")+
+  ylim(0,1)+
+  #xlim(0,2)+
+#  geom_line(lty=2)+
+  labs(x="Trial types",y="Mean number of correct choices")+
+  theme_few()+
+  #theme(axis.text.x=element_blank(), axis.ticks.x=element_blank())+
+  ggtitle("Choice performance per trial type")+
+  geom_hline(yintercept=1/4, linetype="dashed", color = "red")
+
+
+
+```
+
+##### T-Test
+
+```{r echo=FALSE}
+tt<-t.test(lids_individual_config[lids_individual_config$configuration=="baited",]$lids.correct, mu=1/4, alternative = "two.sided")
+```
+* **All baited - one open** : Mean = `r round(tt$estimate, 2)`, 95% CI [`r round(tt$conf.int[1],2)`, `r round(tt$conf.int[2],2)`], *t*(`r tt$parameter`)=`r round(tt$statistic,2)`, *p*=`r round(tt$p.value,5)` 
+
+```{r echo=FALSE}
+tt<-t.test(lids_individual_config[lids_individual_config$configuration=="mixed",]$lids.correct, mu=1/4, alternative = "two.sided")
+```
+* **Mixed condition** : Mean = `r round(tt$estimate, 2)`, 95% CI [`r round(tt$conf.int[1],2)`, `r round(tt$conf.int[2],2)`], *t*(`r tt$parameter`)=`r round(tt$statistic,2)`, *p*=`r round(tt$p.value,5)` 
+
+```{r echo=FALSE}
+tt<-t.test(lids_individual_config[lids_individual_config$configuration=="open",]$lids.correct, mu=1/4, alternative = "two.sided")
+```
+* **All open - one baited** : Mean = `r round(tt$estimate, 2)`, 95% CI [`r round(tt$conf.int[1],2)`, `r round(tt$conf.int[2],2)`], *t*(`r tt$parameter`)=`r round(tt$statistic,2)`, *p*=`r round(tt$p.value,5)`
+
+
+
+
+
+***
+
+### Opaque phase: trial types
+
+```{r echo=FALSE}
+#correct
+lids_individual_config <- Lids.data %>%
+  filter(!is.na(correct)) %>%
+  filter(Phase=="opaque") %>%
+  group_by(configuration, Subject) %>% 
+  summarize(lids.correct = mean(correct)) %>% 
+  add_count(lids.correct) 
+
+  ggplot(
+  data=lids_individual_config, aes(x=configuration, y=lids.correct, group=configuration))+
+  geom_boxplot()+
+  geom_point(size = lids_individual_config$n, colour = "purple")+
+  ylim(0,1)+
+  #xlim(0,2)+
+#  geom_line(lty=2)+
+  labs(x="Trial types",y="Mean number of correct choices")+
+  theme_few()+
+  #theme(axis.text.x=element_blank(), axis.ticks.x=element_blank())+
+  ggtitle("Choice performance per trial type")+
+  geom_hline(yintercept=1/4, linetype="dashed", color = "red")
+
+
+
+```
+
+##### T-Test
+
+```{r echo=FALSE}
+tt<-t.test(lids_individual_config[lids_individual_config$configuration=="baited",]$lids.correct, mu=1/4, alternative = "two.sided")
+```
+* **All baited - one open** : Mean = `r round(tt$estimate, 2)`, 95% CI [`r round(tt$conf.int[1],2)`, `r round(tt$conf.int[2],2)`], *t*(`r tt$parameter`)=`r round(tt$statistic,2)`, *p*=`r round(tt$p.value,5)` 
+
+```{r echo=FALSE}
+tt<-t.test(lids_individual_config[lids_individual_config$configuration=="mixed",]$lids.correct, mu=1/4, alternative = "two.sided")
+```
+* **Mixed condition** : Mean = `r round(tt$estimate, 2)`, 95% CI [`r round(tt$conf.int[1],2)`, `r round(tt$conf.int[2],2)`], *t*(`r tt$parameter`)=`r round(tt$statistic,2)`, *p*=`r round(tt$p.value,5)` 
+
+```{r echo=FALSE}
+tt<-t.test(lids_individual_config[lids_individual_config$configuration=="open",]$lids.correct, mu=1/4, alternative = "two.sided")
+```
+* **All open - one baited** : Mean = `r round(tt$estimate, 2)`, 95% CI [`r round(tt$conf.int[1],2)`, `r round(tt$conf.int[2],2)`], *t*(`r tt$parameter`)=`r round(tt$statistic,2)`, *p*=`r round(tt$p.value,5)`
+
+
+***
+
+
+
+
+##Peeking
+
+###Comparison between transparent and opaque condition
+
+
+##### T-Test
+
+```{r echo=FALSE}
+tt<-t.test(lids_individual[lids_individual$Phase=="transparent",]$lids.correct, lids_individual[lids_individual$Phase=="opaque",]$lids.correct, paired = TRUE, alternative = "two.sided")
+```
+* Difference between peeking response between transparent and opaque condition: Mean difference = `r round(tt$estimate, 2)`, 95% CI [`r round(tt$conf.int[1],2)`, `r round(tt$conf.int[2],2)`], *t*(`r tt$parameter`)=`r round(tt$statistic,2)`, *p*=`r round(tt$p.value,3)` 
+
+##### Wilcoxon
+```{r echo=FALSE}
+wt<-better.wilcox2(lids_individual[lids_individual$Phase=="transparent",]$lids.correct, lids_individual[lids_individual$Phase=="opaque",]$lids.correct) 
+
+```
+* Difference between peeking response between transparent and opaque condition: T<sup>+</sup>=`r wt$T.plus`, N=`r wt$N`, *p*=`r wt$P`
+
+
+
+###Peeking as function of trial types  
+
+
+```{r  echo=FALSE}
+
+##peeking overall
+lids_individual3 <- Lids.data %>%
+  filter(!is.na(peeking)) %>%
+  filter(Phase=="opaque") %>%
+  group_by(configuration, Subject) %>% 
+  summarize(lids.peeking = mean(peeking)) %>% 
+  add_count(lids.peeking)
+
+  
+lids_mean3<-lids_individual3%>%
+  group_by(configuration) %>% 
+  summarize(lids.peeking = mean(lids.peeking))
+
+#p1<-  
+ggplot(
+  data=lids_individual3, aes(x=configuration, y=lids.peeking, group=configuration)) +
+  #geom_boxplot()+
+  geom_bar(data = lids_mean3, stat = "identity", alpha = .3)+
+  geom_point(size = lids_individual3$n, colour = "purple")+
+  ylim(0,1)+
+  #xlim(0,2)+
+#  geom_line(lty=2)+
+  labs(x="Visible configuration",y="Mean proportion of peeking")+
+  theme_few()+
+  #theme(axis.text.x=element_blank(), axis.ticks.x=element_blank())+
+  ggtitle("Peeking - opaque condition")
+```
+
+```{r echo=FALSE}
+lids_individual4 <- Lids.data %>%
+  filter(!is.na(peek_above)) %>%
+  filter(Phase=="opaque") %>%
+  group_by(configuration, Subject) %>% 
+  summarize(lids.peek_above = mean(peek_above)) %>% 
+  add_count(lids.peek_above)
+
+lids_mean4<-lids_individual4%>%
+  group_by(configuration) %>% 
+  summarize(lids.peek_above = mean(lids.peek_above))
+
+#p2<-  
+ggplot(
+  data=lids_individual4, aes(x=configuration, y=lids.peek_above, group=configuration)) +
+  #geom_boxplot()+
+  geom_bar(data = lids_mean4, stat = "identity", alpha = .3)+
+  geom_point(size = lids_individual4$n, colour = "purple")+
+  ylim(0,1)+
+  #xlim(0,2)+
+#  geom_line(lty=2)+
+  labs(x="Visible configuration",y="Mean proportion of peeking above")+
+  theme_few()+
+  #theme(axis.text.x=element_blank(), axis.ticks.x=element_blank())+
+  ggtitle("Peeking above - opaque condition")
+
+```
+
+```{r echo=FALSE}
+##Peeking below
+lids_individual5 <- Lids.data %>%
+  filter(!is.na(peek_below)) %>%
+  filter(Phase=="opaque") %>%
+  group_by(configuration, Subject) %>% 
+  summarize(lids.peek_below = mean(peek_below)) %>% 
+  add_count(lids.peek_below)
+
+
+lids_mean5<-lids_individual5%>%
+  group_by(configuration) %>% 
+  summarize(lids.peek_below = mean(lids.peek_below))
+
+#p3<-  
+ggplot(
+  data=lids_individual5, aes(x=configuration, y=lids.peek_below, group=configuration)) +
+#  geom_boxplot()+
+  geom_bar(data = lids_mean5, stat = "identity", alpha = .3)+
+  geom_point(size = lids_individual5$n, colour = "purple")+
+  ylim(0,1)+
+  #xlim(0,2)+
+#  geom_line(lty=2)+
+  labs(x="Visible configuration",y="Mean proportion of peeking below")+
+  theme_few()+
+  #theme(axis.text.x=element_blank(), axis.ticks.x=element_blank())+
+  ggtitle("Peeking below - opaque condition")
+
+
+ #grid.arrange(p1, p2,p3)
+
+```
+
+
+***  
+
+## Relationship between peeking and choice performance
+
+###Opaque phase: peeking vs no peeking
+
+```{r lids plot3, echo=FALSE}
+#correct
+lids_individual_peek <- Lids.data %>%
+  filter(!is.na(correct)) %>%
+  filter(Phase=="opaque") %>%
+  group_by(peeking, Subject) %>% 
+  summarize(lids.correct = mean(correct)) %>% 
+  add_count(lids.correct) %>%
+  ungroup() %>% 
+  mutate(peeking=recode(peeking, `0`="No", `1`="Yes"))
+
+  ggplot(
+  data=lids_individual_peek, aes(x=peeking, y=lids.correct, group=peeking)) +
+  geom_boxplot()+
+  geom_point(size = lids_individual_peek$n, colour = "purple")+
+  ylim(0,1)+
+  #xlim(0,2)+
+#  geom_line(lty=2)+
+  labs(x="Peeking",y="Mean number of correct choices")+
+  theme_few()+
+  #theme(axis.text.x=element_blank(), axis.ticks.x=element_blank())+
+  ggtitle("Choice performance")+
+  geom_hline(yintercept=1/4, linetype="dashed", color = "red")
+
+
+
+```
+
+##### T-Test
+
+```{r echo=FALSE}
+tt<-t.test( lids_individual_peek[lids_individual_peek $peeking=="No",]$lids.correct, mu=1/4, alternative = "two.sided")
+```
+* Opaque condition - **No peeking**: Mean = `r round(tt$estimate, 2)`, 95% CI [`r round(tt$conf.int[1],2)`, `r round(tt$conf.int[2],2)`], *t*(`r tt$parameter`)=`r round(tt$statistic,2)`, *p*=`r round(tt$p.value,3)`
+
+
+```{r echo=FALSE}
+tt<-t.test( lids_individual_peek[lids_individual_peek $peeking=="Yes",]$lids.correct, mu=1/4, alternative = "two.sided")
+```
+* Opaque condition - **Peeking**: Mean = `r round(tt$estimate, 2)`, 95% CI [`r round(tt$conf.int[1],2)`, `r round(tt$conf.int[2],2)`], *t*(`r tt$parameter`)=`r round(tt$statistic,2)`, *p*=`r round(tt$p.value,3)`
+
+##### Wilcoxon
+```{r echo=FALSE}
+wt<-better.wilcox(lids_individual_peek[lids_individual_peek $peeking=="No",]$lids.correct) 
+
+```
+* Opaque condition - **No Peeking**: Median = `r round(median(lids_individual_peek[lids_individual_peek $peeking=="No",]$lids.correct), 2)`, T<sup>+</sup>=`r wt$T.plus`, N=`r wt$N`, *p*=`r round(wt$P,3)`
+
+```{r echo=FALSE}
+wt<-better.wilcox(lids_individual_peek[lids_individual_peek $peeking=="Yes",]$lids.correct) 
+
+```
+* Opaque condition - **Peeking**: Median = `r round(median(lids_individual_peek[lids_individual_peek $peeking=="Yes",]$lids.correct), 2)`, T<sup>+</sup>=`r wt$T.plus`, N=`r wt$N`, *p*=`r round(wt$P,3)`
+
+
+#### Only individuals who peek (at least once)
+
+```{r lids plot4, echo=FALSE}
+#correct
+lids_individual_peek2 <- Lids.data %>%
+  group_by(Subject) %>% 
+  summarize(lids.peeking = mean(peeking))
+
+filt<-as.vector(lids_individual_peek2[lids_individual_peek2$lids.peeking==0,]$Subject)
+
+lids_individual_peek3 <- lids_individual_peek %>%
+  filter(!(Subject %in% filt)) %>%#removing subjects that did not peek at all
+  select(-n)%>%
+  add_count(lids.correct)
+
+
+  ggplot(
+  data=lids_individual_peek3, aes(x=peeking, y=lids.correct, group=peeking)) +
+  geom_boxplot()+
+  geom_point(size = lids_individual_peek3$n, colour = "purple")+
+  ylim(0,1)+
+  #xlim(0,2)+
+#  geom_line(lty=2)+
+  labs(x="Peeking",y="Mean number of correct choices")+
+  theme_few()+
+  #theme(axis.text.x=element_blank(), axis.ticks.x=element_blank())+
+  ggtitle("Choice performance")+
+  geom_hline(yintercept=1/4, linetype="dashed", color = "red")
+
+
+
+```
+
+##### T-Test  
+
+```{r echo=FALSE}
+tt<-t.test( lids_individual_peek3[lids_individual_peek3 $peeking=="No",]$lids.correct, mu=1/4, alternative = "two.sided")
+```
+* Opaque condition - **No peeking**: Mean = `r round(tt$estimate, 2)`, 95% CI [`r round(tt$conf.int[1],2)`, `r round(tt$conf.int[2],2)`], *t*(`r tt$parameter`)=`r round(tt$statistic,2)`, *p*=`r round(tt$p.value,3)`
+
+
+```{r echo=FALSE}
+tt<-t.test( lids_individual_peek3[lids_individual_peek3 $peeking=="Yes",]$lids.correct, mu=1/4, alternative = "two.sided")
+```
+* Opaque condition - **Peeking**: Mean = `r round(tt$estimate, 2)`, 95% CI [`r round(tt$conf.int[1],2)`, `r round(tt$conf.int[2],2)`], *t*(`r tt$parameter`)=`r round(tt$statistic,2)`, *p*=`r round(tt$p.value,3)`
+
+
+##### Wilcoxon
+
+
+```{r echo=FALSE}
+wt<-better.wilcox(lids_individual_peek3[lids_individual_peek3 $peeking=="No",]$lids.correct) 
+
+```
+* Opaque condition - **No Peeking**: Median = `r round(median(lids_individual_peek3[lids_individual_peek3 $peeking=="No",]$lids.correct), 2)`, T<sup>+</sup>=`r wt$T.plus`, N=`r wt$N`, *p*=`r round(wt$P,3)`
+
+```{r echo=FALSE}
+wt<-better.wilcox(lids_individual_peek3[lids_individual_peek3 $peeking=="Yes",]$lids.correct) 
+
+```
+* Opaque condition - **Peeking**: Median = `r round(median(lids_individual_peek3[lids_individual_peek3 $peeking=="Yes",]$lids.correct), 2)`, T<sup>+</sup>=`r wt$T.plus`, N=`r wt$N`, *p*=`r round(wt$P,3)`
+
+
+
+***  
+
+
+```{r echo=FALSE}
+knitr::knit_exit()
+```
+
+
+####GLMM 01
+
+look ~ Test phase + Trial number within phase + Age + (1+Test phase + Trial number within phase | Subject), family = binomial.
+
++ Scale variables: trial number, age, and order of conditions
+```{R include=FALSE}
+Lids.data$z.trial=as.vector(scale(Lids.data$trial_number))
+Lids.data$z.age=as.vector(scale(Lids.data$Age))
+```
+
+
+```{r}
+#coding dummy variables before centering the slopes
+Lids.data$Condition.c<-as.numeric(Lids.data$Phase==levels(Lids.data$Phase)[2])
+Lids.data$Condition.c=Lids.data$Condition.c-mean(Lids.data$Condition.c)
+
+```
+
+### Run Model
+
+####Full model
+```{r}
+contr=glmerControl(optimizer="bobyqa", optCtrl=list(maxfun=10000000))
+glmm01=glmer(peeking ~ Phase+z.trial+z.age+
+               (1+z.trial+Phase|Subject),
+             data=Lids.data, family=binomial, control=contr)
+```
+
+
+####Null model	 
+```{r}	 
+null01=glmer(peeking ~ 1+(1+z.trial+Phase|Subject),
+             data=Lids.data, family=binomial, control=contr)
+```
+####Full-null model comparison
+```{r echo=FALSE}	 
+round(anova(null01, glmm01, test="Chisq"),3)
+```
+
+```{r}
+xdrop1=drop1(glmm01, test="Chisq",control=contr)
+round(xdrop1,3)
+```
+
+
+
+
+####GLMM 02a
+GLMM2a: To analyse the effects of condition (within the test phase only) on participants looking above the occluder / double-cylinders:
+Presence of above looks ~ Condition + Trial number within test phase + Age + (1+Condition + Trial number within test phase | Subject), family =binomial
+
+```{r}
+
+Lids.data.opaque<-Lids.data%>%
+  filter(Phase=="opaque")
+```
+
+
++ Scale variables: trial number, age, and order of conditions
+```{R include=FALSE}
+Lids.data.opaque$z.trial=as.vector(scale(Lids.data.opaque$trial_number))
+Lids.data.opaque$z.age=as.vector(scale(Lids.data.opaque$Age))
+```
+
+
+```{r}
+#coding dummy variables before centering the slopes
+Lids.data.opaque$Condition.c<-as.numeric(Lids.data.opaque$Phase==levels(Lids.data.opaque$Phase)[2])
+Lids.data.opaque$Condition.c=Lids.data.opaque$Condition.c-mean(Lids.data.opaque$Condition.c)
+
+```
+
+### Run Model
+
+####Full model
+```{r}
+contr=glmerControl(optimizer="bobyqa", optCtrl=list(maxfun=10000000))
+glmm02a=glmer(peek_above ~ configuration+z.trial+z.age+
+              (1|Subject)+(0+z.trial+configuration|Subject),
+             data=Lids.data.opaque, family=binomial, control=contr)
+```
+
+
+####Null model	 
+```{r}	 
+null02a=glmer(peek_above ~ 1+
+               (1|Subject)+(0+z.trial+configuration|Subject),
+             data=Lids.data.opaque, family=binomial, control=contr)
+```
+####Full-null model comparison
+```{r echo=FALSE}	 
+round(anova(null02a, glmm02a, test="Chisq"),3)
+```
+
+```{r}
+xdrop2a=drop1(glmm02a, test="Chisq",control=contr)
+round(xdrop2c,3)
+```
+
+
+
+
+
+####GLMM 02c
+GLMM2c: To analyse the effects of condition (within the test phase only) on participants looking both above and below the occluder / double-cylinders:
+Presence of both an above and a below look ~ Condition + Trial number within test phase  + Age + (1+Condition + Trial number within test phase | Subject), family =binomial
+
+```{r}
+
+Lids.data.opaque<-Lids.data%>%
+  filter(Phase=="opaque")
+```
+
+
++ Scale variables: trial number, age, and order of conditions
+```{R include=FALSE}
+Lids.data.opaque$z.trial=as.vector(scale(Lids.data.opaque$trial_number))
+Lids.data.opaque$z.age=as.vector(scale(Lids.data.opaque$Age))
+```
+
+
+```{r}
+#coding dummy variables before centering the slopes
+Lids.data.opaque$Condition.c<-as.numeric(Lids.data.opaque$Phase==levels(Lids.data.opaque$Phase)[2])
+Lids.data.opaque$Condition.c=Lids.data.opaque$Condition.c-mean(Lids.data.opaque$Condition.c)
+
+```
+
+### Run Model
+
+####Full model
+```{r}
+contr=glmerControl(optimizer="bobyqa", optCtrl=list(maxfun=10000000))
+glmm02c=glmer(peeking ~ configuration+z.trial+z.age+
+              (1|Subject)+(0+z.trial+configuration|Subject),
+             data=Lids.data.opaque, family=binomial, control=contr)
+```
+
+
+####Null model	 
+```{r}	 
+null02c=glmer(peeking ~ 1+
+               (1|Subject)+(0+z.trial+configuration|Subject),
+             data=Lids.data.opaque, family=binomial, control=contr)
+```
+####Full-null model comparison
+```{r echo=FALSE}	 
+round(anova(null02c, glmm02c, test="Chisq"),3)
+```
+
+```{r}
+xdrop2c=drop1(glmm02c, test="Chisq",control=contr)
+round(xdrop2c,3)
+```
+
+
+
+
+```{r echo=FALSE}
+knitr::knit_exit()
+```
+

@@ -1,0 +1,652 @@
+Subject	Sex	Group	Age	Date	Day	Session	Phase	trial_number	position_correct	configuration	chosen_cup_POS	chosen_cup	correct	peek_above	peek_below	peeking	unclear	peek_above.s	peek_below.s	peeking.s	Comment	Comment2			Chosen_distractor	switching_mistakes		
+Chipie	f	young chimps	27	02/11/2018	21	1	transparent	1	2	baited	3	lb	0	0	0	0		0	0	0								
+Chipie	f	young chimps	27	02/11/2018	21	1	transparent	2	2	open	2	b	1	0	0	0		0	0	0								
+Chipie	f	young chimps	27	02/11/2018	21	1	transparent	3	4	mixed	3	e	0	0	0	0		0	0	0								
+Chipie	f	young chimps	27	02/11/2018	21	1	transparent	4	4	baited	3	lb	0	0	0	0		0	0	0								
+Chipie	f	young chimps	27	02/11/2018	21	1	transparent	5	3	open	3	b	1	0	0	0		0	0	0								
+Chipie	f	young chimps	27	02/11/2018	21	1	transparent	6	1	mixed	2	lb	0	0	0	0		0	0	0								
+Chipie	f	young chimps	27	02/11/2018	21	1	transparent	7	3	open	4	b	1	0	0	0		0	0	0								
+Chipie	f	young chimps	27	02/11/2018	21	1	transparent	8	3	mixed	3	l	0	0	0	0		0	0	0								
+Chipie	f	young chimps	27	02/11/2018	21	1	transparent	9	1	baited	2	lb	0	0	0	0		0	0	0								
+Chipie	f	young chimps	27	02/11/2018	21	1	transparent	10	1	open	1	b	1	0	0	0		0	0	0								
+Chipie	f	young chimps	27	02/11/2018	21	1	transparent	11	3	baited	2	lb	0	0	0	0		0	0	0								
+Chipie	f	young chimps	27	02/11/2018	21	1	transparent	12	2	mixed	2	b	1	0	0	0		0	0	0								
+Chipie	f	young chimps	27	02/11/2018	21	1	opaque	1	2	mixed	2	b	1	0	1	1		0	1	1	24:25:00							
+Chipie	f	young chimps	27	02/11/2018	21	1	opaque	2	2	open	2	e	0	0	1	1		0	1	1								
+Chipie	f	young chimps	27	02/11/2018	21	1	opaque	3	1	baited	2	lb	0	0	1	1		0	1	1	28:36:00							
+Chipie	f	young chimps	27	02/11/2018	21	1	opaque	4	4	open	4	b	1	0	1	1		0	1	1	00:15							
+Chipie	f	young chimps	27	02/11/2018	21	1	opaque	5	4	mixed	3	lb	0	0	1	1		0	1	1								
+Chipie	f	young chimps	27	02/11/2018	21	1	opaque	6	4	baited	2	lb	0	0	1	1		0	1	1								
+Chipie	f	young chimps	27	02/11/2018	21	2	opaque	7	4	open	4	b	1	0	1	1		0	1	1								
+Chipie	f	young chimps	27	02/11/2018	21	2	opaque	8	1	mixed	2	lb	0	0	1	1		0	1	1								
+Chipie	f	young chimps	27	02/11/2018	21	2	opaque	9	3	baited	2	lb	0	0	1	1		0	1	1								
+Chipie	f	young chimps	27	02/11/2018	21	2	opaque	10	2	open	2	b	1	0	1	1		0	1	1								
+Chipie	f	young chimps	27	02/11/2018	21	2	opaque	11	3	mixed	2	e	0	0	0	0		0	0	0								
+Chipie	f	young chimps	27	02/11/2018	21	2	opaque	12	2	baited	2	b	1	0	0	0		0	0	0								
+William	m	young chimps	18	02/11/2018	21	1	transparent	1	2	open	2	b	1	0	0	0		0	0	0								
+William	m	young chimps	18	02/11/2018	21	1	transparent	2	1	baited	3	lb	0	0	0	0		0	0	0								
+William	m	young chimps	18	02/11/2018	21	1	transparent	3	2	mixed	2	b	1	0	0	0		0	0	0								
+William	m	young chimps	18	02/11/2018	21	1	transparent	4	4	open	4	b	1	0	0	0		0	0	0								
+William	m	young chimps	18	02/11/2018	21	1	transparent	5	3	mixed	3	b	1	0	0	0		0	0	0								
+William	m	young chimps	18	02/11/2018	21	1	transparent	6	4	baited	1	lb	0	0	0	0		0	0	0								
+William	m	young chimps	18	02/11/2018	21	1	transparent	7	4	mixed	2	lb	0	0	0	0		0	0	0								
+William	m	young chimps	18	02/11/2018	21	1	transparent	8	1	open	1	b	1	0	0	0		0	0	0								
+William	m	young chimps	18	02/11/2018	21	1	transparent	9	2	baited	1	lb	0	0	0	0		0	0	0								
+William	m	young chimps	18	02/11/2018	21	1	transparent	10	1	mixed	1	b	1	0	0	0		0	0	0								
+William	m	young chimps	18	02/11/2018	21	1	transparent	11	3	baited	1	lb	0	0	0	0		0	0	0								
+William	m	young chimps	18	02/11/2018	21	1	transparent	12	3	open	3	b	1	0	0	0		0	0	0								
+William	m	young chimps	18	02/11/2018	21	1	opaque	1	3	baited	1	lb	0	0	0	0		0	0	0								
+William	m	young chimps	18	03/11/2018	21	2	opaque	2	2	open	2	b	1	0	0	0		0	0	0								
+William	m	young chimps	18	03/11/2018	21	2	opaque	3	2	mixed	2	e	0	0	0	0		0	0	0								
+William	m	young chimps	18	03/11/2018	21	2	opaque	4	1	mixed	1	b	1	0	0	0		0	0	0								
+William	m	young chimps	18	03/11/2018	21	2	opaque	5	4	baited	4	lb	0	0	0	0		0	0	0								
+William	m	young chimps	18	03/11/2018	21	2	opaque	6	3	open	3	e	0	0	0	0		0	0	0								
+William	m	young chimps	18	04/11/2018	21	3	opaque	7	4	mixed	4	lb	0	0	0	0		0	0	0								
+William	m	young chimps	18	04/11/2018	21	3	opaque	8	1	open	2	e	0	0	0	0		0	0	0	"did not make a response, session stopped"							
+William	m	young chimps	18	04/11/2018	21	3	opaque	9	1	baited	4	lb	0	0	0	0		0	0	0								
+William	m	young chimps	18	04/11/2018	21	3	opaque	10	4	open	2	e	0	0	0	0		0	0	0	"did not make a response, session stopped"							
+Roy 	m	young chimps	11	02/11/2018	21	1	transparent	1	2	mixed	1	lb	0	0	0	0		0	0	0								
+Roy 	m	young chimps	11	02/11/2018	21	1	transparent	2	4	open	3	e	0	0	0	0		0	0	0								
+Roy 	m	young chimps	11	02/11/2018	21	1	transparent	3	2	baited	1	lb	0	0	0	0		0	0	0								
+Roy 	m	young chimps	11	02/11/2018	21	1	transparent	4	1	open	1	b	1	0	0	0		0	0	0								
+Roy 	m	young chimps	11	02/11/2018	21	1	transparent	5	2	mixed	2	b	1	0	0	0		0	0	0								
+Roy 	m	young chimps	11	02/11/2018	21	1	transparent	6	4	baited	1	lb	0	0	0	0		0	0	0								
+Roy 	m	young chimps	11	02/11/2018	21	1	transparent	7	4	mixed	1	e	0	0	0	0		0	0	0								
+Roy 	m	young chimps	11	02/11/2018	21	1	transparent	8	2	open	1	e	0	0	0	0		0	0	0								
+Roy 	m	young chimps	11	02/11/2018	21	1	transparent	9	3	baited	2	lb	0	0	0	0		0	0	0								
+Roy 	m	young chimps	11	02/11/2018	21	1	transparent	10	3	open	3	b	1	0	0	0		0	0	0								
+Roy 	m	young chimps	11	02/11/2018	21	1	transparent	11	2	mixed	2	b	1	0	0	0		0	0	0								
+Roy 	m	young chimps	11	02/11/2018	21	1	transparent	12	1	baited	1	b	1	0	0	0		0	0	0								
+Roy 	m	young chimps	11	02/11/2018	21	1	opaque	1	1	open	1	b	1	0	0	0		0	0	0								
+Roy 	m	young chimps	11	02/11/2018	21	1	opaque	2	4	baited	2	lb	0	0	0	0		0	0	0								
+Roy 	m	young chimps	11	02/11/2018	21	1	opaque	3	2	mixed	1	e	0	0	0	0		0	0	0								
+Roy 	m	young chimps	11	02/11/2018	21	1	opaque	4	2	open	2	b	1	0	0	0		0	0	0	peek from the side							
+Roy 	m	young chimps	11	02/11/2018	21	1	opaque	5	4	mixed	1	l	0	0	0	0		0	0	0								
+Roy 	m	young chimps	11	02/11/2018	21	1	opaque	6	3	baited	1	lb	0	0	0	0		0	0	0								
+Roy 	m	young chimps	11	02/11/2018	21	2	opaque	7	1	mixed	1	b	1	0	0	0		0	0	0								
+Roy 	m	young chimps	11	02/11/2018	21	2	opaque	8	4	open	1	e	0	0	0	0		0	0	0								
+Roy 	m	young chimps	11	02/11/2018	21	2	opaque	9	2	baited	1	lb	0	0	0	0		0	0	0								
+Roy 	m	young chimps	11	02/11/2018	21	2	opaque	10	2	open	1	e	0	0	0	0		0	0	0								
+Roy 	m	young chimps	11	02/11/2018	21	2	opaque	11	4	mixed	1	l	0	0	0	0		0	0	0								
+Roy 	m	young chimps	11	02/11/2018	21	2	opaque	12	4	baited	1	lb	0	0	0	0		0	0	0								
+Uruhara	m	young chimps	29	02/11/2018	21	1	transparent	1	4	baited	2	lb	0	0	0	0		0	0	0								
+Uruhara	m	young chimps	29	02/11/2018	21	1	transparent	2	4	mixed	4	b	1	0	0	0		0	0	0								
+Uruhara	m	young chimps	29	02/11/2018	21	1	transparent	3	3	open	3	b	1	0	0	0		0	0	0								
+Uruhara	m	young chimps	29	02/11/2018	21	1	transparent	4	3	baited	3	b	1	0	0	0		0	0	0								
+Uruhara	m	young chimps	29	02/11/2018	21	1	transparent	5	1	open	3	e	0	0	0	0		0	0	0								
+Uruhara	m	young chimps	29	02/11/2018	21	1	transparent	6	1	mixed	2	lb	0	0	0	0		0	0	0								
+Uruhara	m	young chimps	29	02/11/2018	21	1	transparent	7	4	open	3	e	0	0	0	0		0	0	0	corrected from video							
+Uruhara	m	young chimps	29	02/11/2018	21	1	transparent	8	2	baited	3	lb	0	0	0	0		0	0	0								
+Uruhara	m	young chimps	29	02/11/2018	21	1	transparent	9	2	mixed	4	lb	0	0	0	0		0	0	0								
+Uruhara	m	young chimps	29	02/11/2018	21	1	transparent	10	2	open	2	b	1	0	0	0		0	0	0								
+Uruhara	m	young chimps	29	02/11/2018	21	1	transparent	11	2	mixed	3	lb	0	0	0	0		0	0	0								
+Uruhara	m	young chimps	29	02/11/2018	21	1	transparent	12	1	baited	2	b	1	0	0	0		0	0	0								
+Uruhara	m	young chimps	29	02/11/2018	21	1	opaque	1	3	mixed	2	e	0	0	0	0		0	0	0								
+Uruhara	m	young chimps	29	02/11/2018	21	1	opaque	2	1	baited	2	lb	0	0	0	0		0	0	0								
+Uruhara	m	young chimps	29	02/11/2018	21	1	opaque	3	1	open	3	e	0	0	0	0		0	0	0								
+Uruhara	m	young chimps	29	02/11/2018	21	1	opaque	4	3	baited	3	b	1	0	0	0		0	0	0								
+Uruhara	m	young chimps	29	02/11/2018	21	1	opaque	5	4	mixed	3	l	0	0	0	0		0	0	0								
+Uruhara	m	young chimps	29	02/11/2018	21	1	opaque	6	3	open	3	b	1	0	0	0		0	0	0								
+Uruhara	m	young chimps	29	02/11/2018	21	2	opaque	7	3	mixed	3	b	1	0	1	1		0	1	1	00:45							
+Uruhara	m	young chimps	29	02/11/2018	21	2	opaque	8	3	open	4	e	0	0	0	0		0	0	0								
+Uruhara	m	young chimps	29	02/11/2018	21	2	opaque	9	2	baited	2	b	1	0	0	0		0	0	0								
+Uruhara	m	young chimps	29	02/11/2018	21	2	opaque	10	2	mixed	4	e	0	0	0	0		0	0	0								
+Uruhara	m	young chimps	29	02/11/2018	21	2	opaque	11	1	baited	2	lb	0	1	0	1	1	0	0	0	07:23							
+Uruhara	m	young chimps	29	02/11/2018	21	2	opaque	12	4	open	3	e	0	0	0	0		0	0	0								
+Manno	m	young chimps	5	03/11/2018	21	1	transparent	1	1	open	1	b	1	0	0	0		0	0	0								
+Manno	m	young chimps	5	03/11/2018	21	1	transparent	2	4	mixed	4	b	1	0	0	0		0	0	0								
+Manno	m	young chimps	5	03/11/2018	21	1	transparent	3	4	baited	4	b	1	0	0	0		0	0	0								
+Manno	m	young chimps	5	03/11/2018	21	1	transparent	4	4	open	4	b	1	0	0	0		0	0	0								
+Manno	m	young chimps	5	03/11/2018	21	1	transparent	5	3	baited	4	lb	0	0	0	0		0	0	0								
+Manno	m	young chimps	5	03/11/2018	21	1	transparent	6	2	mixed	3	lb	0	0	0	0		0	0	0								
+Manno	m	young chimps	5	03/11/2018	21	1	transparent	7	2	baited	3	lb	0	0	0	0		0	0	0								
+Manno	m	young chimps	5	03/11/2018	21	1	transparent	8	3	open	3	b	1	0	0	0		0	0	0								
+Manno	m	young chimps	5	03/11/2018	21	1	transparent	9	2	mixed	2	b	1	0	0	0		0	0	0								
+Manno	m	young chimps	5	03/11/2018	21	1	transparent	10	1	baited	1	b	1	0	0	0		0	0	0								
+Manno	m	young chimps	5	03/11/2018	21	1	transparent	11	4	mixed	4	b	1	0	0	0		0	0	0								
+Manno	m	young chimps	5	03/11/2018	21	1	transparent	12	2	open	2	b	1	0	0	0		0	0	0								
+Manno	m	young chimps	5	03/11/2018	21	1	opaque	1	4	mixed	4	b	1	0	1	1		0	1	1	20:25	corrected from video						
+Manno	m	young chimps	5	03/11/2018	21	1	opaque	2	2	baited	3	lb	0	0	0	0		0	0	0								
+Manno	m	young chimps	5	03/11/2018	21	1	opaque	3	3	open	3	b	1	0	0	0		0	0	0								
+Manno	m	young chimps	5	03/11/2018	21	1	opaque	4	3	baited	3	b	1	0	0	0		0	0	0								
+Manno	m	young chimps	5	03/11/2018	21	1	opaque	5	2	mixed	4	lb	0	0	0	0		0	0	0								
+Manno	m	young chimps	5	03/11/2018	21	1	opaque	6	2	open	3	e	0	0	0	0		0	0	0								
+Manno	m	young chimps	5	04/11/2018	21	2	opaque	7	1	mixed	3	e	0	1	1	1	1	0	0	0	"pulled occluder,"							
+Manno	m	young chimps	5	04/11/2018	21	2	opaque	8	1	open	1	b	1	0	1	1		0	1	1	02:21							
+Manno	m	young chimps	5	04/11/2018	21	2	opaque	9	1	baited	1	b	1	1	0	1	1	0	0	0	"pulled occluder, trial repeated 13"							
+Manno	m	young chimps	5	04/11/2018	21	2	opaque	10	4	open	4	b	1	0	0	0		0	0	0								
+Manno	m	young chimps	5	04/11/2018	21	2	opaque	11	3	mixed	3	b	1	1	1	1		1	1	1	06:49							
+Manno	m	young chimps	5	04/11/2018	21	2	opaque	12	4	baited	4	b	1	1	0	1		1	0	1	08:56							
+Jane	f	young chimps	14	03/11/2018	21	1	transparent	1	3	baited	3	lb	0	0	0	0		0	0	0								
+Jane	f	young chimps	14	03/11/2018	21	1	transparent	2	1	open	1	e	0	0	0	0		0	0	0								
+Jane	f	young chimps	14	03/11/2018	21	1	transparent	3	1	mixed	1	lb	0	0	0	0		0	0	0								
+Jane	f	young chimps	14	03/11/2018	21	1	transparent	4	2	baited	2	lb	0	0	0	0		0	0	0								
+Jane	f	young chimps	14	03/11/2018	21	1	transparent	5	3	mixed	3	e	0	0	0	0		0	0	0								
+Jane	f	young chimps	14	03/11/2018	21	1	transparent	6	2	open	2	b	1	0	0	0		0	0	0								
+Jane	f	young chimps	14	03/11/2018	21	1	transparent	7	2	mixed	2	b	1	0	0	0		0	0	0								
+Jane	f	young chimps	14	03/11/2018	21	1	transparent	8	3	open	3	b	1	0	0	0		0	0	0								
+Jane	f	young chimps	14	03/11/2018	21	1	transparent	9	1	baited	1	lb	0	0	0	0		0	0	0								
+Jane	f	young chimps	14	03/11/2018	21	1	transparent	10	4	open	4	b	1	0	0	0		0	0	0								
+Jane	f	young chimps	14	03/11/2018	21	1	transparent	11	4	baited	4	b	1	0	0	0		0	0	0								
+Jane	f	young chimps	14	03/11/2018	21	1	transparent	12	2	mixed	2	lb	0	0	0	0		0	0	0								
+Jane	f	young chimps	14	03/11/2018	21	1	opaque	1	4	open	4	b	1	0	1	1		0	1	1								
+Jane	f	young chimps	14	03/11/2018	21	1	opaque	2	4	baited	4	lb	0	0	1	1		0	1	1								
+Jane	f	young chimps	14	03/11/2018	21	1	opaque	3	2	mixed	2	lb	0	0	1	1		0	1	1								
+Jane	f	young chimps	14	03/11/2018	21	1	opaque	4	3	open	3	e	0	0	0	0		0	0	0								
+Jane	f	young chimps	14	03/11/2018	21	1	opaque	5	2	mixed	2	lb	0	0	0	0		0	0	0								
+Jane	f	young chimps	14	03/11/2018	21	1	opaque	6	1	baited	1	b	1	0	0	0		0	0	0								
+Jane	f	young chimps	14	04/11/2018	21	2	opaque	7	3	mixed	3	b	1	0	1	1	1	0	0	0	ate leftover food from previous subject	03:02						
+Jane	f	young chimps	14	04/11/2018	21	2	opaque	8	1	open	2	e	0	0	0	0		0	0	0								
+Jane	f	young chimps	14	04/11/2018	21	2	opaque	9	2	baited	2	b	1	0	0	0		0	0	0								
+Jane	f	young chimps	14	04/11/2018	21	2	opaque	10	4	mixed	1	e	0	0	0	0		0	0	0								
+Jane	f	young chimps	14	04/11/2018	21	2	opaque	11	3	baited	1	lb	0	0	0	0		0	0	0								
+Jane	f	young chimps	14	04/11/2018	21	2	opaque	12	2	open	1	e	0	0	0	0		0	0	0								
+Amizero	f	young chimps	29	03/11/2018	21	1	transparent	1	1	open	1	b	1	0	0	0		0	0	0								
+Amizero	f	young chimps	29	03/11/2018	21	1	transparent	2	4	mixed	3	lb	0	0	0	0		0	0	0								
+Amizero	f	young chimps	29	03/11/2018	21	1	transparent	3	4	baited	2	lb	0	0	0	0		0	0	0								
+Amizero	f	young chimps	29	03/11/2018	21	1	transparent	4	4	open	4	b	1	0	0	0		0	0	0								
+Amizero	f	young chimps	29	03/11/2018	21	1	transparent	5	3	baited	3	b	1	0	0	0		0	0	0								
+Amizero	f	young chimps	29	03/11/2018	21	1	transparent	6	2	mixed	2	b	1	0	0	0		0	0	0								
+Amizero	f	young chimps	29	03/11/2018	21	1	transparent	7	2	baited	3	lb	0	0	0	0		0	0	0								
+Amizero	f	young chimps	29	03/11/2018	21	1	transparent	8	3	open	3	b	1	0	0	0		0	0	0								
+Amizero	f	young chimps	29	03/11/2018	21	1	transparent	9	2	mixed	2	b	1	0	0	0		0	0	0								
+Amizero	f	young chimps	29	03/11/2018	21	1	transparent	10	1	baited	4	lb	0	0	0	0		0	0	0								
+Amizero	f	young chimps	29	03/11/2018	21	1	transparent	11	4	mixed	4	b	1	0	0	0		0	0	0								
+Amizero	f	young chimps	29	03/11/2018	21	1	transparent	12	2	open	2	b	1	0	0	0		0	0	0								
+Amizero	f	young chimps	29	03/11/2018	21	1	opaque	1	4	mixed	2	lb	0	0	0	0		0	0	0								
+Amizero	f	young chimps	29	03/11/2018	21	1	opaque	2	2	baited	2	b	1	0	0	0		0	0	0								
+Amizero	f	young chimps	29	03/11/2018	21	1	opaque	3	3	open	3	b	1	0	0	0		0	0	0								
+Amizero	f	young chimps	29	03/11/2018	21	1	opaque	4	3	baited	2	lb	0	0	0	0		0	0	0								
+Amizero	f	young chimps	29	03/11/2018	21	1	opaque	5	2	mixed	2	b	1	0	0	0		0	0	0								
+Amizero	f	young chimps	29	03/11/2018	21	1	opaque	6	2	open	2	b	1	0	0	0		0	0	0								
+Amizero	f	young chimps	29	04/11/2018	21	2	opaque	7	3	mixed	3	b	1	0	0	0		0	0	0								
+Amizero	f	young chimps	29	04/11/2018	21	2	opaque	8	1	open	3	e	0	0	0	0		0	0	0								
+Amizero	f	young chimps	29	04/11/2018	21	2	opaque	9	1	baited	1	b	1	0	0	0		0	0	0	corrected from video							
+Amizero	f	young chimps	29	04/11/2018	21	2	opaque	10	4	open	3	e	0	0	0	0		0	0	0								
+Amizero	f	young chimps	29	04/11/2018	21	2	opaque	11	3	mixed	4	e	0	0	0	0		0	0	0								
+Amizero	f	young chimps	29	04/11/2018	21	2	opaque	12	4	baited	3	lb	0	0	0	0		0	0	0								
+Tess	f	young chimps	26	03/11/2018	21	1	transparent	1	3	baited	4	lb	0	0	0	0		0	0	0	food fell out closed cylinder							
+Tess	f	young chimps	26	03/11/2018	21	1	transparent	2	1	open	1	b	1	0	0	0		0	0	0								
+Tess	f	young chimps	26	03/11/2018	21	1	transparent	3	1	mixed	1	b	1	0	0	0		0	0	0								
+Tess	f	young chimps	26	03/11/2018	21	1	transparent	4	2	baited	2	b	1	0	0	0		0	0	0								
+Tess	f	young chimps	26	03/11/2018	21	1	transparent	5	3	mixed	3	b	1	0	0	0		0	0	0								
+Tess	f	young chimps	26	03/11/2018	21	1	transparent	6	2	open	2	b	1	0	0	0		0	0	0								
+Tess	f	young chimps	26	03/11/2018	21	1	transparent	7	2	mixed	1	lb	0	0	0	0		0	0	0								
+Tess	f	young chimps	26	03/11/2018	21	1	transparent	8	3	open	3	b	1	0	0	0		0	0	0								
+Tess	f	young chimps	26	03/11/2018	21	1	transparent	9	1	baited	2	lb	0	0	0	0		0	0	0								
+Tess	f	young chimps	26	03/11/2018	21	1	transparent	10	4	open	3	e	0	0	0	0		0	0	0								
+Tess	f	young chimps	26	03/11/2018	21	1	transparent	11	4	baited	3	lb	0	0	0	0		0	0	0								
+Tess	f	young chimps	26	03/11/2018	21	1	transparent	12	2	mixed	2	b	1	0	0	0		0	0	0								
+Tess	f	young chimps	26	03/11/2018	21	1	opaque	1	4	open	2	e	0	0	0	0		0	0	0								
+Tess	f	young chimps	26	03/11/2018	21	1	opaque	2	4	baited	2	lb	0	0	0	0		0	0	0								
+Tess	f	young chimps	26	03/11/2018	21	1	opaque	3	2	mixed	2	b	1	0	0	0		0	0	0								
+Tess	f	young chimps	26	03/11/2018	21	1	opaque	4	3	open	3	b	1	0	0	0		0	0	0								
+Tess	f	young chimps	26	03/11/2018	21	1	opaque	5	2	mixed	2	b	1	0	0	0		0	0	0								
+Tess	f	young chimps	26	03/11/2018	21	1	opaque	6	1	baited	1	b	1	0	0	0		0	0	0								
+Tess	f	young chimps	26	04/11/2018	21	2	opaque	7	3	mixed	3	b	1	0	0	0		0	0	0								
+Tess	f	young chimps	26	04/11/2018	21	2	opaque	8	1	open	1	b	1	0	0	0		0	0	0								
+Tess	f	young chimps	26	04/11/2018	21	2	opaque	9	2	baited	2	b	1	1	0	1	1	0	0	0	04:11							
+Tess	f	young chimps	26	04/11/2018	21	2	opaque	10	4	mixed	2	lb	0	0	0	0		0	0	0								
+Tess	f	young chimps	26	04/11/2018	21	2	opaque	11	3	baited	3	b	1	0	0	0		0	0	0								
+Tess	f	young chimps	26	04/11/2018	21	2	opaque	12	2	open	4	e	0	0	0	0		0	0	0								
+Mwanzo	f	old chimps	22	05/11/2018	19	1	transparent	1	2	mixed	1	lb	0	0	0	0		0	0	0								
+Mwanzo	f	old chimps	22	05/11/2018	19	1	transparent	2	4	open	4	b	1	0	0	0		0	0	0	chose 2 first							
+Mwanzo	f	old chimps	22	05/11/2018	19	1	transparent	3	2	baited	3	lb	0	0	0	0		0	0	0								
+Mwanzo	f	old chimps	22	05/11/2018	19	1	transparent	4	1	open	3	e	0	0	0	0		0	0	0	chose correct cup on the first table							
+Mwanzo	f	old chimps	22	05/11/2018	19	1	transparent	5	2	mixed	3	e	0	0	0	0		0	0	0								
+Mwanzo	f	old chimps	22	05/11/2018	19	1	transparent	6	4	baited	4	b	1	0	0	0		0	0	0	chose 3 lb first							
+Mwanzo	f	old chimps	22	05/11/2018	19	1	transparent	7	4	mixed	4	b	1	0	0	0		0	0	0								
+Mwanzo	f	old chimps	22	05/11/2018	19	1	transparent	8	2	open	2	b	1	0	0	0		0	0	0								
+Mwanzo	f	old chimps	22	05/11/2018	19	1	transparent	9	3	baited	4	lb	0	0	0	0		0	0	0								
+Mwanzo	f	old chimps	22	05/11/2018	19	1	transparent	10	3	open	3	b	1	0	0	0		0	0	0								
+Mwanzo	f	old chimps	22	05/11/2018	19	1	transparent	11	2	mixed	3	l	0	0	0	0		0	0	0								
+Mwanzo	f	old chimps	22	05/11/2018	19	1	transparent	12	1	baited	2	lb	0	0	0	0		0	0	0								
+Mwanzo	f	old chimps	22	05/11/2018	19	1	opaque	1	1	open	3	e	0	0	0	0		0	0	0								
+Mwanzo	f	old chimps	22	05/11/2018	19	1	opaque	2	4	baited	3	lb	0	0	0	0		0	0	0								
+Mwanzo	f	old chimps	22	05/11/2018	19	1	opaque	3	2	mixed	3	l	0	0	0	0		0	0	0								
+Mwanzo	f	old chimps	22	05/11/2018	19	1	opaque	4	2	open	2	b	1	0	0	0		0	0	0								
+Mwanzo	f	old chimps	22	05/11/2018	19	1	opaque	5	4	mixed	2	lb	0	0	0	0		0	0	0								
+Mwanzo	f	old chimps	22	05/11/2018	19	1	opaque	6	3	baited	3	b	1	0	0	0		0	0	0								
+Mwanzo	f	old chimps	22	07/11/2018	19	1	opaque	7	3	mixed	4	lb	0	0	0	0		0	0	0								
+Mwanzo	f	old chimps	22	07/11/2018	19	1	opaque	8	3	open	3	b	1	0	0	0		0	0	0								
+Mwanzo	f	old chimps	22	07/11/2018	19	2	opaque	9	2	baited	3	lb	0	0	0	0		0	0	0								
+Mwanzo	f	old chimps	22	07/11/2018	19	2	opaque	10	2	mixed	1	lb	0	0	0	0		0	0	0								
+Mwanzo	f	old chimps	22	07/11/2018	19	2	opaque	11	1	baited	1	b	1	0	0	0		0	0	0								
+Mwanzo	f	old chimps	22	07/11/2018	19	2	opaque	12	4	open	4	b	1	0	0	0		0	0	0								
+Alikaka	m	old chimps	16	05/11/2018	19	1	transparent	1	2	mixed	1	lb	0	0	0	0		0	0	0								
+Alikaka	m	old chimps	16	05/11/2018	19	1	transparent	2	4	open	4	b	1	0	0	0		0	0	0								
+Alikaka	m	old chimps	16	05/11/2018	19	1	transparent	3	2	baited	1	lb	0	0	0	0		0	0	0								
+Alikaka	m	old chimps	16	05/11/2018	19	1	transparent	4	1	open	1	b	1	0	0	0		0	0	0								
+Alikaka	m	old chimps	16	05/11/2018	19	1	transparent	5	2	mixed	1	l	0	0	0	0		0	0	0								
+Alikaka	m	old chimps	16	05/11/2018	19	1	transparent	6	4	baited	4	b	1	0	0	0		0	0	0								
+Alikaka	m	old chimps	16	05/11/2018	19	1	transparent	7	4	mixed	4	b	1	0	0	0		0	0	0								
+Alikaka	m	old chimps	16	05/11/2018	19	1	transparent	8	2	open	1	e	0	0	0	0		0	0	0								
+Alikaka	m	old chimps	16	05/11/2018	19	1	transparent	9	3	baited	4	lb	0	0	0	0		0	0	0								
+Alikaka	m	old chimps	16	05/11/2018	19	1	transparent	10	3	open	1	e	0	0	0	0		0	0	0								
+Alikaka	m	old chimps	16	05/11/2018	19	1	transparent	11	2	mixed	4	lb	0	0	0	0		0	0	0								
+Alikaka	m	old chimps	16	05/11/2018	19	1	transparent	12	1	baited	4	lb	0	0	0	0		0	0	0								
+Alikaka	m	old chimps	16	05/11/2018	19	1	opaque	1	1	open	1	b	1	0	0	0		0	0	0								
+Alikaka	m	old chimps	16	05/11/2018	19	1	opaque	2	4	baited	1	lb	0	0	0	0		0	0	0								
+Alikaka	m	old chimps	16	05/11/2018	19	1	opaque	3	2	mixed	2	b	1	0	0	0		0	0	0								
+Alikaka	m	old chimps	16	05/11/2018	19	1	opaque	4	2	open	1	e	0	0	0	0		0	0	0	peaked before trial							
+Alikaka	m	old chimps	16	07/11/2018	19	1	opaque	5	4	mixed	1	l	0	0	0	0		0	0	0								
+Alikaka	m	old chimps	16	07/11/2018	19	1	opaque	6	3	baited	4	lb	0	0	1	1	1	0	0	0	maybe peak below							
+Alikaka	m	old chimps	16	07/11/2018	19	1	opaque	7	3	mixed	1	l	0	0	0	0		0	0	0								
+Alikaka	m	old chimps	16	07/11/2018	19	1	opaque	8	3	open	1	e	0	0	0	0		0	0	0								
+Alikaka	m	old chimps	16	07/11/2018	19	1	opaque	9	2	baited	1	lb	0	0	0	0		0	0	0								
+Alikaka	m	old chimps	16	07/11/2018	19	1	opaque	10	2	mixed	4	e	0	0	0	0		0	0	0								
+Alikaka	m	old chimps	16	07/11/2018	19	1	opaque	11	1	baited	1	b	1	0	0	0		0	0	0								
+Alikaka	m	old chimps	16	07/11/2018	19	1	opaque	12	4	open	1	e	0	0	0	0		0	0	0								
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	1	4	baited	4	b	1	0	0	0		0	0	0								
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	2	4	mixed	4	b	1	0	0	0		0	0	0								
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	3	3	open	4	e	0	0	0	0		0	0	0								
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	4	3	baited	4	lb	0	1	0	1	1	0	0	0	below bar							
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	5	1	open	1	b	1	0	0	0		0	0	0								
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	6	1	mixed	1	b	1	0	0	0		0	0	0								
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	7	4	open	4	b	1	0	0	0		0	0	0								
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	8	2	baited	4	lb	0	0	0	0		0	0	0								
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	9	2	mixed	4	lb	0	0	0	0		0	0	0								
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	10	2	open	2	b	1	0	0	0		0	0	0								
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	11	2	mixed	3	lb	0	0	0	0		0	0	0								
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	12	1	baited	4	lb	0	1	0	1	1	0	0	0	below bar 							
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	1	3	mixed	4	lb	0	0	1	1	1	0	0	0								
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	2	1	baited	4	lb	0	0	0	0		0	0	0								
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	3	1	open	3	e	0	0	0	0		0	0	0								
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	4	3	baited	4	lb	0	0	0	0		0	0	0								
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	5	4	mixed	3	l	0	0	0	0		0	0	0								
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	6	3	open	4	e	0	0	0	0		0	0	0								
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	7	1	mixed	3	e	0	0	0	0		0	0	0								
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	8	4	open	4	b	1	0	0	0		0	0	0								
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	9	2	baited	4	lb	0	0	0	0		0	0	0								
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	10	2	open	3	e	0	0	0	0		0	0	0								
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	11	4	mixed	4	b	1	0	0	0		0	0	0								
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	12	4	baited	4	b	1	0	0	0		0	0	0								
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	1	2	mixed	1	lb	0	0	0	0		0	0	0	indecisive							
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	2	4	open	4	b	1	0	0	0		0	0	0								
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	3	2	baited	3	lb	0	0	0	0		0	0	0								
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	4	1	open	1	b	1	0	0	0		0	0	0								
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	5	2	mixed	2	b	1	0	0	0		0	0	0								
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	6	4	baited	3	lb	0	0	0	0		0	0	0	indecsive							
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	7	4	mixed	4	b	1	0	0	0		0	0	0	picked 3 first then changed quickly							
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	8	2	open	2	b	1	0	0	0		0	0	0								
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	9	3	baited	3	b	1	0	0	0		0	0	0	indecisive							
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	10	3	open	3	b	1	0	0	0		0	0	0								
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	11	2	mixed	4	lb	0	0	0	0		0	0	0								
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	12	1	baited	4	lb	0	0	0	0		0	0	0	"indecisive, also chose 3 and 1"							
+Edvard	m	old chimps	18	02/11/2018	19	1	opaque	1	1	open	1	b	1	0	0	0	1	0	0	0	looked from side							
+Edvard	m	old chimps	18	02/11/2018	19	1	opaque	2	4	baited	1	lb	0	1	0	1	1	0	0	0	not high enough							
+Edvard	m	old chimps	18	02/11/2018	19	1	opaque	3	2	mixed	1	l	0	0	0	0		0	0	0								
+Edvard	m	old chimps	18	08/11/2018	19	1	opaque	4	2	open	1	e	0	1	0	1	1	0	0	0	"peaked but did not choose -now on video I saw that he chose 2 maybe, thus ended session, repeated trial the next day, there he did not peak"							
+Edvard	m	old chimps	18	08/11/2018	19	1	opaque	5	4	mixed	1	l	0	0	0	0		0	0	0								
+Edvard	m	old chimps	18	08/11/2018	19	1	opaque	6	3	baited	4	lb	0	0	0	0		0	0	0								
+Edvard	m	old chimps	18	08/11/2018	19	1	opaque	7	3	mixed	3	b	1	0	0	0		0	0	0								
+Edvard	m	old chimps	18	08/11/2018	19	1	opaque	8	3	open	1	e	0	0	0	0		0	0	0								
+Edvard	m	old chimps	18	08/11/2018	19	1	opaque	9	2	baited	4	lb	0	0	0	0		0	0	0								
+Edvard	m	old chimps	18	08/11/2018	19	1	opaque	10	2	mixed	1	lb	0	0	0	0		0	0	0								
+Edvard	m	old chimps	18	08/11/2018	19	1	opaque	11	1	baited	4	lb	0	0	0	0		0	0	0								
+Edvard	m	old chimps	18	08/11/2018	19	1	opaque	12	4	open	1	e	0	0	0	0		0	0	0								
+Amahirwe	m	old chimps	20	05/11/2018	19	1	transparent	1	4	baited	1	lb	0	0	0	0		0	0	0								
+Amahirwe	m	old chimps	20	05/11/2018	19	1	transparent	2	4	mixed	1	l	0	0	0	0		0	0	0								
+Amahirwe	m	old chimps	20	05/11/2018	19	1	transparent	3	3	open	3	b	1	0	0	0		0	0	0								
+Amahirwe	m	old chimps	20	05/11/2018	19	1	transparent	4	3	baited	2	lb	0	0	0	0		0	0	0								
+Amahirwe	m	old chimps	20	05/11/2018	19	1	transparent	5	1	open	1	b	1	0	0	0		0	0	0								
+Amahirwe	m	old chimps	20	05/11/2018	19	1	transparent	6	1	mixed	1	b	1	0	0	0		0	0	0								
+Amahirwe	m	old chimps	20	05/11/2018	19	1	transparent	7	4	open	2	e	0	0	0	0		0	0	0								
+Amahirwe	m	old chimps	20	05/11/2018	19	1	transparent	8	2	baited	1	lb	0	0	0	0		0	0	0								
+Amahirwe	m	old chimps	20	05/11/2018	19	1	transparent	9	2	mixed	2	b	1	0	0	0		0	0	0								
+Amahirwe	m	old chimps	20	05/11/2018	19	1	transparent	10	2	open	2	b	1	0	0	0		0	0	0								
+Amahirwe	m	old chimps	20	05/11/2018	19	1	transparent	11	2	mixed	2	b	1	0	0	0		0	0	0								
+Amahirwe	m	old chimps	20	05/11/2018	19	1	transparent	12	1	baited	1	b	1	0	0	0		0	0	0								
+Amahirwe	m	old chimps	20	05/11/2018	19	1	opaque	1	3	mixed	1	l	0	0	0	0		0	0	0								
+Amahirwe	m	old chimps	20	05/11/2018	19	1	opaque	2	1	baited	1	b	1	0	0	0		0	0	0								
+Amahirwe	m	old chimps	20	05/11/2018	19	1	opaque	3	1	open	1	b	1	0	0	0		0	0	0								
+Amahirwe	m	old chimps	20	05/11/2018	19	1	opaque	4	3	baited	1	lb	0	0	0	0		0	0	0								
+Amahirwe	m	old chimps	20	05/11/2018	19	1	opaque	5	4	mixed	2	lb	0	0	0	0		0	0	0								
+Amahirwe	m	old chimps	20	05/11/2018	19	1	opaque	6	3	open	1	e	0	1	0	1		1	0	1								
+Amahirwe	m	old chimps	20	07/11/2018	19	1	opaque	7	1	mixed	1	b	1	0	1	1	1	0	0	0	"from below and side, indecisive"							
+Amahirwe	m	old chimps	20	07/11/2018	19	1	opaque	8	4	open	1	e	0	0	0	0		0	0	0								
+Amahirwe	m	old chimps	20	07/11/2018	19	1	opaque	9	2	baited	1	lb	0	0	0	0		0	0	0								
+Amahirwe	m	old chimps	20	07/11/2018	19	1	opaque	10	2	open	2	b	1	0	0	0		0	0	0								
+Amahirwe	m	old chimps	20	07/11/2018	19	1	opaque	11	4	mixed	2	lb	0	0	0	0		0	0	0								
+Amahirwe	m	old chimps	20	07/11/2018	19	1	opaque	12	4	baited	3	lb	0	0	0	0		0	0	0								
+Julia	f	old chimps	18	08/11/2018	19	1	transparent	1	2	open	3	e	0	0	0	0		0	0	0								
+Julia	f	old chimps	18	08/11/2018	19	1	transparent	2	1	baited	1	b	1	0	0	0		0	0	0								
+Julia	f	old chimps	18	08/11/2018	19	1	transparent	3	2	mixed	3	l	0	0	0	0		0	0	0								
+Julia	f	old chimps	18	08/11/2018	19	1	transparent	4	4	open	1	e	0	0	0	0		0	0	0								
+Julia	f	old chimps	18	08/11/2018	19	1	transparent	5	3	mixed	1	l	0	0	0	0		0	0	0								
+Julia	f	old chimps	18	08/11/2018	19	1	transparent	6	4	baited	4	b	1	0	0	0		0	0	0								
+Julia	f	old chimps	18	08/11/2018	19	1	transparent	7	4	mixed	1	e	0	0	0	0		0	0	0								
+Julia	f	old chimps	18	08/11/2018	19	1	transparent	8	1	open	1	b	1	0	0	0		0	0	0								
+Julia	f	old chimps	18	08/11/2018	19	1	transparent	9	2	baited	1	lb	0	0	0	0		0	0	0								
+Julia	f	old chimps	18	08/11/2018	19	1	transparent	10	1	mixed	1	b	1	0	0	0		0	0	0								
+Julia	f	old chimps	18	08/11/2018	19	1	transparent	11	3	baited	1	lb	0	0	0	0		0	0	0								
+Julia	f	old chimps	18	08/11/2018	19	1	transparent	12	3	open	1	e	0	0	0	0		0	0	0								
+Julia	f	old chimps	18	08/11/2018	19	1	opaque	1	3	baited	4	lb	0	0	0	0		0	0	0	also chose 1?							
+Julia	f	old chimps	18	08/11/2018	19	1	opaque	2	2	open	1	e	0	0	0	0		0	0	0								
+Julia	f	old chimps	18	08/11/2018	19	1	opaque	3	2	mixed	1	e	0	0	0	0		0	0	0								
+Julia	f	old chimps	18	08/11/2018	19	1	opaque	4	4	baited	1	lb	0	0	0	0		0	0	0								
+Julia	f	old chimps	18	08/11/2018	19	1	opaque	5	1	mixed	4	l	0	0	0	0		0	0	0								
+Julia	f	old chimps	18	08/11/2018	19	1	opaque	6	3	open	3	b	1	0	0	0		0	0	0								
+Julia	f	old chimps	18	08/11/2018	19	1	opaque	7	4	mixed	3	lb	0	0	0	0		0	0	0								
+Julia	f	old chimps	18	08/11/2018	19	1	opaque	8	4	open	4	b	1	0	0	0		0	0	0								
+Julia	f	old chimps	18	08/11/2018	19	1	opaque	9	1	baited	3	lb	0	0	0	0		0	0	0								
+Julia	f	old chimps	18	08/11/2018	19	1	opaque	10	1	open	3	e	0	0	0	0		0	0	0								
+Julia	f	old chimps	18	08/11/2018	19	1	opaque	11	2	baited	3	lb	0	0	0	0		0	0	0								
+Julia	f	old chimps	18	08/11/2018	19	1	opaque	12	3	mixed	4	l	0	0	0	0		0	0	0								
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	1	2	baited	3	lb	0	0	0	0		0	0	0								
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	2	2	open	4	e	0	0	0	0		0	0	0								
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	3	4	mixed	4	b	1	0	0	0		0	0	0								
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	4	4	baited	4	b	1	0	0	0		0	0	0								
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	5	3	open	3	b	1	0	0	0		0	0	0								
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	6	1	mixed	1	b	1	0	0	0		0	0	0								
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	7	3	open	3	b	1	0	0	0		0	0	0								
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	8	4	mixed	4	b	1	0	0	0		0	0	0								
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	9	1	baited	4	lb	0	0	0	0		0	0	0								
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	10	1	open	3	e	0	0	0	0		0	0	0								
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	11	3	baited	4	lb	0	0	0	0		0	0	0	could also have been choice for 3							
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	12	2	mixed	3	l	0	0	0	0		0	0	0								
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	1	2	mixed	3	l	0	1	0	1		1	0	1								
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	2	3	open	4	e	0	0	0	0		0	0	0								
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	3	1	baited	3	lb	0	1	0	1		1	0	1								
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	4	4	open	4	b	1	0	0	0		0	0	0								
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	5	4	mixed	4	b	1	1	0	1	1	0	0	0	when occluder was still on table							
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	6	4	baited	4	b	1	0	0	0		0	0	0								
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	7	1	mixed	4	l	0	0	0	0		0	0	0								
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	8	1	open	4	e	0	0	0	0		0	0	0								
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	9	3	baited	3	b	1	0	0	0		0	0	0								
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	10	2	open	4	e	0	0	0	0		0	0	0								
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	11	3	mixed	4	lb	0	0	0	0		0	0	0								
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	12	2	baited	3	lb	0	0	0	0		0	0	0								
+Mary	f	old chimps	15	08/11/2018	19	1	transparent	1	4	baited	1	lb	0	0	0	0		0	0	0								
+Mary	f	old chimps	15	08/11/2018	19	1	transparent	2	4	mixed	2	lb	0	0	0	0		0	0	0								
+Mary	f	old chimps	15	08/11/2018	19	1	transparent	3	3	open	2	e	0	0	0	0		0	0	0								
+Mary	f	old chimps	15	08/11/2018	19	1	transparent	4	3	baited	1	lb	0	0	0	0		0	0	0								
+Mary	f	old chimps	15	08/11/2018	19	1	transparent	5	1	open	1	b	1	1	0	1	1	0	0	0	more because eof excitement							
+Mary	f	old chimps	15	08/11/2018	19	1	transparent	6	1	mixed	2	lb	0	0	0	0		0	0	0								
+Mary	f	old chimps	15	08/11/2018	19	1	transparent	7	4	open	3	e	0	0	0	0		0	0	0								
+Mary	f	old chimps	15	08/11/2018	19	1	transparent	8	2	baited	2	b	1	0	0	0		0	0	0								
+Mary	f	old chimps	15	08/11/2018	19	1	transparent	9	2	mixed	3	e	0	0	0	0		0	0	0								
+Mary	f	old chimps	15	08/11/2018	19	1	transparent	10	2	open	2	b	1	0	0	0		0	0	0								
+Mary	f	old chimps	15	08/11/2018	19	1	transparent	11	2	mixed	3	lb	0	0	0	0		0	0	0								
+Mary	f	old chimps	15	08/11/2018	19	1	transparent	12	1	baited	3	lb	0	1	0	1	1	0	0	0	mor ejumping because of excitement							
+Mary	f	old chimps	15	08/11/2018	19	1	opaque	1	3	mixed	1	l	0	0	0	0		0	0	0								
+Mary	f	old chimps	15	08/11/2018	19	1	opaque	2	1	baited	1	b	1	0	0	0		0	0	0								
+Mary	f	old chimps	15	08/11/2018	19	1	opaque	3	1	open	1	b	1	0	0	0		0	0	0								
+Mary	f	old chimps	15	08/11/2018	19	1	opaque	4	3	baited	1	bl	0	1	0	1	1	0	0	0								
+Mary	f	old chimps	15	08/11/2018	19	1	opaque	5	4	mixed	1	e	0	1	0	1		1	0	1								
+Mary	f	old chimps	15	08/11/2018	19	1	opaque	6	3	open	2	e	0	0	0	0		0	0	0								
+Mary	f	old chimps	15	08/11/2018	19	1	opaque	7	1	mixed	1	b	1	0	0	0		0	0	0								
+Mary	f	old chimps	15	08/11/2018	19	1	opaque	8	4	open	2	e	0	0	0	0		0	0	0								
+Mary	f	old chimps	15	08/11/2018	19	2	opaque	9	2	baited	1	lb	0	0	0	0		0	0	0								
+Mary	f	old chimps	15	08/11/2018	19	2	opaque	10	2	open	2	b	1	0	0	0		0	0	0								
+Mary	f	old chimps	15	08/11/2018	19	2	opaque	11	4	mixed	1	l	0	0	0	0		0	0	0								
+Mary	f	old chimps	15	08/11/2018	19	2	opaque	12	4	baited	2	lb	0	0	0	0		0	0	0								
+Nionkuru	m	young chimps	28	02-Dec-18		1	transparent	1	1	open	1	b	1	0	0	0		0	0	0								
+Nionkuru	m	young chimps	28	02-Dec-18		1	transparent	2	4	mixed	2	l	0	0	0	0		0	0	0								
+Nionkuru	m	young chimps	28	02-Dec-18		1	transparent	3	4	baited	4	b	1	0	0	0		0	0	0								
+Nionkuru	m	young chimps	28	02-Dec-18		1	transparent	4	4	open	4	b	1	0	0	0		0	0	0								
+Nionkuru	m	young chimps	28	02-Dec-18		1	transparent	5	3	baited	4	lb	0	0	0	0		0	0	0								
+Nionkuru	m	young chimps	28	02-Dec-18		1	transparent	6	2	mixed	3	lb	0	0	0	0		0	0	0								
+Nionkuru	m	young chimps	28	02-Dec-18		1	transparent	7	2	baited	3	lb	0	0	0	0		0	0	0	cup 4 fell down so lid opened							
+Nionkuru	m	young chimps	28	02-Dec-18		1	transparent	8	3	open	3	b	1	0	0	0		0	0	0								
+Nionkuru	m	young chimps	28	02-Dec-18		1	transparent	9	2	mixed	2	b	1	0	0	0		0	0	0								
+Nionkuru	m	young chimps	28	02-Dec-18		1	transparent	10	1	baited	3	lb	0	0	0	0		0	0	0								
+Nionkuru	m	young chimps	28	02-Dec-18		1	transparent	11	4	mixed	4	b	1	0	0	0		0	0	0								
+Nionkuru	m	young chimps	28	02-Dec-18		1	transparent	12	2	open	3	e	0	0	0	0		0	0	0								
+Nionkuru	m	young chimps	28	02-Dec-18		1	opaque	1	4	mixed	4	b	1	0	0	0		0	0	0								
+Nionkuru	m	young chimps	28	02-Dec-18		1	opaque	2	2	baited	1	lb	0	0	0	0		0	0	0								
+Nionkuru	m	young chimps	28	02-Dec-18		1	opaque	3	3	open	2	e	0	0	0	0		0	0	0								
+Nionkuru	m	young chimps	28	02-Dec-18		1	opaque	4	3	baited	2	lb	0	0	0	0		0	0	0								
+Nionkuru	m	young chimps	28	02-Dec-18		1	opaque	5	2	mixed	4	lb	0	0	0	0		0	0	0								
+Nionkuru	m	young chimps	28	02-Dec-18		1	opaque	6	2	open	2	b	1	0	0	0		0	0	0								
+Nionkuru	m	young chimps	28	02-Dec-18		1	opaque	7	1	mixed	4	lb	0	0	0	0		0	0	0								
+Nionkuru	m	young chimps	28	02-Dec-18		1	opaque	8	1	open	3	e	0	0	0	0		0	0	0								
+Nionkuru	m	young chimps	28	02-Dec-18		1	opaque	9	1	baited	3	lb	0	0	0	0		0	0	0								
+Nionkuru	m	young chimps	28	02-Dec-18		1	opaque	10	4	open	2	e	0	1	0	1		1	0	1								
+Nionkuru	m	young chimps	28	02-Dec-18		1	opaque	11	3	mixed	3	b	1	0	0	0		0	0	0								
+Nionkuru	m	young chimps	28	02-Dec-18		1	opaque	12	4	baited	3	lb	0	0	0	0		0	0	0								
+Joy	f	young chimps	14	02-Dec-18		1	transparent	1	3	baited	4	lb	0	0	0	0		0	0	0								
+Joy	f	young chimps	14	02-Dec-18		1	transparent	2	1	open	3	e	0	0	0	0		0	0	0								
+Joy	f	young chimps	14	02-Dec-18		1	transparent	3	1	mixed	4	e	0	0	0	0		0	0	0								
+Joy	f	young chimps	14	02-Dec-18		1	transparent	4	2	baited	3	lb	0	0	0	0		0	0	0								
+Joy	f	young chimps	14	02-Dec-18		1	transparent	5	3	mixed	4	lb	0	0	0	0		0	0	0								
+Joy	f	young chimps	14	02-Dec-18		1	transparent	6	2	open	4	e	0	0	0	0		0	0	0								
+Joy	f	young chimps	14	02-Dec-18		1	transparent	7	2	mixed	4	e	0	0	0	0		0	0	0	was sitting on platform when I lifted occluder							
+Joy	f	young chimps	14	02-Dec-18		1	transparent	8	3	open	4	e	0	0	0	0		0	0	0								
+Joy	f	young chimps	14	02-Dec-18		1	transparent	9	1	baited	3	lb	0	0	0	0		0	0	0	was coming over platform							
+Joy	f	young chimps	14	02-Dec-18		1	transparent	10	4	open	4	b	1	0	0	0		0	0	0								
+Joy	f	young chimps	14	02-Dec-18		1	transparent	11	3	baited	4	lb	0	0	0	0		0	0	0								
+Joy	f	young chimps	14	02-Dec-18		1	transparent	12	2	mixed	2	b	1	0	0	0		0	0	0								
+Joy	f	young chimps	14	02-Dec-18		1	opaque	1	4	open	3	e	0	0	0	0		0	0	0								
+Joy	f	young chimps	14	02-Dec-18		1	opaque	2	4	baited	4	b	1	0	0	0		0	0	0								
+Joy	f	young chimps	14	02-Dec-18		1	opaque	3	2	mixed	4	lb	0	0	0	0		0	0	0								
+Joy	f	young chimps	14	02-Dec-18		1	opaque	4	3	open	3	b	1	0	0	0		0	0	0								
+Joy	f	young chimps	14	02-Dec-18		1	opaque	5	2	mixed	4	e	0	0	0	0		0	0	0								
+Joy	f	young chimps	14	02-Dec-18		1	opaque	6	1	baited	3	lb	0	0	0	0		0	0	0								
+Joy	f	young chimps	14	03-Dec-18		2	opaque	7	3	mixed	4	l	0	0	0	0		0	0	0								
+Joy	f	young chimps	14	03-Dec-18		2	opaque	8	1	open	3	e	0	0	0	0		0	0	0								
+Joy	f	young chimps	14	03-Dec-18		2	opaque	9	2	baited	4	lb	0	0	0	0		0	0	0								
+Joy	f	young chimps	14	03-Dec-18		2	opaque	10	4	mixed	3	l	0	0	0	0		0	0	0								
+Joy	f	young chimps	14	03-Dec-18		2	opaque	11	3	baited	4	lb	0	0	0	0		0	0	0								
+Joy	f	young chimps	14	03-Dec-18		2	opaque	12	2	open	4	e	0	0	0	0		0	0	0								
+Bahati	f	young chimps	25	02-Dec-18		1	transparent	1	1	open	1	b	1	0	0	0		0	0	0								
+Bahati	f	young chimps	25	02-Dec-18		1	transparent	2	4	mixed	3	lb	0	0	0	0		0	0	0								
+Bahati	f	young chimps	25	02-Dec-18		1	transparent	3	4	baited	3	lb	0	0	0	0		0	0	0								
+Bahati	f	young chimps	25	02-Dec-18		1	transparent	4	4	open	1	e	0	0	0	0		0	0	0								
+Bahati	f	young chimps	25	02-Dec-18		1	transparent	5	3	baited	4	lb	0	0	0	0		0	0	0								
+Bahati	f	young chimps	25	02-Dec-18		1	transparent	6	2	mixed	3	lb	0	0	0	0		0	0	0								
+Bahati	f	young chimps	25	02-Dec-18		1	transparent	7	2	baited	3	lb	0	0	0	0		0	0	0								
+Bahati	f	young chimps	25	02-Dec-18		1	transparent	8	3	open	4	e	0	0	0	0		0	0	0								
+Bahati	f	young chimps	25	02-Dec-18		1	transparent	9	2	mixed	4	l	0	0	0	0		0	0	0								
+Bahati	f	young chimps	25	02-Dec-18		1	transparent	10	1	baited	4	lb	0	0	0	0		0	0	0								
+Bahati	f	young chimps	25	02-Dec-18		1	transparent	11	4	mixed	4	b	1	0	0	0		0	0	0								
+Bahati	f	young chimps	25	02-Dec-18		1	transparent	12	2	open	3	e	0	0	0	0		0	0	0								
+Bahati	f	young chimps	25	02-Dec-18		1	opaque	1	4	mixed	2	lb	0	0	0	0		0	0	0								
+Bahati	f	young chimps	25	02-Dec-18		1	opaque	2	2	baited	4	lb	0	0	0	0		0	0	0								
+Bahati	f	young chimps	25	02-Dec-18		1	opaque	3	3	open	4	e	0	0	0	0		0	0	0								
+Bahati	f	young chimps	25	02-Dec-18		1	opaque	4	3	baited	3	b	1	0	0	0		0	0	0								
+Bahati	f	young chimps	25	02-Dec-18		1	opaque	5	2	mixed	4	lb	0	0	1	1	1	0	0	0	Kopfstand							
+Bahati	f	young chimps	25	02-Dec-18		1	opaque	6	2	open	4	e	0	0	0	0		0	0	0								
+Bahati	f	young chimps	25	02-Dec-18		1	opaque	7	1	mixed	2	l	0	0	0	0		0	0	0								
+Bahati	f	young chimps	25	02-Dec-18		1	opaque	8	1	open	3	e	0	0	0	0		0	0	0								
+Bahati	f	young chimps	25	02-Dec-18		1	opaque	9	1	baited	3	lb	0	0	0	0		0	0	0								
+Bahati	f	young chimps	25	02-Dec-18		1	opaque	10	4	open	4	b	1	0	1	1	1	0	0	0	Kopfstand							
+Bahati	f	young chimps	25	02-Dec-18		1	opaque	11	3	mixed	4	l	0	0	0	0		0	0	0								
+Bahati	f	young chimps	25	02-Dec-18		1	opaque	12	4	baited	4	lb	0	0	0	0		0	0	0								
+Dufa	f	young chimps	27	02-Dec-18		1	transparent	1	3	baited	2	lb	0	0	0	0		0	0	0								
+Dufa	f	young chimps	27	02-Dec-18		1	transparent	2	1	open	2	e	0	0	0	0		0	0	0								
+Dufa	f	young chimps	27	02-Dec-18		1	transparent	3	1	mixed	2	l	0	0	0	0		0	0	0								
+Dufa	f	young chimps	27	02-Dec-18		1	transparent	4	2	baited	1	lb	0	0	0	0		0	0	0								
+Dufa	f	young chimps	27	02-Dec-18		1	transparent	5	3	mixed	1	e	0	0	0	0		0	0	0								
+Dufa	f	young chimps	27	02-Dec-18		1	transparent	6	2	open	2	b	1	0	0	0		0	0	0								
+Dufa	f	young chimps	27	02-Dec-18		1	transparent	7	2	mixed	1	lb	0	0	0	0		0	0	0	was sitting on platform when I lifted occluder							
+Dufa	f	young chimps	27	02-Dec-18		1	transparent	8	3	open	2	e	0	0	0	0		0	0	0								
+Dufa	f	young chimps	27	02-Dec-18		1	transparent	9	1	baited	3	lb	0	0	0	0		0	0	0	was coming over platform							
+Dufa	f	young chimps	27	02-Dec-18		1	transparent	10	4	open	2	e	0	0	0	0		0	0	0								
+Dufa	f	young chimps	27	02-Dec-18		1	transparent	11	3	baited	1	lb	0	0	0	0		0	0	0								
+Dufa	f	young chimps	27	02-Dec-18		1	transparent	12	2	mixed	3	e	0	0	0	0		0	0	0								
+Dufa	f	young chimps	27	02-Dec-18		1	opaque	1	4	open	4	b	1	0	0	0		0	0	0								
+Dufa	f	young chimps	27	02-Dec-18		1	opaque	2	4	baited	4	b	1	0	0	0		0	0	0								
+Dufa	f	young chimps	27	02-Dec-18		1	opaque	3	2	mixed	3	e	0	0	0	0		0	0	0								
+Dufa	f	young chimps	27	02-Dec-18		1	opaque	4	3	open	4	e	0	1	0	1	1	0	0	0	npt high enough							
+Dufa	f	young chimps	27	02-Dec-18		1	opaque	5	2	mixed	2	b	1	1	0	1		1	0	1								
+Dufa	f	young chimps	27	02-Dec-18		1	opaque	6	1	baited	3	lb	0	1	0	1	1	0	0	0	looked out of the window							
+Dufa	f	young chimps	27	03-Dec-18		2	opaque	7	3	mixed	3	b	1	0	0	0		0	0	0								
+Dufa	f	young chimps	27	03-Dec-18		2	opaque	8	1	open	1	b	1	0	0	0		0	0	0								
+Dufa	f	young chimps	27	03-Dec-18		2	opaque	9	2	baited	2	b	1	1	0	1	1	0	0	0	looked out of the window							
+Dufa	f	young chimps	27	03-Dec-18		2	opaque	10	4	mixed	2	lb	0	0	0	0		0	0	0								
+Dufa	f	young chimps	27	03-Dec-18		2	opaque	11	3	baited	2	lb	0	1	0	1	1	0	0	0	looked out of the window							
+Dufa	f	young chimps	27	03-Dec-18		2	opaque	12	2	open	4	e	0	1	0	1		1	0	1								
+Kisa	m	young chimps	25	05-Dec-18		1	transparent	1	4	baited	4	lb	0	0	0	0		0	0	0	was standing up when I lifted occluder							
+Kisa	m	young chimps	25	05-Dec-18		1	transparent	2	2	open	3	e	0	0	0	0		0	0	0	was standing up when I lifted occluder							
+Kisa	m	young chimps	25	05-Dec-18		1	transparent	3	4	mixed	4	b	1	0	0	0		0	0	0								
+Kisa	m	young chimps	25	05-Dec-18		1	transparent	4	4	baited	4	b	1	0	0	0		0	0	0								
+Kisa	m	young chimps	25	05-Dec-18		1	transparent	5	3	open	3	b	1	0	0	0		0	0	0								
+Kisa	m	young chimps	25	05-Dec-18		1	transparent	6	1	mixed	4	b	1	0	0	0		0	0	0								
+Kisa	m	young chimps	25	05-Dec-18		1	transparent	7	1	open	1	b	1	0	0	0		0	0	0								
+Kisa	m	young chimps	25	05-Dec-18		1	transparent	8	4	mixed	1	b	1	0	0	0		0	0	0								
+Kisa	m	young chimps	25	05-Dec-18		1	transparent	9	1	baited	4	lb	0	0	0	0		0	0	0								
+Kisa	m	young chimps	25	05-Dec-18		1	transparent	10	1	open	1	b	1	0	0	0		0	0	0								
+Kisa	m	young chimps	25	05-Dec-18		1	transparent	11	3	baited	4	lb	0	0	0	0		0	0	0								
+Kisa	m	young chimps	25	05-Dec-18		1	transparent	12	2	mixed	2	b	1	0	0	0		0	0	0								
+Kisa	m	young chimps	25	05-Dec-18		1	opaque	1	2	mixed	3	l	0	0	0	0		0	0	0								
+Kisa	m	young chimps	25	05-Dec-18		1	opaque	2	3	open	3	b	1	1	0	1	1	0	0	0	"not high enough, licking bars"							
+Kisa	m	young chimps	25	05-Dec-18		1	opaque	3	1	baited	3	lb	0	0	0	0		0	0	0	stood up after choice							
+Kisa	m	young chimps	25	05-Dec-18		1	opaque	4	4	open	3	e	0	1	0	1	1	0	0	0	was standing when I lifted occluder							
+Kisa	m	young chimps	25	05-Dec-18		1	opaque	5	4	mixed	4	b	1	0	0	0		0	0	0								
+Kisa	m	young chimps	25	05-Dec-18		1	opaque	6	4	baited	4	lb	0	0	0	0		0	0	0								
+Kisa	m	young chimps	25	05-Dec-18		1	opaque	7	1	mixed	3	e	0	0	0	0		0	0	0								
+Kisa	m	young chimps	25	05-Dec-18		1	opaque	8	1	open	4	e	0	0	0	0		0	0	0								
+Kisa	m	young chimps	25	05-Dec-18		1	opaque	9	3	baited	2	lb	0	0	0	0		0	0	0								
+Kisa	m	young chimps	25	05-Dec-18		1	opaque	10	2	open	4	e	0	0	0	0		0	0	0								
+Kisa	m	young chimps	25	05-Dec-18		1	opaque	11	3	mixed	4	e	0	1	0	1	1	0	0	0	peak while choosing??							
+Kisa	m	young chimps	25	05-Dec-18		1	opaque	12	2	baited	3	lb	0	0	0	0		0	0	0								
+Akela	f	young chimps	30	05-Dec-18		1	transparent	1	2	open	2	b	1	0	0	0		0	0	0								
+Akela	f	young chimps	30	05-Dec-18		1	transparent	2	1	baited	4	lb	0	0	0	0		0	0	0								
+Akela	f	young chimps	30	05-Dec-18		1	transparent	3	4	mixed	4	b	1	0	0	0		0	0	0								
+Akela	f	young chimps	30	05-Dec-18		1	transparent	4	4	open	4	b	1	0	0	0		0	0	0								
+Akela	f	young chimps	30	05-Dec-18		1	transparent	5	3	mixed	4	lb	0	0	0	0		0	0	0								
+Akela	f	young chimps	30	05-Dec-18		1	transparent	6	4	baited	3	lb	0	0	0	0		0	0	0								
+Akela	f	young chimps	30	05-Dec-18		1	transparent	7	4	mixed	4	b	1	0	0	0		0	0	0								
+Akela	f	young chimps	30	05-Dec-18		1	transparent	8	1	open	1	b	1	0	0	0		0	0	0								
+Akela	f	young chimps	30	05-Dec-18		1	transparent	9	2	baited	4	lb	0	0	0	0		0	0	0								
+Akela	f	young chimps	30	05-Dec-18		1	transparent	10	1	mixed	4	lb	0	0	0	0		0	0	0								
+Akela	f	young chimps	30	05-Dec-18		1	transparent	11	3	baited	4	lb	0	0	0	0		0	0	0								
+Akela	f	young chimps	30	05-Dec-18		1	transparent	12	3	open	3	b	1	0	0	0		0	0	0								
+Akela	f	young chimps	30	05-Dec-18		1	opaque	1	3	baited	4	lb	0	0	0	0		0	0	0								
+Akela	f	young chimps	30	05-Dec-18		1	opaque	2	2	open	4	e	0	0	0	0		0	0	0								
+Akela	f	young chimps	30	05-Dec-18		1	opaque	3	2	mixed	4	lb	0	0	0	0		0	0	0								
+Akela	f	young chimps	30	05-Dec-18		1	opaque	4	4	baited	4	b	1	0	0	0		0	0	0								
+Akela	f	young chimps	30	05-Dec-18		1	opaque	5	1	mixed	4	l	0	0	0	0		0	0	0								
+Akela	f	young chimps	30	05-Dec-18		1	opaque	6	3	open	4	e	0	0	0	0		0	0	0								
+Akela	f	young chimps	30	05-Dec-18		1	opaque	7	4	mixed	4	b	1	0	0	0		0	0	0								
+Akela	f	young chimps	30	05-Dec-18		1	opaque	8	4	open	4	b	1	0	0	0		0	0	0								
+Akela	f	young chimps	30	05-Dec-18		1	opaque	9	1	baited	4	lb	0	0	0	0		0	0	0								
+Akela	f	young chimps	30	05-Dec-18		1	opaque	10	1	open	3	e	0	1	0	1	1	0	0	0	climed up							
+Akela	f	young chimps	30	05-Dec-18		1	opaque	11	2	baited	4	lb	0	1	0	1	1	0	0	0	climed up							
+Akela	f	young chimps	30	05-Dec-18		1	opaque	12	3	mixed	4	l	0	0	0	0		0	0	0								
+Oscar	m	old chimps	21	10/12/2018	21	1	transparent	1	2	baited	2	b	1	0	0	0		0	0	0								
+Oscar	m	old chimps	21	10/12/2018	21	1	transparent	2	2	open	2	b	1	0	0	0		0	0	0								
+Oscar	m	old chimps	21	10/12/2018	21	1	transparent	3	4	mixed	2	lb	0	0	0	0		0	0	0								
+Oscar	m	old chimps	21	10/12/2018	21	1	transparent	4	4	baited	2	lb	0	0	0	0		0	0	0								
+Oscar	m	old chimps	21	10/12/2018	21	1	transparent	5	3	open	2	e	0	0	0	0		0	0	0								
+Oscar	m	old chimps	21	10/12/2018	21	1	transparent	6	1	mixed	1	b	1	0	0	0		0	0	0								
+Oscar	m	old chimps	21	10/12/2018	21	1	transparent	7	3	open	3	e	0	0	0	0		0	0	0								
+Oscar	m	old chimps	21	10/12/2018	21	1	transparent	8	3	mixed	2	e	0	0	0	0		0	0	0								
+Oscar	m	old chimps	21	10/12/2018	21	1	transparent	9	1	baited	2	lb	0	0	0	0		0	0	0								
+Oscar	m	old chimps	21	10/12/2018	21	1	transparent	10	1	open	1	b	1	0	0	0		0	0	0								
+Oscar	m	old chimps	21	10/12/2018	21	1	transparent	11	3	baited	1	lb	0	0	0	0		0	0	0								
+Oscar	m	old chimps	21	10/12/2018	21	1	transparent	12	2	mixed	2	b	1	0	0	0		0	0	0								
+Oscar	m	old chimps	21	10/12/2018	21	1	opaque	1	2	mixed	3	l	0	0	0	0		0	0	0								
+Oscar	m	old chimps	21	10/12/2018	21	1	opaque	2	2	open	3	b	1	0	0	0		0	0	0								
+Oscar	m	old chimps	21	10/12/2018	21	1	opaque	3	1	baited	3	lb	0	0	0	0		0	0	0								
+Oscar	m	old chimps	21	10/12/2018	21	1	opaque	4	4	open	3	e	0	0	0	0		0	0	0								
+Oscar	m	old chimps	21	10/12/2018	21	1	opaque	5	4	mixed	3	lb	0	0	0	0		0	0	0								
+Oscar	m	old chimps	21	10/12/2018	21	1	opaque	6	4	baited	3	lb	0	0	0	0		0	0	0								
+Oscar	m	old chimps	21	11/12/2018	21	2	opaque	7	1	mixed	2	lb	0	0	0	0		0	0	0								
+Oscar	m	old chimps	21	11/12/2018	21	2	opaque	8	3	open	2	e	0	0	0	0		0	0	0								
+Oscar	m	old chimps	21	11/12/2018	21	2	opaque	9	4	mixed	2	e	0	0	0	0		0	0	0								
+Oscar	m	old chimps	21	11/12/2018	21	2	opaque	10	4	open	2	e	0	0	0	0		0	0	0								
+Oscar	m	old chimps	21	11/12/2018	21	2	opaque	11	1	baited	1	b	1	0	0	0		0	0	0								
+Oscar	m	old chimps	21	11/12/2018	21	2	opaque	12	1	open	1	b	1	0	0	0		0	0	0								
+Safari	m	old chimps	34	10/12/2018	21	1	transparent	1	4	baited	3	lb	0	0	1	1	1	0	0	0								
+Safari	m	old chimps	34	10/12/2018	21	1	transparent	2	4	mixed	2	lb	0	0	0	0		0	0	0								
+Safari	m	old chimps	34	10/12/2018	21	1	transparent	3	3	open	4	e	0	0	0	0		0	0	0	"did not approach platform in 5 min after this trial, session stopped"							
+Safari	m	old chimps	34	11/12/2018	21	1	transparent	4	3	baited	2	lb	0	0	1	1	1	0	0	0								
+Safari	m	old chimps	34	11/12/2018	21	1	transparent	5	1	open	1	b	1	0	0	0		0	0	0	"did not approach platform in 5 min after this trial, session stopped"							
+Judy	f	old chimps	35	11/12/2018	21	1	transparent	1	2	baited	2	b	1	0	0	0		0	0	0								
+Judy	f	old chimps	35	11/12/2018	21	1	transparent	2	2	open	2	b	1	0	0	0		0	0	0								
+Judy	f	old chimps	35	11/12/2018	21	1	transparent	3	4	mixed	3	e	0	0	0	0		0	0	0								
+Judy	f	old chimps	35	11/12/2018	21	1	transparent	4	4	baited	3	l	0	0	0	0		0	0	0								
+Judy	f	old chimps	35	11/12/2018	21	1	transparent	5	3	open	3	b	1	0	0	0		0	0	0								
+Judy	f	old chimps	35	11/12/2018	21	1	transparent	6	1	mixed	2	lb	0	0	0	0		0	0	0								
+Judy	f	old chimps	35	12/12/2018	21	1	transparent	7	4	open	4	b	1	0	0	0		0	0	0								
+Judy	f	old chimps	35	12/12/2018	21	1	transparent	8	4	mixed	4	b	1	0	0	0		0	0	0								
+Judy	f	old chimps	35	12/12/2018	21	1	transparent	9	1	baited	4	b	1	0	0	0		0	0	0								
+Judy	f	old chimps	35	12/12/2018	21	1	transparent	10	1	open	3	e	0	0	0	0		0	0	0								
+Judy	f	old chimps	35	12/12/2018	21	1	transparent	11	3	baited	3	b	1	0	0	0		0	0	0								
+Judy	f	old chimps	35	12/12/2018	21	1	transparent	12	2	mixed	1	lb	0	0	0	0		0	0	0								
+Judy	f	old chimps	35	12/12/2018	21	1	opaque	1	2	mixed	1	lb	0	0	0	0		0	0	0								
+Judy	f	old chimps	35	12/12/2018	21	1	opaque	2	3	open	3	b	1	0	0	0		0	0	0								
+Judy	f	old chimps	35	12/12/2018	21	1	opaque	3	1	baited	3	lb	0	0	0	0		0	0	0								
+Judy	f	old chimps	35	12/12/2018	21	1	opaque	4	4	open	3	e	0	0	0	0		0	0	0								
+Judy	f	old chimps	35	12/12/2018	21	1	opaque	5	4	mixed	1	e	0	0	0	0		0	0	0								
+Judy	f	old chimps	35	12/12/2018	21	1	opaque	6	4	baited	1	lb	0	0	0	0		0	0	0								
+Judy	f	old chimps	35	12/12/2018	21	2	opaque	7	1	mixed	1	b	1	0	0	0		0	0	0								
+Judy	f	old chimps	35	12/12/2018	21	2	opaque	8	1	open	2	e	0	0	0	0		0	0	0								
+Judy	f	old chimps	35	12/12/2018	21	2	opaque	9	3	baited	1	lb	0	0	0	0		0	0	0								
+Judy	f	old chimps	35	12/12/2018	21	2	opaque	10	2	open	2	b	1	0	0	0		0	0	0								
+Judy	f	old chimps	35	12/12/2018	21	2	opaque	11	3	mixed	2	e	0	0	0	0		0	0	0								
+Judy	f	old chimps	35	12/12/2018	21	2	opaque	12	2	baited	1	lb	0	0	0	0		0	0	0								
+Alley	f	old chimps	31	11/12/2018	21	1	transparent	1	2	open	1	e	0	0	0	0		0	0	0								
+Alley	f	old chimps	31	11/12/2018	21	1	transparent	2	1	baited	1	b	1	0	0	0		0	0	0								
+Alley	f	old chimps	31	11/12/2018	21	1	transparent	3	2	mixed	2	b	1	0	0	0		0	0	0								
+Alley	f	old chimps	31	11/12/2018	21	1	transparent	4	4	open	2	e	0	0	0	0		0	0	0								
+Alley	f	old chimps	31	11/12/2018	21	1	transparent	5	3	mixed	1	l	0	0	0	0		0	0	0								
+Alley	f	old chimps	31	11/12/2018	21	1	transparent	6	4	baited	1	lb	0	0	0	0		0	0	0								
+Alley	f	old chimps	31	12/12/2018	21	1	transparent	7	4	mixed	2	lb	0	0	0	0		0	0	0								
+Alley	f	old chimps	31	12/12/2018	21	1	transparent	8	1	open	1	b	1	0	0	0		0	0	0								
+Alley	f	old chimps	31	12/12/2018	21	1	transparent	9	2	baited	2	b	1	0	0	0		0	0	0								
+Alley	f	old chimps	31	12/12/2018	21	1	transparent	10	1	mixed	3	e	0	0	0	0		0	0	0								
+Alley	f	old chimps	31	12/12/2018	21	1	transparent	11	3	baited	2	lb	0	0	0	0		0	0	0								
+Alley	f	old chimps	31	12/12/2018	21	1	transparent	12	3	open	3	b	1	0	0	0		0	0	0								
+Alley	f	old chimps	31	12/12/2018	21	1	opaque	1	3	baited	1	lb	0	0	0	0		0	0	0								
+Alley	f	old chimps	31	12/12/2018	21	1	opaque	2	2	open	2	b	1	0	0	0		0	0	0								
+Alley	f	old chimps	31	12/12/2018	21	1	opaque	3	2	mixed	2	b	1	0	0	0		0	0	0								
+Alley	f	old chimps	31	12/12/2018	21	1	opaque	4	4	baited	2	lb	0	0	0	0		0	0	0								
+Alley	f	old chimps	31	12/12/2018	21	1	opaque	5	1	mixed	1	b	1	0	0	0		0	0	0	possibly peeked from the side							
+Alley	f	old chimps	31	12/12/2018	21	1	opaque	6	3	open	2	e	0	0	0	0		0	0	0								
+Alley	f	old chimps	31	12/12/2018	21	2	opaque	7	4	mixed	2	e	0	0	0	0		0	0	0								
+Alley	f	old chimps	31	12/12/2018	21	2	opaque	8	4	open	2	e	0	0	0	0		0	0	0								
+Alley	f	old chimps	31	12/12/2018	21	2	opaque	9	1	baited	2	lb	0	0	0	0		0	0	0								
+Alley	f	old chimps	31	12/12/2018	21	2	opaque	10	1	open	3	e	0	0	0	0		0	0	0								
+Alley	f	old chimps	31	12/12/2018	21	2	opaque	11	2	baited	2	b	1	0	0	0		0	0	0								
+Alley	f	old chimps	31	12/12/2018	21	2	opaque	12	3	mixed	2	e	0	0	0	0		0	0	0								
+Ajabu	f	old chimps	10	11/12/2018	21	1	transparent	1	2	mixed	1	lb	0	0	1	1		0	1	1								
+Ajabu	f	old chimps	10	11/12/2018	21	1	transparent	2	4	open	4	b	1	0	1	1		0	1	1								
+Ajabu	f	old chimps	10	11/12/2018	21	1	transparent	3	2	baited	2	b	1	0	1	1		0	1	1								
+Ajabu	f	old chimps	10	11/12/2018	21	1	transparent	4	1	open	2	e	0	0	1	1		0	1	1	choice corrected from video							
+Ajabu	f	old chimps	10	11/12/2018	21	1	transparent	5	2	mixed	2	b	1	0	1	1		0	1	1								
+Ajabu	f	old chimps	10	11/12/2018	21	1	transparent	6	4	baited	2	b	1	0	1	1		0	1	1								
+Ajabu	f	old chimps	10	11/12/2018	21	1	transparent	7	4	mixed	4	b	1	0	0	0		0	0	0								
+Ajabu	f	old chimps	10	11/12/2018	21	1	transparent	8	2	open	2	b	1	0	1	1		0	1	1								
+Ajabu	f	old chimps	10	11/12/2018	21	1	transparent	9	3	baited	1	lb	0	0	1	1		0	1	1								
+Ajabu	f	old chimps	10	11/12/2018	21	1	transparent	10	3	open	3	b	1	0	1	1		0	1	1								
+Ajabu	f	old chimps	10	11/12/2018	21	1	transparent	11	2	mixed	3	e	0	0	1	1		0	1	1								
+Ajabu	f	old chimps	10	11/12/2018	21	1	transparent	12	1	baited	2	lb	0	0	1	1		0	1	1								
+Ajabu	f	old chimps	10	11/12/2018	21	1	opaque	1	1	open	1	b	1	0	1	1		0	1	1								
+Ajabu	f	old chimps	10	11/12/2018	21	1	opaque	2	4	baited	2	lb	0	1	0	1	1	0	0	0								
+Ajabu	f	old chimps	10	11/12/2018	21	1	opaque	3	2	mixed	4	lb	0	0	1	1	1	0	0	0								
+Ajabu	f	old chimps	10	11/12/2018	21	1	opaque	4	2	open	1	e	0	0	0	0		0	0	0								
+Ajabu	f	old chimps	10	12/12/2018	21	1	opaque	5	4	mixed	2	b	1	0	1	1		0	1	1	good: 1:56							
+Ajabu	f	old chimps	10	12/12/2018	21	1	opaque	6	3	baited	1	lb	0	0	1	1		0	1	1								
+Ajabu	f	old chimps	10	12/12/2018	21	2	opaque	7	3	mixed	2	e	0	0	0	0		0	0	0								
+Ajabu	f	old chimps	10	12/12/2018	21	2	opaque	8	3	open	3	b	1	0	1	1		0	1	1	09:02							
+Ajabu	f	old chimps	10	12/12/2018	21	2	opaque	9	2	baited	2	b	1	0	0	0		0	0	0								
+Ajabu	f	old chimps	10	12/12/2018	21	2	opaque	10	2	mixed	2	b	1	0	1	1		0	1	1	unclear choice							
+Ajabu	f	old chimps	10	12/12/2018	21	2	opaque	11	1	baited	1	b	1	0	1	1		0	1	1								
+Ajabu	f	old chimps	10	12/12/2018	21	2	opaque	12	4	open	2	e	0	1	0	1		1	0	1								
+Angela	f	old chimps	7	11/12/2018	21	1	transparent	1	2	open	1	e	0	1	0	1	1	0	0	0								
+Angela	f	old chimps	7	11/12/2018	21	1	transparent	2	1	baited	1	b	1	0	0	0		0	0	0								
+Angela	f	old chimps	7	11/12/2018	21	1	transparent	3	2	mixed	1	lb	0	0	1	1		0	1	1								
+Angela	f	old chimps	7	11/12/2018	21	1	transparent	4	4	open	2	e	0	0	0	0		0	0	0								
+Angela	f	old chimps	7	11/12/2018	21	1	transparent	5	3	mixed	2	e	0	0	0	0		0	0	0								
+Angela	f	old chimps	7	11/12/2018	21	1	transparent	6	4	baited	1	lb	0	0	0	0		0	0	0								
+Angela	f	old chimps	7	11/12/2018	21	1	transparent	7	4	mixed	2	lb	0	0	0	0		0	0	0								
+Angela	f	old chimps	7	11/12/2018	21	1	transparent	8	1	open	1	b	1	0	0	0		0	0	0								
+Angela	f	old chimps	7	11/12/2018	21	1	transparent	9	2	baited	2	b	1	0	0	0		0	0	0								
+Angela	f	old chimps	7	11/12/2018	21	1	transparent	10	1	mixed	1	b	1	0	0	0		0	0	0								
+Angela	f	old chimps	7	11/12/2018	21	1	transparent	11	3	baited	1	lb	0	0	0	0		0	0	0								
+Angela	f	old chimps	7	11/12/2018	21	1	transparent	12	3	open	1	e	0	0	0	0		0	0	0								
+Angela	f	old chimps	7	11/12/2018	21	1	opaque	1	3	baited	2	lb	0	1	0	1		1	0	1								
+Angela	f	old chimps	7	11/12/2018	21	1	opaque	2	2	open	3	e	0	0	0	0		0	0	0								
+Angela	f	old chimps	7	11/12/2018	21	1	opaque	3	2	mixed	1	e	0	1	0	1		1	0	1								
+Angela	f	old chimps	7	11/12/2018	21	1	opaque	4	4	baited	3	lb	0	0	0	0		0	0	0								
+Angela	f	old chimps	7	12/12/2018	21	1	opaque	5	1	mixed	3	e	0	0	0	0		0	0	0								
+Angela	f	old chimps	7	12/12/2018	21	1	opaque	6	1	open	1	b	1	1	0	1		1	0	1	"climbed very high, food possibly visible from there"							
+Angela	f	old chimps	7	12/12/2018	21	2	opaque	7	3	baited	1	lb	0	0	0	0		0	0	0								
+Angela	f	old chimps	7	12/12/2018	21	2	opaque	8	2	open	1	e	0	1	0	1	1	0	0	0								
+Angela	f	old chimps	7	12/12/2018	21	2	opaque	9	3	mixed	1	lb	0	0	0	0		0	0	0								
+Angela	f	old chimps	7	12/12/2018	21	2	opaque	10	2	baited	2	b	1	1	0	1		1	0	1								
+Angela	f	old chimps	7	12/12/2018	21	2	opaque	11	1	mixed	2	lb	0	0	0	0		0	0	0								
+Angela	f	old chimps	7	12/12/2018	21	2	opaque	12	3	open	3	b	1	1	0	1		1	0	1	"climbed very high, food possibly visible from there"							

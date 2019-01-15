@@ -1,0 +1,898 @@
+Subject	Sex	Group	Age	Date	Day	Session	Condition	Condition2	food_top	food_below	trial_number	position_correct	baiting	chosen_cup_POS	chosen_cup	correct	peek_above	peek_below	peeking	unclear	peek_above.s	peek_below.s	peeking.s	Comment	Comment2
+William	m	young chimps	18	28/10/2018	19	1	transparent	transparent	peanut	apple	1	2	Bottom	1	t	0	0	0	0		0	0	0		
+William	m	young chimps	18	28/10/2018	19	1	transparent	transparent	peanut	apple	2	1	Top	1	d	1	0	0	0		0	0	0		
+William	m	young chimps	18	28/10/2018	19	1	transparent	transparent	peanut	apple	3	3	All	3	d	1	0	0	0		0	0	0		
+William	m	young chimps	18	28/10/2018	19	1	transparent	transparent	peanut	apple	4	2	None	1	b	0	0	0	0		0	0	0		
+William	m	young chimps	18	28/10/2018	19	1	transparent	transparent	peanut	apple	5	3	Top	3	d	1	0	0	0		0	0	0		
+William	m	young chimps	18	28/10/2018	19	1	transparent	transparent	peanut	apple	6	1	All	3	b	0	0	0	0		0	0	0		
+William	m	young chimps	18	28/10/2018	19	1	transparent	transparent	peanut	apple	7	1	Bottom	2	b	0	0	0	0		0	0	0	choice corrected from video	
+William	m	young chimps	18	28/10/2018	19	1	transparent	transparent	peanut	apple	8	3	None	2	b	0	0	0	0		0	0	0		
+William	m	young chimps	18	28/10/2018	19	1	transparent	transparent	peanut	apple	9	2	All	2	d	1	0	0	0		0	0	0		
+William	m	young chimps	18	28/10/2018	19	1	transparent	transparent	peanut	apple	10	3	Bottom	1	b	0	0	0	0		0	0	0		
+William	m	young chimps	18	28/10/2018	19	1	transparent	transparent	peanut	apple	11	1	None	1	d	1	0	0	0		0	0	0		
+William	m	young chimps	18	28/10/2018	19	1	transparent	transparent	peanut	apple	12	2	Top	1	b	0	0	0	0		0	0	0		
+William	m	young chimps	18	28/10/2018	19	1	transparent	transparent	peanut	apple	13	3	None	1	b	0	0	0	0		0	0	0		
+William	m	young chimps	18	28/10/2018	19	1	transparent	transparent	peanut	apple	14	2	All	2	d	1	0	0	0		0	0	0		
+William	m	young chimps	18	28/10/2018	19	1	transparent	transparent	peanut	apple	15	3	Bottom	2	b	0	0	0	0		0	0	0		
+William	m	young chimps	18	28/10/2018	19	1	transparent	transparent	peanut	apple	16	1	Top	1	d	1	0	0	0		0	0	0		
+William	m	young chimps	18	28/10/2018	19	1	opaque	opaque	peanut	apple	1	2	Top	1	b	0	0	0	0		0	0	0		
+William	m	young chimps	18	28/10/2018	19	1	opaque	opaque	peanut	apple	2	3	None	1	t	0	0	0	0		0	0	0		
+William	m	young chimps	18	28/10/2018	19	1	opaque	opaque	peanut	apple	3	1	Bottom	3	b	0	0	0	0		0	0	0		
+William	m	young chimps	18	28/10/2018	19	1	opaque	opaque	peanut	apple	4	1	All	1	d	1	0	0	0		0	0	0		
+William	m	young chimps	18	28/10/2018	19	1	opaque	opaque	peanut	apple	5	2	None	1	t	0	0	0	0		0	0	0		
+William	m	young chimps	18	28/10/2018	19	1	opaque	opaque	peanut	apple	6	3	Top	1	b	0	0	0	0		0	0	0		
+William	m	young chimps	18	28/10/2018	19	1	opaque	opaque	peanut	apple	7	2	Bottom	1	b	0	0	0	0		0	0	0		
+William	m	young chimps	18	28/10/2018	19	1	opaque	opaque	peanut	apple	8	1	All	3	b	0	0	0	0		0	0	0		
+William	m	young chimps	18	29/10/2018	19	2	opaque	opaque	peanut	apple	9	2	Top	1	t	0	0	0	0		0	0	0		
+William	m	young chimps	18	29/10/2018	19	2	opaque	opaque	peanut	apple	10	3	All	1	t	0	0	0	0		0	0	0		
+William	m	young chimps	18	29/10/2018	19	2	opaque	opaque	peanut	apple	11	1	None	2	b	0	0	0	0		0	0	0		
+William	m	young chimps	18	29/10/2018	19	2	opaque	opaque	peanut	apple	12	3	Bottom	1	b	0	0	0	0		0	0	0		
+William	m	young chimps	18	29/10/2018	19	2	opaque	opaque	peanut	apple	13	2	All	1	t	0	0	0	0		0	0	0		
+William	m	young chimps	18	29/10/2018	19	2	opaque	opaque	peanut	apple	14	1	None	2	b	0	0	0	0		0	0	0		
+William	m	young chimps	18	29/10/2018	19	2	opaque	opaque	peanut	apple	15	3	Top	2	t	0	0	0	0		0	0	0		
+William	m	young chimps	18	29/10/2018	19	2	opaque	opaque	peanut	apple	16	1	Bottom	1	d	1	0	0	0		0	0	0		
+Jane	f	young chimps	14	28/10/2018	19	1	transparent	transparent	peanut	apple	1	3	None	3	d	1	0	0	0		0	0	0		
+Jane	f	young chimps	14	28/10/2018	19	1	transparent	transparent	peanut	apple	2	2	Bottom	3	b	0	0	0	0		0	0	0		
+Jane	f	young chimps	14	28/10/2018	19	1	transparent	transparent	peanut	apple	3	2	Top	3	b	0	0	1	1		0	1	1	"trial repeated, Jane moved table and stimuli fell down"	
+Jane	f	young chimps	14	28/10/2018	19	1	transparent	transparent	peanut	apple	4	1	All	3	t	0	0	0	0		0	0	0		
+Jane	f	young chimps	14	28/10/2018	19	1	transparent	transparent	peanut	apple	5	1	Top	3	b	0	0	0	0		0	0	0		
+Jane	f	young chimps	14	28/10/2018	19	1	transparent	transparent	peanut	apple	6	2	None	3	b	0	0	0	0		0	0	0		
+Jane	f	young chimps	14	28/10/2018	19	1	transparent	transparent	peanut	apple	7	3	All	3	d	1	0	0	0		0	0	0		
+Jane	f	young chimps	14	28/10/2018	19	1	transparent	transparent	peanut	apple	8	3	Bottom	2	b	0	0	0	0		0	0	0		
+Jane	f	young chimps	14	28/10/2018	19	1	transparent	transparent	peanut	apple	9	2	All	2	d	1	0	0	0		0	0	0		
+Jane	f	young chimps	14	28/10/2018	19	1	transparent	transparent	peanut	apple	10	3	Top	3	d	1	0	0	0		0	0	0	"trial repeated, Jane moved table and stimuli fell down"	
+Jane	f	young chimps	14	28/10/2018	19	1	transparent	transparent	peanut	apple	11	1	None	3	t	0	0	0	0		0	0	0		
+Jane	f	young chimps	14	28/10/2018	19	1	transparent	transparent	peanut	apple	12	3	Bottom	3	d	1	0	0	0		0	0	0		
+Jane	f	young chimps	14	28/10/2018	19	1	transparent	transparent	peanut	apple	13	2	All	3	b	0	0	0	0		0	0	0		
+Jane	f	young chimps	14	28/10/2018	19	1	transparent	transparent	peanut	apple	14	2	Bottom	3	b	0	0	0	0		0	0	0		
+Jane	f	young chimps	14	28/10/2018	19	1	transparent	transparent	peanut	apple	15	1	Top	3	t	0	0	0	0		0	0	0		
+Jane	f	young chimps	14	28/10/2018	19	1	transparent	transparent	peanut	apple	16	3	None	3	d	1	0	0	0		0	0	0		
+Jane	f	young chimps	14	28/10/2018	19	1	opaque	opaque	peanut	apple	1	1	All	3	t	0	0	0	0		0	0	0		
+Jane	f	young chimps	14	28/10/2018	19	1	opaque	opaque	peanut	apple	2	2	Bottom	3	b	0	1	0	1		1	0	1	24:35:00	
+Jane	f	young chimps	14	28/10/2018	19	1	opaque	opaque	peanut	apple	3	2	None	3	b	0	0	1	1		0	1	1	25:37:00	
+Jane	f	young chimps	14	28/10/2018	19	1	opaque	opaque	peanut	apple	4	3	Top	3	d	1	0	1	1		0	1	1	"trial repeated, Jane moved table and stimuli fell down"	29:54:00
+Jane	f	young chimps	14	28/10/2018	19	1	opaque	opaque	peanut	apple	5	1	Bottom	3	b	0	0	0	0		0	0	0	"session stopped, did not approach platform for 1 min"	
+Jane	f	young chimps	14	29/10/2018	19	2	opaque	opaque	peanut	apple	6	3	All	2	b	0	0	1	1		0	1	1	01:20	
+Jane	f	young chimps	14	29/10/2018	19	2	opaque	opaque	peanut	apple	7	3	Top	3	d	1	0	1	1		0	1	1	02:30	very fast
+Jane	f	young chimps	14	29/10/2018	19	2	opaque	opaque	peanut	apple	8	2	None	3	t	0	0	0	0		0	0	0		
+Jane	f	young chimps	14	29/10/2018	19	2	opaque	opaque	peanut	apple	9	1	Top	3	b	0	0	0	0		0	0	0		
+Jane	f	young chimps	14	29/10/2018	19	2	opaque	opaque	peanut	apple	10	2	All	1	t	0	0	0	0		0	0	0		
+Jane	f	young chimps	14	29/10/2018	19	2	opaque	opaque	peanut	apple	11	1	None	1	d	1	0	0	0		0	0	0		
+Jane	f	young chimps	14	29/10/2018	19	2	opaque	opaque	peanut	apple	12	3	Bottom	3	d	1	1	0	1		1	0	1		
+Jane	f	young chimps	14	29/10/2018	19	2	opaque	opaque	peanut	apple	13	2	Top	3	t	0	0	0	0		0	0	0	"one trial repeated, cylinders fell to the floor"	
+Jane	f	young chimps	14	29/10/2018	19	2	opaque	opaque	peanut	apple	14	1	Bottom	1	d	1	0	0	0		0	0	0		
+Jane	f	young chimps	14	29/10/2018	19	2	opaque	opaque	peanut	apple	15	2	All	2	d	1	1	0	1	1	0	0	0	climbs up	
+Jane	f	young chimps	14	29/10/2018	19	2	opaque	opaque	peanut	apple	16	3	None	2	b	0	0	0	0		0	0	0		
+Manno	m	young chimps	5	28/10/2018	19	1	transparent	transparent	peanut	apple	1	1	Top	2	t	0	0	0	0		0	0	0		
+Manno	m	young chimps	5	28/10/2018	19	1	transparent	transparent	peanut	apple	2	2	None	3	d	1	0	0	0		0	0	0		
+Manno	m	young chimps	5	28/10/2018	19	1	transparent	transparent	peanut	apple	3	2	All	2	d	1	1	0	1	1	0	0	0	came from above	
+Manno	m	young chimps	5	28/10/2018	19	1	transparent	transparent	peanut	apple	4	3	Bottom	3	d	1	0	0	0		0	0	0		
+Manno	m	young chimps	5	28/10/2018	19	1	transparent	transparent	peanut	apple	5	1	Bottom	1	d	1	0	0	0		0	0	0		
+Manno	m	young chimps	5	28/10/2018	19	1	transparent	transparent	peanut	apple	6	2	All	1	t	0	0	0	0		0	0	0		
+Manno	m	young chimps	5	28/10/2018	19	1	transparent	transparent	peanut	apple	7	3	None	3	d	1	0	0	0		0	0	0		
+Manno	m	young chimps	5	28/10/2018	19	1	transparent	transparent	peanut	apple	8	1	Top	2	t	0	0	0	0		0	0	0		
+Manno	m	young chimps	5	28/10/2018	19	1	transparent	transparent	peanut	apple	9	1	All	1	d	1	0	1	1		0	1	1	13:30	
+Manno	m	young chimps	5	28/10/2018	19	1	transparent	transparent	peanut	apple	10	3	None	3	d	1	0	1	1		0	1	1	14:40	
+Manno	m	young chimps	5	28/10/2018	19	1	transparent	transparent	peanut	apple	11	2	Bottom	3	b	0	0	0	0		0	0	0		
+Manno	m	young chimps	5	28/10/2018	19	1	transparent	transparent	peanut	apple	12	2	Top	3	t	0	0	0	0		0	0	0		
+Manno	m	young chimps	5	28/10/2018	19	1	transparent	transparent	peanut	apple	13	2	All	2	d	1	0	0	0		0	0	0		
+Manno	m	young chimps	5	28/10/2018	19	1	transparent	transparent	peanut	apple	14	3	Top	3	d	1	0	0	0		0	0	0		
+Manno	m	young chimps	5	28/10/2018	19	1	transparent	transparent	peanut	apple	15	3	Bottom	2	b	0	0	0	0		0	0	0		
+Manno	m	young chimps	5	28/10/2018	19	1	transparent	transparent	peanut	apple	16	1	None	3	b	0	0	0	0		0	0	0		
+Manno	m	young chimps	5	28/10/2018	19	1	opaque	opaque	peanut	apple	1	1	All	1	d	1	1	0	1	1	0	0	0	climbing up to platform	27:54:00
+Manno	m	young chimps	5	28/10/2018	19	1	opaque	opaque	peanut	apple	2	2	None	2	d	1	1	0	1	1	0	0	0	not sure about the bottom	
+Manno	m	young chimps	5	28/10/2018	19	1	opaque	opaque	peanut	apple	3	2	Top	1	b	0	1	0	1	1	0	0	0	sitting above when occluder is removed 	
+Manno	m	young chimps	5	28/10/2018	19	1	opaque	opaque	peanut	apple	4	1	Bottom	3	b	0	1	0	1	1	0	0	0	sitting above when occluder is removed 	
+Manno	m	young chimps	5	28/10/2018	19	1	opaque	opaque	peanut	apple	5	2	All	3	b	0	0	0	0		0	0	0		
+Manno	m	young chimps	5	28/10/2018	19	1	opaque	opaque	peanut	apple	6	3	Top	3	d	1	0	0	0		0	0	0		
+Manno	m	young chimps	5	28/10/2018	19	1	opaque	opaque	peanut	apple	7	3	None	3	t	0	0	0	0		0	0	0		
+Manno	m	young chimps	5	28/10/2018	19	1	opaque	opaque	peanut	apple	8	2	Bottom	3	t	0	0	0	0		0	0	0		
+Manno	m	young chimps	5	28/10/2018	19	1	opaque	opaque	peanut	apple	9	2	Top	3	b	0	0	0	0		0	0	0		
+Manno	m	young chimps	5	28/10/2018	19	1	opaque	opaque	peanut	apple	10	1	Bottom	1	d	1	0	0	0		0	0	0		
+Manno	m	young chimps	5	28/10/2018	19	1	opaque	opaque	peanut	apple	11	2	All	2	d	1	1	0	1	1	0	0	0	sitting on platform	
+Manno	m	young chimps	5	28/10/2018	19	1	opaque	opaque	peanut	apple	12	3	None	3	d	1	0	0	0		0	0	0		
+Manno	m	young chimps	5	28/10/2018	19	1	opaque	opaque	peanut	apple	13	3	Bottom	1	b	0	0	0	0		0	0	0		
+Manno	m	young chimps	5	28/10/2018	19	1	opaque	opaque	peanut	apple	14	1	None	3	t	0	0	0	0		0	0	0		
+Manno	m	young chimps	5	28/10/2018	19	1	opaque	opaque	peanut	apple	15	2	Top	3	b	0	0	0	0		0	0	0		
+Manno	m	young chimps	5	28/10/2018	19	1	opaque	opaque	peanut	apple	16	3	All	3	d	1	0	0	0		0	0	0		
+Roy	m	young chimps	11	28/10/2018	19	1	transparent	transparent	apple	peanut	1	1	Top	1	d	1	0	0	0		0	0	0		
+Roy	m	young chimps	11	28/10/2018	19	1	transparent	transparent	apple	peanut	2	3	None	3	d	1	0	1	1	1	0	0	0	01:55	not very clear
+Roy	m	young chimps	11	28/10/2018	19	1	transparent	transparent	apple	peanut	3	2	All	3	t	0	0	0	0		0	0	0		
+Roy	m	young chimps	11	28/10/2018	19	1	transparent	transparent	apple	peanut	4	3	Bottom	3	d	1	0	0	0		0	0	0		
+Roy	m	young chimps	11	28/10/2018	19	1	transparent	transparent	apple	peanut	5	1	Bottom	3	t	0	0	0	0		0	0	0		
+Roy	m	young chimps	11	28/10/2018	19	1	transparent	transparent	apple	peanut	6	2	All	3	b	0	0	0	0		0	0	0		
+Roy	m	young chimps	11	28/10/2018	19	1	transparent	transparent	apple	peanut	7	3	None	3	d	1	0	0	0		0	0	0		
+Roy	m	young chimps	11	28/10/2018	19	1	transparent	transparent	apple	peanut	8	1	Top	3	b	0	0	1	1		0	1	1		
+Roy	m	young chimps	11	28/10/2018	19	1	transparent	transparent	apple	peanut	9	1	All	3	t	0	0	0	0		0	0	0		
+Roy	m	young chimps	11	28/10/2018	19	1	transparent	transparent	apple	peanut	10	3	None	3	d	1	0	0	0		0	0	0		
+Roy	m	young chimps	11	28/10/2018	19	1	transparent	transparent	apple	peanut	11	2	Bottom	3	b	0	0	0	0		0	0	0		
+Roy	m	young chimps	11	28/10/2018	19	1	transparent	transparent	apple	peanut	12	2	Top	3	t	0	0	0	0		0	0	0		
+Roy	m	young chimps	11	28/10/2018	19	1	transparent	transparent	apple	peanut	13	2	All	2	d	1	0	0	0		0	0	0		
+Roy	m	young chimps	11	28/10/2018	19	1	transparent	transparent	apple	peanut	14	3	Top	3	d	1	0	0	0		0	0	0		
+Roy	m	young chimps	11	28/10/2018	19	1	transparent	transparent	apple	peanut	15	3	Bottom	2	b	0	0	0	0		0	0	0		
+Roy	m	young chimps	11	28/10/2018	19	1	transparent	transparent	apple	peanut	16	1	None	3	b	0	0	0	0		0	0	0		
+Roy	m	young chimps	11	28/10/2018	19	1	opaque	opaque	apple	peanut	1	1	All	2	b	0	0	0	0		0	0	0		
+Roy	m	young chimps	11	28/10/2018	19	1	opaque	opaque	apple	peanut	2	2	None	2	d	1	1	0	1		1	0	1		
+Roy	m	young chimps	11	28/10/2018	19	1	opaque	opaque	apple	peanut	3	2	Top	2	d	1	0	0	0		0	0	0		
+Roy	m	young chimps	11	28/10/2018	19	1	opaque	opaque	apple	peanut	4	1	Bottom	2	t	0	0	0	0		0	0	0		
+Roy	m	young chimps	11	28/10/2018	19	1	opaque	opaque	apple	peanut	5	1	All	2	t	0	0	0	0		0	0	0		
+Roy	m	young chimps	11	28/10/2018	19	1	opaque	opaque	apple	peanut	6	3	Top	3	d	1	0	0	0		0	0	0		
+Roy	m	young chimps	11	28/10/2018	19	1	opaque	opaque	apple	peanut	7	1	None	1	d	1	0	0	0		0	0	0		
+Roy	m	young chimps	11	28/10/2018	19	1	opaque	opaque	apple	peanut	8	3	Bottom	2	t	0	0	0	0		0	0	0		
+Roy	m	young chimps	11	29/10/2018	19	2	opaque	opaque	apple	peanut	9	2	Top	2	d	1	0	0	0		0	0	0		
+Roy	m	young chimps	11	29/10/2018	19	2	opaque	opaque	apple	peanut	10	1	Bottom	2	t	0	0	0	0		0	0	0		
+Roy	m	young chimps	11	29/10/2018	19	2	opaque	opaque	apple	peanut	11	2	All	2	d	1	0	0	0		0	0	0		
+Roy	m	young chimps	11	29/10/2018	19	2	opaque	opaque	apple	peanut	12	3	None	2	b	0	0	0	0		0	0	0		
+Roy	m	young chimps	11	29/10/2018	19	2	opaque	opaque	apple	peanut	13	3	Bottom	2	t	0	0	0	0		0	0	0		
+Roy	m	young chimps	11	29/10/2018	19	2	opaque	opaque	apple	peanut	14	1	None	2	b	0	0	0	0		0	0	0		
+Roy	m	young chimps	11	29/10/2018	19	2	opaque	opaque	apple	peanut	15	2	Top	2	d	1	0	0	0		0	0	0		
+Roy	m	young chimps	11	29/10/2018	19	2	opaque	opaque	apple	peanut	16	3	All	2	b	0	0	0	0		0	0	0		
+Tess	f	young chimps	26	28/10/2018	19	1	transparent	transparent	peanut	apple	1	1	All	3	t	0	0	0	0		0	0	0		
+Tess	f	young chimps	26	28/10/2018	19	1	transparent	transparent	peanut	apple	2	1	Bottom	1	d	1	0	0	0		0	0	0		
+Tess	f	young chimps	26	28/10/2018	19	1	transparent	transparent	peanut	apple	3	2	None	1	t	0	0	0	0		0	0	0		
+Tess	f	young chimps	26	28/10/2018	19	1	transparent	transparent	peanut	apple	4	2	Top	2	d	1	0	0	0		0	0	0		
+Tess	f	young chimps	26	28/10/2018	19	1	transparent	transparent	peanut	apple	5	3	Bottom	3	d	1	0	0	0		0	0	0		
+Tess	f	young chimps	26	28/10/2018	19	1	transparent	transparent	peanut	apple	6	1	All	2	t	0	1	0	1	1	0	0	0	was sitting on platform when occluder was removed	
+Tess	f	young chimps	26	28/10/2018	19	1	transparent	transparent	peanut	apple	7	3	None	3	d	1	0	0	0		0	0	0		
+Tess	f	young chimps	26	28/10/2018	19	1	transparent	transparent	peanut	apple	8	1	Top	3	t	0	0	0	0		0	0	0		
+Tess	f	young chimps	26	28/10/2018	19	1	transparent	transparent	peanut	apple	9	1	None	1	d	1	0	0	0		0	0	0		
+Tess	f	young chimps	26	28/10/2018	19	1	transparent	transparent	peanut	apple	10	3	Bottom	3	d	1	0	0	0		0	0	0		
+Tess	f	young chimps	26	28/10/2018	19	1	transparent	transparent	peanut	apple	11	2	All	2	d	1	0	0	0		0	0	0		
+Tess	f	young chimps	26	28/10/2018	19	1	transparent	transparent	peanut	apple	12	2	Top	3	t	0	0	0	0		0	0	0		
+Tess	f	young chimps	26	28/10/2018	19	1	transparent	transparent	peanut	apple	13	3	Bottom	2	b	0	0	0	0		0	0	0		
+Tess	f	young chimps	26	28/10/2018	19	1	transparent	transparent	peanut	apple	14	2	All	2	d	1	0	0	0		0	0	0		
+Tess	f	young chimps	26	28/10/2018	19	1	transparent	transparent	peanut	apple	15	1	None	3	b	0	1	0	1	1	0	0	0	was sitting on platform when occluder was removed	
+Tess	f	young chimps	26	28/10/2018	19	1	transparent	transparent	peanut	apple	16	2	Top	3	t	0	0	0	0		0	0	0		
+Tess	f	young chimps	26	28/10/2018	19	1	opaque	opaque	peanut	apple	1	3	None	3	d	1	0	0	0		0	0	0		
+Tess	f	young chimps	26	28/10/2018	19	1	opaque	opaque	peanut	apple	2	1	Bottom	2	b	0	0	0	0		0	0	0		
+Tess	f	young chimps	26	28/10/2018	19	1	opaque	opaque	peanut	apple	3	2	All	2	d	1	0	0	0	1	0	0	0	was sitting on platform when occluder was removed	
+Tess	f	young chimps	26	28/10/2018	19	1	opaque	opaque	peanut	apple	4	2	Top	2	d	1	0	0	0		0	0	0		
+Tess	f	young chimps	26	28/10/2018	19	1	opaque	opaque	peanut	apple	5	3	All	3	d	1	0	0	0		0	0	0		
+Tess	f	young chimps	26	28/10/2018	19	1	opaque	opaque	peanut	apple	6	3	Bottom	2	b	0	0	0	0		0	0	0		
+Tess	f	young chimps	26	28/10/2018	19	1	opaque	opaque	peanut	apple	7	1	None	2	t	0	0	0	0		0	0	0		
+Tess	f	young chimps	26	28/10/2018	19	1	opaque	opaque	peanut	apple	8	1	Top	2	b	0	0	0	0		0	0	0		
+Tess	f	young chimps	26	29/10/2018	19	2	opaque	opaque	peanut	apple	9	2	Top	3	t	0	0	0	0		0	0	0		
+Tess	f	young chimps	26	29/10/2018	19	2	opaque	opaque	peanut	apple	10	1	All	2	b	0	1	0	1	1	0	0	0	climbed to sit on platform	
+Tess	f	young chimps	26	29/10/2018	19	2	opaque	opaque	peanut	apple	11	3	None	3	d	1	0	0	0		0	0	0		
+Tess	f	young chimps	26	29/10/2018	19	2	opaque	opaque	peanut	apple	12	1	Bottom	2	t	0	0	0	0		0	0	0		
+Tess	f	young chimps	26	29/10/2018	19	2	opaque	opaque	peanut	apple	13	2	Top	3	b	0	0	0	0		0	0	0		
+Tess	f	young chimps	26	29/10/2018	19	2	opaque	opaque	peanut	apple	14	3	All	3	d	1	0	0	0		0	0	0		
+Tess	f	young chimps	26	29/10/2018	19	2	opaque	opaque	peanut	apple	15	3	Bottom	3	d	1	1	0	1	1	0	0	0	climbed to sit on platform	
+Tess	f	young chimps	26	29/10/2018	19	2	opaque	opaque	peanut	apple	16	1	None	3	b	0	0	0	0		0	0	0		
+Uruhara	m	young chimps	29	28/10/2018	19	1	transparent	transparent	peanut	apple	1	1	All	2	b	0	0	0	0		0	0	0		
+Uruhara	m	young chimps	29	28/10/2018	19	1	transparent	transparent	peanut	apple	2	3	Bottom	3	d	1	0	1	1	1	0	0	0	unclear	
+Uruhara	m	young chimps	29	28/10/2018	19	1	transparent	transparent	peanut	apple	3	2	None	2	d	1	0	0	0		0	0	0		
+Uruhara	m	young chimps	29	28/10/2018	19	1	transparent	transparent	peanut	apple	4	2	Top	2	d	1	0	0	0		0	0	0		
+Uruhara	m	young chimps	29	28/10/2018	19	1	transparent	transparent	peanut	apple	5	3	Bottom	3	d	1	0	0	0		0	0	0		
+Uruhara	m	young chimps	29	28/10/2018	19	1	transparent	transparent	peanut	apple	6	1	All	3	b	0	0	0	0		0	0	0		
+Uruhara	m	young chimps	29	28/10/2018	19	1	transparent	transparent	peanut	apple	7	3	Top	3	d	1	0	1	1		0	1	1		
+Uruhara	m	young chimps	29	28/10/2018	19	1	transparent	transparent	peanut	apple	8	1	None	1	d	1	0	0	0		0	0	0		
+Uruhara	m	young chimps	29	28/10/2018	19	1	transparent	transparent	peanut	apple	9	1	None	2	t	0	0	0	0		0	0	0		
+Uruhara	m	young chimps	29	28/10/2018	19	1	transparent	transparent	peanut	apple	10	3	Bottom	2	b	0	0	0	0		0	0	0		
+Uruhara	m	young chimps	29	28/10/2018	19	1	transparent	transparent	peanut	apple	11	2	All	2	d	1	0	0	0		0	0	0		
+Uruhara	m	young chimps	29	28/10/2018	19	1	transparent	transparent	peanut	apple	12	2	Top	2	d	1	0	0	0		0	0	0		
+Uruhara	m	young chimps	29	28/10/2018	19	1	transparent	transparent	peanut	apple	13	3	Bottom	3	d	1	1	0	1	1	0	0	0	climbed to sit on platform	
+Uruhara	m	young chimps	29	28/10/2018	19	1	transparent	transparent	peanut	apple	14	2	All	2	d	1	1	0	1	1	0	0	0	climbed to sit on platform	
+Uruhara	m	young chimps	29	28/10/2018	19	1	transparent	transparent	peanut	apple	15	1	None	2	t	0	0	0	0		0	0	0		
+Uruhara	m	young chimps	29	28/10/2018	19	1	transparent	transparent	peanut	apple	16	2	Top	2	d	1	0	0	0		0	0	0		
+Uruhara	m	young chimps	29	28/10/2018	19	1	opaque	opaque	peanut	apple	1	3	None	2	t	0	0	0	0		0	0	0		
+Uruhara	m	young chimps	29	28/10/2018	19	1	opaque	opaque	peanut	apple	2	1	Bottom	1	d	1	0	1	1		0	1	1		
+Uruhara	m	young chimps	29	28/10/2018	19	1	opaque	opaque	peanut	apple	3	2	All	1	t	0	0	0	0		0	0	0		
+Uruhara	m	young chimps	29	28/10/2018	19	1	opaque	opaque	peanut	apple	4	2	Top	1	b	0	0	1	1		0	1	1	22:38	
+Uruhara	m	young chimps	29	28/10/2018	19	1	opaque	opaque	peanut	apple	5	3	All	1	b	0	0	0	0		0	0	0		
+Uruhara	m	young chimps	29	28/10/2018	19	1	opaque	opaque	peanut	apple	6	3	Bottom	2	b	0	0	0	0		0	0	0		
+Uruhara	m	young chimps	29	28/10/2018	19	1	opaque	opaque	peanut	apple	7	1	None	1	d	1	0	0	0		0	0	0		
+Uruhara	m	young chimps	29	28/10/2018	19	1	opaque	opaque	peanut	apple	8	1	Top	1	d	1	0	1	1		0	1	1	27:37:00	
+Uruhara	m	young chimps	29	29/10/2018	19	2	opaque	opaque	peanut	apple	9	2	Top	2	d	1	0	0	0		0	0	0		
+Uruhara	m	young chimps	29	29/10/2018	19	2	opaque	opaque	peanut	apple	10	1	All	1	d	1	0	0	0		0	0	0		
+Uruhara	m	young chimps	29	29/10/2018	19	2	opaque	opaque	peanut	apple	11	3	None	2	t	0	0	0	0		0	0	0		
+Uruhara	m	young chimps	29	29/10/2018	19	2	opaque	opaque	peanut	apple	12	1	Bottom	1	d	1	0	0	0		0	0	0		
+Uruhara	m	young chimps	29	29/10/2018	19	2	opaque	opaque	peanut	apple	13	2	Top	3	b	0	0	0	0		0	0	0		
+Uruhara	m	young chimps	29	29/10/2018	19	2	opaque	opaque	peanut	apple	14	3	All	2	b	0	0	0	0		0	0	0		
+Uruhara	m	young chimps	29	29/10/2018	19	2	opaque	opaque	peanut	apple	15	3	Bottom	1	b	0	0	0	0		0	0	0		
+Uruhara	m	young chimps	29	29/10/2018	19	2	opaque	opaque	peanut	apple	16	1	None	2	t	0	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	transparent	transparent	apple	peanut	1	2	Bottom	3	b	0	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	transparent	transparent	apple	peanut	2	1	Top	3	t	0	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	transparent	transparent	apple	peanut	3	3	All	1	t	0	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	transparent	transparent	apple	peanut	4	2	None	2	d	1	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	transparent	transparent	apple	peanut	5	3	Top	2	t	0	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	transparent	transparent	apple	peanut	6	1	All	2	t	0	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	transparent	transparent	apple	peanut	7	1	Bottom	3	t	0	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	transparent	transparent	apple	peanut	8	3	None	3	d	1	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	transparent	transparent	apple	peanut	9	2	All	3	b	0	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	transparent	transparent	apple	peanut	10	3	Bottom	2	t	0	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	transparent	transparent	apple	peanut	11	1	None	1	d	1	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	transparent	transparent	apple	peanut	12	2	Top	1	b	0	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	transparent	transparent	apple	peanut	13	3	None	1	b	0	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	transparent	transparent	apple	peanut	14	2	All	2	d	1	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	transparent	transparent	apple	peanut	15	3	Bottom	3	d	1	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	transparent	transparent	apple	peanut	16	1	Top	1	d	1	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	opaque	opaque	apple	peanut	1	2	Top	1	b	0	1	0	1		1	0	1		
+Amizero	f	young chimps	29	29/10/2018	19	1	opaque	opaque	apple	peanut	2	3	None	1	t	0	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	opaque	opaque	apple	peanut	3	1	Bottom	2	t	0	1	0	1		1	0	1		
+Amizero	f	young chimps	29	29/10/2018	19	1	opaque	opaque	apple	peanut	4	1	All	3	t	0	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	opaque	opaque	apple	peanut	5	2	None	3	b	0	1	0	1	1	0	0	0	approached platform from above	26:36:00
+Amizero	f	young chimps	29	29/10/2018	19	1	opaque	opaque	apple	peanut	6	3	Top	2	t	0	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	opaque	opaque	apple	peanut	7	2	Bottom	1	b	0	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	opaque	opaque	apple	peanut	8	1	All	1	d	1	0	0	0		0	0	0	stood up but did not look inside cylinder	
+Amizero	f	young chimps	29	29/10/2018	19	1	opaque	opaque	apple	peanut	9	2	Top	2	d	1	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	opaque	opaque	apple	peanut	10	3	All	2	b	0	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	opaque	opaque	apple	peanut	11	1	None	1	d	1	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	opaque	opaque	apple	peanut	12	3	Bottom	3	d	1	1	0	1		1	0	1		
+Amizero	f	young chimps	29	29/10/2018	19	1	opaque	opaque	apple	peanut	13	2	All	1	t	0	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	opaque	opaque	apple	peanut	14	1	None	1	d	1	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	opaque	opaque	apple	peanut	15	3	Top	1	b	0	0	0	0		0	0	0		
+Amizero	f	young chimps	29	29/10/2018	19	1	opaque	opaque	apple	peanut	16	1	None	3	b	0	0	0	0		0	0	0		
+Chipie	f	young chimps	27	29/10/2018	19	1	transparent	transparent	peanut	apple	1	3	None	1	t	0	0	0	0		0	0	0	eats apple first	
+Chipie	f	young chimps	27	29/10/2018	19	1	transparent	transparent	peanut	apple	2	2	Bottom	2	d	1	0	0	0		0	0	0		
+Chipie	f	young chimps	27	29/10/2018	19	1	transparent	transparent	peanut	apple	3	2	Top	2	d	1	0	0	0		0	0	0		
+Chipie	f	young chimps	27	29/10/2018	19	1	transparent	transparent	peanut	apple	4	1	All	3	t	0	0	1	1	1	0	0	0	sits very low	
+Chipie	f	young chimps	27	29/10/2018	19	1	transparent	transparent	peanut	apple	5	1	Top	2	t	0	0	0	0		0	0	0		
+Chipie	f	young chimps	27	29/10/2018	19	1	transparent	transparent	peanut	apple	6	2	None	2	d	1	0	0	0		0	0	0		
+Chipie	f	young chimps	27	29/10/2018	19	1	transparent	transparent	peanut	apple	7	3	All	2	b	0	0	0	0		0	0	0		
+Chipie	f	young chimps	27	29/10/2018	19	1	transparent	transparent	peanut	apple	8	3	Bottom	1	t	0	0	0	0		0	0	0		
+Chipie	f	young chimps	27	29/10/2018	19	1	transparent	transparent	peanut	apple	9	2	All	2	d	1	0	0	0		0	0	0		
+Chipie	f	young chimps	27	29/10/2018	19	1	transparent	transparent	peanut	apple	10	3	None	2	b	0	0	0	0		0	0	0		
+Chipie	f	young chimps	27	29/10/2018	19	1	transparent	transparent	peanut	apple	11	1	None	1	d	1	0	1	1		0	1	1		
+Chipie	f	young chimps	27	29/10/2018	19	1	transparent	transparent	peanut	apple	12	3	Bottom	2	b	0	0	0	0		0	0	0		
+Chipie	f	young chimps	27	29/10/2018	19	1	transparent	transparent	peanut	apple	13	2	All	1	t	0	0	0	0		0	0	0		
+Chipie	f	young chimps	27	29/10/2018	19	1	transparent	transparent	peanut	apple	14	2	Bottom	1	t	0	0	0	0		0	0	0		
+Chipie	f	young chimps	27	29/10/2018	19	1	transparent	transparent	peanut	apple	15	1	Top	1	d	1	0	0	0		0	0	0		
+Chipie	f	young chimps	27	29/10/2018	19	1	transparent	transparent	peanut	apple	16	3	None	2	b	0	0	0	0		0	0	0		
+Chipie	f	young chimps	27	29/10/2018	19	1	opaque	opaque	peanut	apple	1	1	All	2	b	0	0	1	1	1	0	0	0	unclear	
+Chipie	f	young chimps	27	29/10/2018	19	1	opaque	opaque	peanut	apple	2	2	Bottom	1	t	0	0	0	0		0	0	0		
+Chipie	f	young chimps	27	29/10/2018	19	1	opaque	opaque	peanut	apple	3	2	None	2	d	1	0	0	0		0	0	0		
+Chipie	f	young chimps	27	29/10/2018	19	1	opaque	opaque	peanut	apple	4	3	Top	1	t	0	0	0	0		0	0	0		
+Chipie	f	young chimps	27	29/10/2018	19	1	opaque	opaque	peanut	apple	5	1	Bottom	2	t	0	0	0	0		0	0	0		
+Chipie	f	young chimps	27	29/10/2018	19	1	opaque	opaque	peanut	apple	6	3	All	1	t	0	0	0	0		0	0	0		
+Chipie	f	young chimps	27	29/10/2018	19	1	opaque	opaque	peanut	apple	7	3	Top	1	t	0	0	0	0		0	0	0		
+Chipie	f	young chimps	27	29/10/2018	19	1	opaque	opaque	peanut	apple	8	2	None	1	b	0	0	0	0		0	0	0		
+Chipie	f	young chimps	27	31/10/2018	19	2	opaque	opaque	peanut	apple	9	1	Top	1	d	1	0	0	0		0	0	0		
+Chipie	f	young chimps	27	31/10/2018	19	2	opaque	opaque	peanut	apple	10	2	All	2	d	1	0	0	0		0	0	0		
+Chipie	f	young chimps	27	31/10/2018	19	2	opaque	opaque	peanut	apple	11	1	None	1	d	1	0	0	0		0	0	0		
+Chipie	f	young chimps	27	31/10/2018	19	2	opaque	opaque	peanut	apple	12	3	Bottom	1	t	0	0	0	0		0	0	0		
+Chipie	f	young chimps	27	31/10/2018	19	2	opaque	opaque	peanut	apple	13	3	None	1	t	0	0	0	0		0	0	0		
+Chipie	f	young chimps	27	31/10/2018	19	2	opaque	opaque	peanut	apple	14	2	Top	2	d	1	0	0	0		0	0	0		
+Chipie	f	young chimps	27	31/10/2018	19	2	opaque	opaque	peanut	apple	15	1	Bottom	2	b	0	0	0	0		0	0	0		
+Chipie	f	young chimps	27	31/10/2018	19	2	opaque	opaque	peanut	apple	16	2	All	2	d	1	0	0	0		0	0	0		
+Oscar	m	old chimps	21	05/12/2018	19	1	transparent_no_stands	transparent	apple	grape	1	1	None	1	d	1	0	0	0		0	0	0		
+Oscar	m	old chimps	21	05/12/2018	19	1	transparent_no_stands	transparent	apple	grape	2	3	None	2	t	0	0	0	0		0	0	0		
+Oscar	m	old chimps	21	05/12/2018	19	1	transparent_no_stands	transparent	apple	grape	3	2	None	2	d	1	0	0	0		0	0	0		
+Oscar	m	old chimps	21	05/12/2018	19	1	transparent_no_stands	transparent	apple	grape	4	2	Top	2	d	1	0	0	0		0	0	0		
+Oscar	m	old chimps	21	05/12/2018	19	1	transparent_no_stands	transparent	apple	grape	5	3	Bottom	2	b	0	0	0	0		0	0	0		
+Oscar	m	old chimps	21	05/12/2018	19	1	transparent_no_stands	transparent	apple	grape	6	1	All	2	t	0	0	0	0		0	0	0		
+Oscar	m	old chimps	21	05/12/2018	19	1	transparent_no_stands	transparent	apple	grape	7	3	Top	2	t	0	0	0	0		0	0	0		
+Oscar	m	old chimps	21	05/12/2018	19	1	transparent_no_stands	transparent	apple	grape	8	1	None	2	b	0	0	0	0		0	0	0		
+Oscar	m	old chimps	21	05/12/2018	19	1	transparent	transparent	apple	grape	9	1	None	2	t	0	0	0	0		0	0	0		
+Oscar	m	old chimps	21	05/12/2018	19	1	transparent	transparent	apple	grape	10	3	Bottom	2	b	0	0	1	1	1	0	0	0	maybe look below: 11:50	
+Oscar	m	old chimps	21	05/12/2018	19	1	transparent	transparent	apple	grape	11	2	All	2	d	1	0	1	1	1	0	0	0		
+Oscar	m	old chimps	21	05/12/2018	19	1	transparent	transparent	apple	grape	12	2	Top	2	d	1	0	0	0		0	0	0		
+Oscar	m	old chimps	21	05/12/2018	19	1	transparent	transparent	apple	grape	13	3	Bottom	3	d	1	0	0	0		0	0	0		
+Oscar	m	old chimps	21	05/12/2018	19	1	transparent	transparent	apple	grape	14	2	All	2	d	1	0	0	0		0	0	0		
+Oscar	m	old chimps	21	05/12/2018	19	1	transparent	transparent	apple	grape	15	1	None	2	t	0	0	0	0		0	0	0		
+Oscar	m	old chimps	21	05/12/2018	19	1	transparent	transparent	apple	grape	16	2	Top	2	d	1	0	0	0		0	0	0		
+Oscar	m	old chimps	21	05/12/2018	19	1	opaque	opaque	apple	grape	1	3	None	1	b	0	0	0	0		0	0	0		
+Oscar	m	old chimps	21	05/12/2018	19	1	opaque	opaque	apple	grape	2	1	Bottom	2	b	0	0	0	0		0	0	0	unclear choice	
+Oscar	m	old chimps	21	05/12/2018	19	1	opaque	opaque	apple	grape	3	2	All	2	d	1	0	0	0		0	0	0		
+Oscar	m	old chimps	21	05/12/2018	19	1	opaque	opaque	apple	grape	4	2	Top	2	d	1	0	0	0		0	0	0		
+Oscar	m	old chimps	21	05/12/2018	19	1	opaque	opaque	apple	grape	5	3	All	2	t	0	0	0	0		0	0	0		
+Oscar	m	old chimps	21	05/12/2018	19	1	opaque	opaque	apple	grape	6	3	Bottom	2	b	0	0	0	0		0	0	0		
+Oscar	m	old chimps	21	06/12/2018	19	2	opaque	opaque	apple	grape	7	1	None	1	d	1	0	0	0		0	0	0	unclear choice	
+Oscar	m	old chimps	21	06/12/2018	19	2	opaque	opaque	apple	grape	8	1	Top	1	d	1	0	0	0		0	0	0		
+Oscar	m	old chimps	21	06/12/2018	19	2	opaque	opaque	apple	grape	9	2	Top	2	d	1	0	0	0		0	0	0		
+Oscar	m	old chimps	21	06/12/2018	19	2	opaque	opaque	apple	grape	10	1	All	3	t	0	0	0	0		0	0	0	"unclear choice; no clear choice in 5 min after this trial, session stopped"	
+Oscar	m	old chimps	21	09/12/2018	19	2	opaque	opaque	apple	grape	11	3	None	3	d	1	0	0	0		0	0	0		
+Oscar	m	old chimps	21	09/12/2018	19	2	opaque	opaque	apple	grape	12	1	Bottom	3	b	0	0	0	0		0	0	0		
+Oscar	m	old chimps	21	09/12/2018	19	2	opaque	opaque	apple	grape	13	2	Top	2	d	1	0	0	0		0	0	0		
+Oscar	m	old chimps	21	09/12/2018	19	2	opaque	opaque	apple	grape	14	3	All	3	d	1	0	0	0		0	0	0		
+Oscar	m	old chimps	21	09/12/2018	19	2	opaque	opaque	apple	grape	15	3	Bottom	3	d	1	0	0	0		0	0	0		
+Oscar	m	old chimps	21	09/12/2018	19	2	opaque	opaque	apple	grape	16	1	None	3	b	0	0	0	0		0	0	0		
+Safari	m	old chimps	34	06/12/2018	19	1	transparent_no_stands	transparent	grape	apple	1	3	None	3	d	1	0	0	0		0	0	0		
+Safari	m	old chimps	34	06/12/2018	19	1	transparent_no_stands	transparent	grape	apple	2	2	None	2	d	1	0	0	0		0	0	0		
+Safari	m	old chimps	34	06/12/2018	19	1	transparent_no_stands	transparent	grape	apple	3	2	Top	2	d	1	0	0	0		0	0	0		
+Safari	m	old chimps	34	06/12/2018	19	1	transparent_no_stands	transparent	grape	apple	4	1	All	1	d	1	0	0	0		0	0	0		
+Safari	m	old chimps	34	06/12/2018	19	1	transparent_no_stands	transparent	grape	apple	5	1	Top	2	t	0	0	0	0		0	0	0		
+Safari	m	old chimps	34	06/12/2018	19	1	transparent_no_stands	transparent	grape	apple	6	2	None	2	d	1	0	0	0		0	0	0		
+Safari	m	old chimps	34	06/12/2018	19	1	transparent_no_stands	transparent	grape	apple	7	3	All	3	d	1	0	0	0		0	0	0		
+Safari	m	old chimps	34	06/12/2018	19	1	transparent_no_stands	transparent	grape	apple	8	3	Bottom	3	d	1	0	0	0		0	0	0		
+Safari	m	old chimps	34	06/12/2018	19	1	transparent	transparent	grape	apple	9	2	All	3	b	0	0	0	0		0	0	0		
+Safari	m	old chimps	34	06/12/2018	19	1	transparent	transparent	grape	apple	10	3	Top	3	d	1	0	0	0		0	0	0		
+Safari	m	old chimps	34	06/12/2018	19	1	transparent	transparent	grape	apple	11	1	None	3	t	0	0	0	0		0	0	0		
+Safari	m	old chimps	34	06/12/2018	19	1	transparent	transparent	grape	apple	12	3	Bottom	3	d	1	0	0	0		0	0	0		
+Safari	m	old chimps	34	06/12/2018	19	1	transparent	transparent	grape	apple	13	2	All	3	b	0	0	1	1	1	0	0	0		
+Safari	m	old chimps	34	06/12/2018	19	1	transparent	transparent	grape	apple	14	2	Bottom	1	t	0	0	0	0		0	0	0		
+Safari	m	old chimps	34	06/12/2018	19	1	transparent	transparent	grape	apple	15	1	Top	1	d	1	0	0	0		0	0	0		
+Safari	m	old chimps	34	06/12/2018	19	1	transparent	transparent	grape	apple	16	3	None	3	d	1	0	0	0		0	0	0		
+Safari	m	old chimps	34	06/12/2018	19	1	opaque	opaque	grape	apple	1	3	All	2	b	0	1	0	1		1	0	1		
+Safari	m	old chimps	34	06/12/2018	19	1	opaque	opaque	grape	apple	2	2	Bottom	2	d	1	1	0	1		1	0	1		
+Safari	m	old chimps	34	06/12/2018	19	1	opaque	opaque	grape	apple	3	2	None	1	t	0	1	0	1		1	0	1		
+Safari	m	old chimps	34	06/12/2018	19	1	opaque	opaque	grape	apple	4	3	Top	3	d	1	0	0	0		0	0	0		
+Safari	m	old chimps	34	06/12/2018	19	2	opaque	opaque	grape	apple	5	1	Bottom			0	1	0	1		1	0	1	no choice in 1 min	
+Safari	m	old chimps	34	09/12/2018	19	2	opaque	opaque	grape	apple	6	3	All	3	d	1	0	0	0		0	0	0	no choice in 1 min on the Dec 7th	
+Safari	m	old chimps	34	09/12/2018	19	2	opaque	opaque	grape	apple	7	3	Top	3	d	1	0	0	0		0	0	0		
+Safari	m	old chimps	34	09/12/2018	19	2	opaque	opaque	grape	apple	8	2	None	3	t	0	0	0	0		0	0	0		
+Safari	m	old chimps	34	09/12/2018	19	2	opaque	opaque	grape	apple	9	1	Top	2	t	0	0	0	0		0	0	0		
+Safari	m	old chimps	34	09/12/2018	19	2	opaque	opaque	grape	apple	10	2	All	3	b	0	0	0	0		0	0	0		
+Safari	m	old chimps	34	09/12/2018	19	2	opaque	opaque	grape	apple	11	1	None	2	t	0	0	0	0		0	0	0		
+Safari	m	old chimps	34	09/12/2018	19	2	opaque	opaque	grape	apple	12	3	Bottom	3	d	1	0	0	0		0	0	0		
+Safari	m	old chimps	34	09/12/2018	19	2	opaque	opaque	grape	apple	13	3	None	3	d	1	0	0	0		0	0	0		
+Safari	m	old chimps	34	09/12/2018	19	2	opaque	opaque	grape	apple	14	2	Top	3	t	0	0	0	0		0	0	0		
+Safari	m	old chimps	34	09/12/2018	19	2	opaque	opaque	grape	apple	15	1	Bottom	3	t	0	0	0	0		0	0	0		
+Safari	m	old chimps	34	09/12/2018	19	2	opaque	opaque	grape	apple	16	2	All	2	d	1	0	0	0		0	0	0		
+Judy	f	old chimps	35	10/12/2018	19	1	transparent_no_stands	transparent	apple	grape	1	2	Bottom	2	d	1	0	0	0		0	0	0		
+Judy	f	old chimps	35	10/12/2018	19	1	transparent_no_stands	transparent	apple	grape	2	1	Top	1	d	1	0	0	0		0	0	0		
+Judy	f	old chimps	35	10/12/2018	19	1	transparent_no_stands	transparent	apple	grape	3	2	All	2	b	0	0	0	0		0	0	0		
+Judy	f	old chimps	35	10/12/2018	19	1	transparent_no_stands	transparent	apple	grape	4	2	None	2	d	1	0	0	0		0	0	0		
+Judy	f	old chimps	35	10/12/2018	19	1	transparent_no_stands	transparent	apple	grape	5	2	Top	2	t	0	0	0	0		0	0	0		
+Judy	f	old chimps	35	10/12/2018	19	1	transparent_no_stands	transparent	apple	grape	6	3	All	3	b	0	0	0	0		0	0	0		
+Judy	f	old chimps	35	10/12/2018	19	1	transparent_no_stands	transparent	apple	grape	7	2	Bottom	2	b	0	0	0	0		0	0	0		
+Judy	f	old chimps	35	10/12/2018	19	1	transparent_no_stands	transparent	apple	grape	8	2	None	2	b	0	0	0	0		0	0	0		
+Judy	f	old chimps	35	10/12/2018	19	1	transparent	transparent	apple	grape	9	3	All	3	b	0	0	0	0		0	0	0		
+Judy	f	old chimps	35	10/12/2018	19	1	transparent	transparent	apple	grape	10	2	Bottom	2	t	0	0	0	0		0	0	0		
+Judy	f	old chimps	35	10/12/2018	19	1	transparent	transparent	apple	grape	11	1	None	1	d	1	0	1	1		0	1	1		
+Judy	f	old chimps	35	10/12/2018	19	1	transparent	transparent	apple	grape	12	2	Top	2	d	1	0	0	0		0	0	0		
+Judy	f	old chimps	35	10/12/2018	19	1	transparent	transparent	apple	grape	13	2	None	2	t	0	0	0	0		0	0	0		
+Judy	f	old chimps	35	10/12/2018	19	1	transparent	transparent	apple	grape	14	1	All	1	t	0	0	0	0		0	0	0		
+Judy	f	old chimps	35	10/12/2018	19	1	transparent	transparent	apple	grape	15	2	Bottom	2	b	0	0	0	0		0	0	0		
+Judy	f	old chimps	35	10/12/2018	19	1	transparent	transparent	apple	grape	16	1	Top	1	d	1	0	0	0		0	0	0		
+Judy	f	old chimps	35	10/12/2018	19	1	opaque	opaque	apple	grape	1	2	Top	2	d	1	0	0	0		0	0	0		
+Judy	f	old chimps	35	10/12/2018	19	1	opaque	opaque	apple	grape	2	1	None	1	t	0	1	0	1		1	0	1		
+Judy	f	old chimps	35	10/12/2018	19	1	opaque	opaque	apple	grape	3	3	Bottom	3	b	0	0	1	1	1	0	0	0		
+Judy	f	old chimps	35	10/12/2018	19	1	opaque	opaque	apple	grape	4	2	All	2	b	0	0	0	0		0	0	0		
+Judy	f	old chimps	35	10/12/2018	19	1	opaque	opaque	apple	grape	5	1	None	1	t	0	0	0	0		0	0	0		
+Judy	f	old chimps	35	10/12/2018	19	1	opaque	opaque	apple	grape	6	1	Top	1	b	0	0	0	0		0	0	0		
+Judy	f	old chimps	35	10/12/2018	19	1	opaque	opaque	apple	grape	7	2	Bottom	2	d	1	0	0	0		0	0	0		
+Judy	f	old chimps	35	10/12/2018	19	1	opaque	opaque	apple	grape	8	1	All	1	d	1	0	0	0		0	0	0		
+Judy	f	old chimps	35	11/12/2018	19	2	opaque	opaque	apple	grape	9	2	Top	2	d	1	0	0	0		0	0	0		
+Judy	f	old chimps	35	11/12/2018	19	2	opaque	opaque	apple	grape	10	3	All	2	b	0	0	0	0		0	0	0		
+Judy	f	old chimps	35	11/12/2018	19	2	opaque	opaque	apple	grape	11	1	None	2	b	0	0	0	0		0	0	0		
+Judy	f	old chimps	35	11/12/2018	19	2	opaque	opaque	apple	grape	12	3	Bottom	3	d	1	0	1	1	1	0	0	0		
+Judy	f	old chimps	35	11/12/2018	19	2	opaque	opaque	apple	grape	13	2	All	2	d	1	0	0	0		0	0	0		
+Judy	f	old chimps	35	11/12/2018	19	2	opaque	opaque	apple	grape	14	1	None	2	b	0	0	0	0		0	0	0		
+Judy	f	old chimps	35	11/12/2018	19	2	opaque	opaque	apple	grape	15	3	Top	3	d	1	0	0	0		0	0	0		
+Judy	f	old chimps	35	11/12/2018	19	2	opaque	opaque	apple	grape	16	1	Bottom	3	b	0	0	0	0		0	0	0		
+Alley	f	old chimps	31	10/12/2018	19	1	transparent_no_stands	transparent	grape	apple	1	1	All	1	d	1	0	0	0		0	0	0		
+Alley	f	old chimps	31	10/12/2018	19	1	transparent_no_stands	transparent	grape	apple	2	3	Bottom	1	d	1	0	0	0		0	0	0		
+Alley	f	old chimps	31	10/12/2018	19	1	transparent_no_stands	transparent	grape	apple	3	2	None	2	d	1	0	0	0		0	0	0		
+Alley	f	old chimps	31	10/12/2018	19	1	transparent_no_stands	transparent	grape	apple	4	2	Top	2	d	1	0	0	0		0	0	0		
+Alley	f	old chimps	31	10/12/2018	19	1	transparent_no_stands	transparent	grape	apple	5	3	Bottom	2	b	0	0	0	0		0	0	0		
+Alley	f	old chimps	31	10/12/2018	19	1	transparent_no_stands	transparent	grape	apple	6	1	All	3	b	0	0	0	0		0	0	0		
+Alley	f	old chimps	31	10/12/2018	19	1	transparent_no_stands	transparent	grape	apple	7	3	Top	2	t	0	0	0	0		0	0	0		
+Alley	f	old chimps	31	10/12/2018	19	1	transparent_no_stands	transparent	grape	apple	8	1	None	1	d	1	0	1	1		0	1	1		
+Alley	f	old chimps	31	10/12/2018	19	1	transparent	transparent	grape	apple	9	1	None	2	t	0	0	0	0		0	0	0		
+Alley	f	old chimps	31	10/12/2018	19	1	transparent	transparent	grape	apple	10	3	Bottom	3	d	1	0	1	1		0	1	1		
+Alley	f	old chimps	31	10/12/2018	19	1	transparent	transparent	grape	apple	11	2	All	3	b	0	0	0	0		0	0	0		
+Alley	f	old chimps	31	10/12/2018	19	1	transparent	transparent	grape	apple	12	2	Top	3	t	0	0	0	0		0	0	0		
+Alley	f	old chimps	31	10/12/2018	19	1	transparent	transparent	grape	apple	13	3	Bottom	2	b	0	0	1	1		0	1	1		
+Alley	f	old chimps	31	10/12/2018	19	1	transparent	transparent	grape	apple	14	2	All	2	d	1	0	0	0		0	0	0		
+Alley	f	old chimps	31	10/12/2018	19	1	transparent	transparent	grape	apple	15	1	None	3	b	0	0	0	0		0	0	0		
+Alley	f	old chimps	31	10/12/2018	19	1	transparent	transparent	grape	apple	16	2	Top	1	b	0	0	0	0		0	0	0		
+Alley	f	old chimps	31	10/12/2018	19	1	opaque	opaque	grape	apple	1	3	None	3	d	1	0	0	0		0	0	0		
+Alley	f	old chimps	31	10/12/2018	19	1	opaque	opaque	grape	apple	2	1	Bottom	3	t	0	0	0	0		0	0	0		
+Alley	f	old chimps	31	10/12/2018	19	1	opaque	opaque	grape	apple	3	2	All	3	b	0	0	0	0		0	0	0		
+Alley	f	old chimps	31	10/12/2018	19	1	opaque	opaque	grape	apple	4	2	Top	1	b	0	0	0	0		0	0	0		
+Alley	f	old chimps	31	10/12/2018	19	1	opaque	opaque	grape	apple	5	3	All	1	b	0	0	0	0		0	0	0		
+Alley	f	old chimps	31	10/12/2018	19	1	opaque	opaque	grape	apple	6	3	Bottom	3	d	1	0	0	0		0	0	0		
+Alley	f	old chimps	31	10/12/2018	19	2	opaque	opaque	grape	apple	7	1	None	2	t	0	0	0	0		0	0	0		
+Alley	f	old chimps	31	10/12/2018	19	2	opaque	opaque	grape	apple	8	1	Top	3	t	0	0	0	0		0	0	0		
+Alley	f	old chimps	31	11/12/2018	19	2	opaque	opaque	grape	apple	9	2	Top	2	d	1	0	1	1	1	0	0	0		
+Alley	f	old chimps	31	11/12/2018	19	2	opaque	opaque	grape	apple	10	1	All	3	t	0	0	0	0		0	0	0		
+Alley	f	old chimps	31	11/12/2018	19	2	opaque	opaque	grape	apple	11	3	None	3	d	1	0	0	0		0	0	0		
+Alley	f	old chimps	31	11/12/2018	19	2	opaque	opaque	grape	apple	12	1	Bottom	2	t	0	0	0	0		0	0	0		
+Alley	f	old chimps	31	11/12/2018	19	2	opaque	opaque	grape	apple	13	2	Top	1	t	0	0	0	0		0	0	0		
+Alley	f	old chimps	31	11/12/2018	19	2	opaque	opaque	grape	apple	14	3	All	3	d	1	0	0	0		0	0	0		
+Alley	f	old chimps	31	11/12/2018	19	2	opaque	opaque	grape	apple	15	3	Bottom	2	t	0	0	0	0		0	0	0		
+Alley	f	old chimps	31	11/12/2018	19	2	opaque	opaque	grape	apple	16	1	None	3	b	0	0	0	0		0	0	0		
+Ajabu	f	old chimps	10	09/12/2018	19	1	transparent_no_stands	transparent	apple	grape	1	1	Top	1	d	1	0	1	1		0	1	1		
+Ajabu	f	old chimps	10	09/12/2018	19	1	transparent_no_stands	transparent	apple	grape	2	3	None	2	t	0	0	1	1		0	1	1		
+Ajabu	f	old chimps	10	09/12/2018	19	1	transparent_no_stands	transparent	apple	grape	3	2	All	2	d	1	0	1	1		0	1	1		
+Ajabu	f	old chimps	10	09/12/2018	19	1	transparent_no_stands	transparent	apple	grape	4	3	Bottom	3	d	1	0	0	0		0	0	0		
+Ajabu	f	old chimps	10	09/12/2018	19	1	transparent_no_stands	transparent	apple	grape	5	1	Bottom	2	b	0	0	1	1		0	1	1		
+Ajabu	f	old chimps	10	09/12/2018	19	1	transparent_no_stands	transparent	apple	grape	6	2	All	2	d	1	0	1	1		0	1	1		
+Ajabu	f	old chimps	10	09/12/2018	19	1	transparent_no_stands	transparent	apple	grape	7	3	None	2	t	0	0	1	1		0	1	1		
+Ajabu	f	old chimps	10	09/12/2018	19	1	transparent_no_stands	transparent	apple	grape	8	1	Top	2	t	0	0	1	1		0	1	1		
+Ajabu	f	old chimps	10	09/12/2018	19	1	transparent	transparent	apple	grape	9	1	All	2	b	0	0	0	0		0	0	0		
+Ajabu	f	old chimps	10	09/12/2018	19	1	transparent	transparent	apple	grape	10	3	None	2	b	0	0	0	0		0	0	0		
+Ajabu	f	old chimps	10	09/12/2018	19	1	transparent	transparent	apple	grape	11	2	Bottom	2	d	1	0	1	1	1	0	0	0		
+Ajabu	f	old chimps	10	09/12/2018	19	1	transparent	transparent	apple	grape	12	2	Top	2	d	1	0	0	0		0	0	0		
+Ajabu	f	old chimps	10	10/12/2018	19	1	transparent	transparent	apple	grape	13	2	None	2	d	1	0	0	0		0	0	0		
+Ajabu	f	old chimps	10	10/12/2018	19	1	transparent	transparent	apple	grape	14	3	Top	2	t	0	0	1	1		0	1	1		
+Ajabu	f	old chimps	10	10/12/2018	19	1	transparent	transparent	apple	grape	15	3	Bottom	2	b	0	0	0	0		0	0	0		
+Ajabu	f	old chimps	10	10/12/2018	19	1	transparent	transparent	apple	grape	16	1	All	3	b	0	0	0	0		0	0	0		
+Ajabu	f	old chimps	10	10/12/2018	19	1	opaque	opaque	apple	grape	1	1	All	2	b	0	0	1	1		0	1	1		
+Ajabu	f	old chimps	10	10/12/2018	19	1	opaque	opaque	apple	grape	2	2	None	2	d	1	0	1	1		0	1	1		
+Ajabu	f	old chimps	10	10/12/2018	19	1	opaque	opaque	apple	grape	3	2	Top	2	d	1	0	1	1		0	1	1		
+Ajabu	f	old chimps	10	10/12/2018	19	1	opaque	opaque	apple	grape	4	1	Bottom	3	b	0	0	1	1		0	1	1		
+Ajabu	f	old chimps	10	10/12/2018	19	1	opaque	opaque	apple	grape	5	2	All	2	d	1	0	0	0		0	0	0		
+Ajabu	f	old chimps	10	10/12/2018	19	1	opaque	opaque	apple	grape	6	3	Top	2	b	0	0	0	0		0	0	0		
+Ajabu	f	old chimps	10	10/12/2018	19	2	opaque	opaque	apple	grape	7	1	None	1	d	1	0	1	1		0	1	1		
+Ajabu	f	old chimps	10	10/12/2018	19	2	opaque	opaque	apple	grape	8	3	Bottom	2	t	0	0	1	1		0	1	1		
+Ajabu	f	old chimps	10	10/12/2018	19	2	opaque	opaque	apple	grape	9	2	Top	1	t	0	0	1	1		0	1	1		
+Ajabu	f	old chimps	10	10/12/2018	19	2	opaque	opaque	apple	grape	10	1	Bottom	3	b	0	0	1	1		0	1	1		
+Ajabu	f	old chimps	10	10/12/2018	19	2	opaque	opaque	apple	grape	11	2	All	2	d	1	0	1	1		0	1	1		
+Ajabu	f	old chimps	10	10/12/2018	19	2	opaque	opaque	apple	grape	12	3	None	1	t	0	0	1	1		0	1	1		
+Ajabu	f	old chimps	10	10/12/2018	19	2	opaque	opaque	apple	grape	13	3	Bottom	2	t	0	0	1	1		0	1	1		
+Ajabu	f	old chimps	10	10/12/2018	19	2	opaque	opaque	apple	grape	14	1	None	3	t	0	0	1	1		0	1	1		
+Ajabu	f	old chimps	10	10/12/2018	19	2	opaque	opaque	apple	grape	15	2	Top	1	t	0	0	1	1		0	1	1		
+Ajabu	f	old chimps	10	10/12/2018	19	2	opaque	opaque	apple	grape	16	3	All	2	b	0	0	1	1		0	1	1		
+Angela	f	old chimps	7	09/12/2018	19	1	transparent_no_stands	transparent	grape	apple	1	3	None	1	t	0	0	0	0		0	0	0		
+Angela	f	old chimps	7	09/12/2018	19	1	transparent_no_stands	transparent	grape	apple	2	2	Bottom	2	d	1	1	1	1		1	1	1		
+Angela	f	old chimps	7	09/12/2018	19	1	transparent_no_stands	transparent	grape	apple	3	2	Top	1	t	0	1	0	1	1	0	0	0		
+Angela	f	old chimps	7	09/12/2018	19	1	transparent_no_stands	transparent	grape	apple	4	1	All	1	d	1	0	0	0		0	0	0		
+Angela	f	old chimps	7	09/12/2018	19	1	transparent_no_stands	transparent	grape	apple	5	1	Top	1	d	1	0	0	0		0	0	0		
+Angela	f	old chimps	7	09/12/2018	19	1	transparent_no_stands	transparent	grape	apple	6	2	None	1	t	0	0	1	1		0	1	1		
+Angela	f	old chimps	7	09/12/2018	19	1	transparent_no_stands	transparent	grape	apple	7	3	All	1	t	0	0	0	0		0	0	0		
+Angela	f	old chimps	7	09/12/2018	19	1	transparent_no_stands	transparent	grape	apple	8	3	Bottom	3	d	1	0	1	1		0	1	1		
+Angela	f	old chimps	7	09/12/2018	19	1	transparent	transparent	grape	apple	9	2	All	1	t	0	0	1	1		0	1	1		
+Angela	f	old chimps	7	09/12/2018	19	1	transparent	transparent	grape	apple	10	3	Top	1	t	0	0	0	0		0	0	0		
+Angela	f	old chimps	7	09/12/2018	19	1	transparent	transparent	grape	apple	11	1	None	3	t	0	1	1	1		1	1	1		
+Angela	f	old chimps	7	09/12/2018	19	1	transparent	transparent	grape	apple	12	3	Bottom	1	t	0	1	0	1		1	0	1	"cylinders fell over, trial repeated"	
+Angela	f	old chimps	7	09/12/2018	19	1	transparent	transparent	grape	apple	13	2	All	1	t	0	0	0	0		0	0	0	peeking during baiting but not after the baiting	
+Angela	f	old chimps	7	09/12/2018	19	1	transparent	transparent	grape	apple	14	2	Bottom	1	t	0	0	0	0		0	0	0		
+Angela	f	old chimps	7	09/12/2018	19	1	transparent	transparent	grape	apple	15	1	Top	1	t	0	1	0	1		1	0	1		
+Angela	f	old chimps	7	09/12/2018	19	1	transparent	transparent	grape	apple	16	3	None	1	t	0	0	0	0		0	0	0		
+Angela	f	old chimps	7	09/12/2018	19	1	opaque	opaque	grape	apple	1	1	All	1	d	1	1	0	1		1	0	1		
+Angela	f	old chimps	7	09/12/2018	19	1	opaque	opaque	grape	apple	2	2	Bottom	1	t	0	1	0	1		1	0	1	17:15	
+Angela	f	old chimps	7	09/12/2018	19	1	opaque	opaque	grape	apple	3	2	None	1	t	0	1	0	1		1	0	1		
+Angela	f	old chimps	7	09/12/2018	19	1	opaque	opaque	grape	apple	4	3	Top	1	b	0	0	0	0		0	0	0	peeking only after no clear response was made	
+Angela	f	old chimps	7	09/12/2018	19	1	opaque	opaque	grape	apple	5	1	Bottom	1	d	1	0	0	0		0	0	0		
+Angela	f	old chimps	7	10/12/2018	19	2	opaque	opaque	grape	apple	6	3	All	1	t	0	1	0	1		1	0	1	peeking during baiting but not thereafter	
+Angela	f	old chimps	7	10/12/2018	19	2	opaque	opaque	grape	apple	7	3	Top	2	b	0	1	0	1		1	0	1	"trial repeated, cylinders fell down"	
+Angela	f	old chimps	7	10/12/2018	19	2	opaque	opaque	grape	apple	8	2	None	1	b	0	1	0	1		1	0	1		
+Angela	f	old chimps	7	10/12/2018	19	2	opaque	opaque	grape	apple	9	1	Top	2	t	0	0	0	0		0	0	0		
+Angela	f	old chimps	7	10/12/2018	19	2	opaque	opaque	grape	apple	10	2	All	2	d	1	0	0	0		0	0	0		
+Angela	f	old chimps	7	10/12/2018	19	2	opaque	opaque	grape	apple	11	1	None	1	d	1	1	0	1		1	0	1		
+Angela	f	old chimps	7	10/12/2018	19	2	opaque	opaque	grape	apple	12	3	Bottom	2	b	0	1	0	1		1	0	1		
+Angela	f	old chimps	7	10/12/2018	19	2	opaque	opaque	grape	apple	13	3	None	2	b	0	0	0	0		0	0	0		
+Angela	f	old chimps	7	10/12/2018	19	2	opaque	opaque	grape	apple	14	2	Top	2	d	1	1	0	1		1	0	1	peeking during baiting only	
+Angela	f	old chimps	7	10/12/2018	19	2	opaque	opaque	grape	apple	15	1	Bottom	2	b	0	0	0	0		0	0	0		
+Angela	f	old chimps	7	10/12/2018	19	2	opaque	opaque	grape	apple	16	2	All	2	d	1	0	0	0		0	0	0		
+Mwanzo	f	old chimps	22	01/11/2018	19	1	transparent	transparent	apple	grape	1	1	Top	3	b	0	0	0	0		0	0	0		
+Mwanzo	f	old chimps	22	01/11/2018	19	1	transparent	transparent	apple	grape	2	3	None	3	d	1	0	0	0		0	0	0		
+Mwanzo	f	old chimps	22	01/11/2018	19	1	transparent	transparent	apple	grape	3	2	All	2	d	1	0	0	0		0	0	0		
+Mwanzo	f	old chimps	22	01/11/2018	19	1	transparent	transparent	apple	grape	4	3	Bottom	3	d	1	0	0	0		0	0	0		
+Mwanzo	f	old chimps	22	01/11/2018	19	1	transparent	transparent	apple	grape	5	1	Bottom	2	b	0	0	0	0		0	0	0		
+Mwanzo	f	old chimps	22	01/11/2018	19	1	transparent	transparent	apple	grape	6	2	All	3	b	0	0	0	0		0	0	0		
+Mwanzo	f	old chimps	22	01/11/2018	19	1	transparent	transparent	apple	grape	7	3	None	3	d	1	0	0	0		0	0	0		
+Mwanzo	f	old chimps	22	01/11/2018	19	1	transparent	transparent	apple	grape	8	1	Top	3	b	0	0	0	0		0	0	0		
+Mwanzo	f	old chimps	22	01/11/2018	19	1	transparent	transparent	apple	grape	9	1	All	2	b	0	0	0	0		0	0	0	did not wait 10 sec	
+Mwanzo	f	old chimps	22	01/11/2018	19	1	transparent	transparent	apple	grape	10	3	None	3	d	1	0	0	0		0	0	0	did not wait 10 sec	
+Mwanzo	f	old chimps	22	01/11/2018	19	1	transparent	transparent	apple	grape	11	2	Bottom	2	d	1	0	0	0		0	0	0	did not wait 10 sec	
+Mwanzo	f	old chimps	22	01/11/2018	19	1	transparent	transparent	apple	grape	12	2	Top	2	d	1	0	0	0		0	0	0	did not wait 10 sec	
+Mwanzo	f	old chimps	22	01/11/2018	19	1	transparent	transparent	apple	grape	13	2	All	3	b	0	0	0	0		0	0	0	did not wait 10 sec	
+Mwanzo	f	old chimps	22	01/11/2018	19	1	transparent	transparent	apple	grape	14	3	Top	2	t	0	0	0	0		0	0	0	did not wait 10 sec	
+Mwanzo	f	old chimps	22	01/11/2018	19	1	transparent	transparent	apple	grape	15	3	Bottom	2	b	0	0	0	0		0	0	0	did not wait 10 sec	
+Mwanzo	f	old chimps	22	01/11/2018	19	1	transparent	transparent	apple	grape	16	1	None	3	b	0	0	0	0		0	0	0	did not wait 10 sec	
+Mwanzo	f	old chimps	22	01/11/2018	19	1	opaque	opaque	apple	grape	1	1	All	2	b	0	0	0	0		0	0	0	did not wait 10 sec	
+Mwanzo	f	old chimps	22	01/11/2018	19	1	opaque	opaque	apple	grape	2	2	None	3	t	0	0	0	0		0	0	0	"did not wait 10 sec, on video it looks like she chose 2 first"	
+Mwanzo	f	old chimps	22	01/11/2018	19	1	opaque	opaque	apple	grape	3	2	Top	2	d	1	0	0	0		0	0	0	chose 3 but changes choice after 10 sec	
+Mwanzo	f	old chimps	22	01/11/2018	19	1	opaque	opaque	apple	grape	4	1	Bottom	3	b	0	0	0	0		0	0	0		
+Mwanzo	f	old chimps	22	01/11/2018	19	1	opaque	opaque	apple	grape	5	2	All	3	b	0	0	0	0		0	0	0	above cups but can probably not see	
+Mwanzo	f	old chimps	22	01/11/2018	19	1	opaque	opaque	apple	grape	6	3	Top	2	b	0	0	0	0	1	0	0	0	maybe peeking below	
+Mwanzo	f	old chimps	22	01/11/2018	19	1	opaque	opaque	apple	grape	7	1	None	2	b	0	0	0	0	1	0	0	0	maybe  peeking below (already lying down)	
+Mwanzo	f	old chimps	22	01/11/2018	19	1	opaque	opaque	apple	grape	8	3	Bottom	3	d	1	0	0	0	1	0	0	0	maybe  peeking below (already lying down)	
+Mwanzo	f	old chimps	22	02/11/2018	19	2	opaque	opaque	apple	grape	9	2	Top	3	b	0	0	0	0		0	0	0		
+Mwanzo	f	old chimps	22	02/11/2018	19	2	opaque	opaque	apple	grape	10	1	Bottom	2	t	0	0	0	0		0	0	0		
+Mwanzo	f	old chimps	22	02/11/2018	19	2	opaque	opaque	apple	grape	11	2	All	2	d	1	0	0	0		0	0	0		
+Mwanzo	f	old chimps	22	02/11/2018	19	2	opaque	opaque	apple	grape	12	3	None	3	d	1	0	0	0		0	0	0	indecisive between 2 and 3	
+Mwanzo	f	old chimps	22	02/11/2018	19	2	opaque	opaque	apple	grape	13	3	Bottom	3	d	1	0	0	0		0	0	0		
+Mwanzo	f	old chimps	22	02/11/2018	19	2	opaque	opaque	apple	grape	14	1	None	3	t	0	0	0	0		0	0	0		
+Mwanzo	f	old chimps	22	02/11/2018	19	2	opaque	opaque	apple	grape	15	2	Top	1	t	0	0	0	0		0	0	0		
+Mwanzo	f	old chimps	22	02/11/2018	19	2	opaque	opaque	apple	grape	16	3	All	3	d	1	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	transparent	transparent	grape	apple	1	2	Bottom	3	b	0	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	transparent	transparent	grape	apple	2	1	Top	3	t	0	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	transparent	transparent	grape	apple	3	3	All	3	d	1	0	0	0		0	0	0	chose 1 first?	
+Alikaka	m	old chimps	16	02/11/2018	19	1	transparent	transparent	grape	apple	4	2	None	3	t	0	0	0	0		0	0	0	chose 1 first?	
+Alikaka	m	old chimps	16	02/11/2018	19	1	transparent	transparent	grape	apple	5	3	Top	3	d	1	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	transparent	transparent	grape	apple	6	1	All	3	b	0	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	transparent	transparent	grape	apple	7	1	Bottom	2	b	0	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	transparent	transparent	grape	apple	8	3	None	3	d	1	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	transparent	transparent	grape	apple	9	2	All	3	b	0	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	transparent	transparent	grape	apple	10	3	Bottom	3	d	1	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	transparent	transparent	grape	apple	11	1	None	3	b	0	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	transparent	transparent	grape	apple	12	2	Top	1	b	0	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	transparent	transparent	grape	apple	13	3	None	3	d	1	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	transparent	transparent	grape	apple	14	2	All	3	b	0	0	0	0		0	0	0	choice not clear could also have been 2	
+Alikaka	m	old chimps	16	02/11/2018	19	1	transparent	transparent	grape	apple	15	3	Bottom	1	t	0	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	transparent	transparent	grape	apple	16	1	Top	1	d	1	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	opaque	opaque	grape	apple	1	2	Top	3	t	0	0	0	0		0	0	0	"choice not clear, could also have been 2"	
+Alikaka	m	old chimps	16	02/11/2018	19	1	opaque	opaque	grape	apple	2	3	None	1	t	0	0	0	0		0	0	0	"choice not clear, was looking somewhere else"	
+Alikaka	m	old chimps	16	02/11/2018	19	1	opaque	opaque	grape	apple	3	1	Bottom	3	b	0	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	opaque	opaque	grape	apple	4	1	All	3	t	0	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	opaque	opaque	grape	apple	5	2	None	1	t	0	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	opaque	opaque	grape	apple	6	3	Top	3	d	1	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	opaque	opaque	grape	apple	7	2	Bottom	3	t	0	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	opaque	opaque	grape	apple	8	1	All	1	d	1	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	opaque	opaque	grape	apple	9	2	Top	3	b	0	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	opaque	opaque	grape	apple	10	3	All	2	b	0	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	opaque	opaque	grape	apple	11	1	None	3	t	0	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	opaque	opaque	grape	apple	12	3	Bottom	2	t	0	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	opaque	opaque	grape	apple	13	2	All	3	b	0	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	opaque	opaque	grape	apple	14	1	None	3	t	0	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	opaque	opaque	grape	apple	15	3	Top	3	d	1	0	0	0		0	0	0		
+Alikaka	m	old chimps	16	02/11/2018	19	1	opaque	opaque	grape	apple	16	1	Bottom	3	b	0	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	transparent	grape	apple	1	2	Bottom	3	b	0	0	0	0		0	0	0	maybe changed choice to 2?	
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	transparent	grape	apple	2	1	Top	2	b	0	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	transparent	grape	apple	3	3	All	3	d	1	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	transparent	grape	apple	4	2	None	3	t	0	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	transparent	grape	apple	5	3	Top	3	d	1	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	transparent	grape	apple	6	1	All	3	b	0	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	transparent	grape	apple	7	1	Bottom	3	t	0	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	transparent	grape	apple	8	3	None	3	d	1	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	transparent	grape	apple	9	2	All	3	b	0	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	transparent	grape	apple	10	3	Bottom	3	d	1	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	transparent	grape	apple	11	1	None	3	b	0	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	transparent	grape	apple	12	2	Top	3	t	0	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	transparent	grape	apple	12	2	Top	3	t	0	0	0	0		0	0	0	"error in setup, same as in trial 12"	
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	transparent	grape	apple	13	3	None	3	d	1	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	transparent	grape	apple	14	2	All	3	b	0	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	transparent	grape	apple	15	3	Bottom	3	d	1	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	transparent	transparent	grape	apple	16	1	Top	3	b	0	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	opaque	grape	apple	1	2	Top	3	t	0	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	opaque	grape	apple	2	3	None	3	d	1	0	0	0		0	0	0	peak after trial?	
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	opaque	grape	apple	3	1	Bottom	3	b	0	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	opaque	grape	apple	4	1	All	3	t	0	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	opaque	grape	apple	5	2	None	3	b	0	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	opaque	grape	apple	6	3	Top	3	d	1	0	0	0		0	0	0	peak when occluder was still there	
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	opaque	grape	apple	7	2	Bottom	3	t	0	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	opaque	grape	apple	8	1	All	3	b	0	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	opaque	grape	apple	9	2	Top	3	b	0	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	opaque	grape	apple	10	3	All	1	t	0	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	opaque	grape	apple	11	1	None	3	t	0	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	opaque	grape	apple	12	3	Bottom	3	d	1	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	opaque	grape	apple	13	2	All	3	b	0	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	opaque	grape	apple	14	1	None	3	t	0	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	opaque	grape	apple	15	3	Top	3	d	1	0	0	0		0	0	0		
+Cheetah	f	old chimps	31	02/11/2018	19	1	opaque	opaque	grape	apple	16	1	Bottom	3	b	0	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	transparent	apple	grape	1	1	All	1	d	1	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	transparent	apple	grape	2	3	Bottom	3	d	1	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	transparent	apple	grape	3	2	None	2	d	1	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	transparent	apple	grape	4	2	Top	3	b	0	0	0	0		0	0	0	indecisive (chose lal 3)	
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	transparent	apple	grape	5	3	Bottom	2	b	0	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	transparent	apple	grape	6	1	All	3	b	0	0	0	0	1	0	0	0	climed up but was probably not peaking	
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	transparent	apple	grape	7	3	Top	1	b	0	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	transparent	apple	grape	8	1	None	2	b	0	0	0	0		0	0	0	had hand at 1 during the 10 sec	
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	transparent	apple	grape	9	1	None	1	d	1	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	transparent	apple	grape	10	3	Bottom	1	t	0	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	transparent	apple	grape	11	2	All	3	b	0	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	transparent	apple	grape	12	2	Top	1	b	0	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	transparent	apple	grape	13	3	Bottom	3	d	1	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	transparent	apple	grape	14	2	All	1	t	0	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	transparent	apple	grape	15	1	None	1	d	1	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	transparent	transparent	apple	grape	16	2	Top	3	t	0	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	opaque	opaque	apple	grape	1	3	None	3	d	1	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	opaque	opaque	apple	grape	2	1	Bottom	1	d	1	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	opaque	opaque	apple	grape	3	2	All	1	t	0	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	opaque	opaque	apple	grape	4	2	Top	1	b	0	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	opaque	opaque	apple	grape	5	3	All	1	b	0	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	opaque	opaque	apple	grape	6	3	Bottom	1	t	0	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	opaque	opaque	apple	grape	7	1	None	3	b	0	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	opaque	opaque	apple	grape	8	1	Top	1	d	1	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	opaque	opaque	apple	grape	9	2	Top	1	b	0	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	opaque	opaque	apple	grape	10	1	All	1	d	1	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	opaque	opaque	apple	grape	11	3	None	1	b	0	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	opaque	opaque	apple	grape	12	1	Bottom	1	d	1	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	opaque	opaque	apple	grape	13	2	Top	1	t	0	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	opaque	opaque	apple	grape	14	3	All	1	t	0	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	opaque	opaque	apple	grape	15	3	Bottom	1	b	0	0	0	0		0	0	0		
+Edvard	m	old chimps	18	02/11/2018	19	1	opaque	opaque	apple	grape	16	1	None	1	d	1	0	0	0		0	0	0	sat up in top right corner of the cage where he could view top	
+Amahirwe	m	old chimps	20	02/11/2018	19	1	transparent	transparent	apple	grape	1	1	All	2	b	0	0	0	0		0	0	0	chose 1 first changed choice after 10s	
+Amahirwe	m	old chimps	20	02/11/2018	19	1	transparent	transparent	apple	grape	2	3	Bottom	2	t	0	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	transparent	transparent	apple	grape	3	2	None	1	b	0	0	0	0		0	0	0	chose two first changed choice	
+Amahirwe	m	old chimps	20	02/11/2018	19	1	transparent	transparent	apple	grape	4	2	Top	2	d	1	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	transparent	transparent	apple	grape	5	3	Bottom	2	b	0	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	transparent	transparent	apple	grape	6	1	All	2	t	0	0	0	0		0	0	0	"chose 1, changed after 10 s"	
+Amahirwe	m	old chimps	20	02/11/2018	19	1	transparent	transparent	apple	grape	7	3	Top	1	b	0	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	transparent	transparent	apple	grape	8	1	None	2	b	0	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	transparent	transparent	apple	grape	9	1	None	2	t	0	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	transparent	transparent	apple	grape	10	3	Bottom	2	b	0	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	transparent	transparent	apple	grape	11	2	All	2	d	1	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	transparent	transparent	apple	grape	12	2	Top	1	b	0	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	transparent	transparent	apple	grape	13	3	Bottom	1	t	0	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	transparent	transparent	apple	grape	14	2	All	1	t	0	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	transparent	transparent	apple	grape	15	1	None	1	d	1	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	transparent	transparent	apple	grape	16	2	Top	1	b	0	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	opaque	opaque	apple	grape	1	3	None	2	t	0	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	opaque	opaque	apple	grape	2	1	Bottom	1	d	1	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	opaque	opaque	apple	grape	3	2	All	1	t	0	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	opaque	opaque	apple	grape	4	2	Top	1	b	0	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	opaque	opaque	apple	grape	5	3	All	1	b	0	0	0	0		0	0	0	changed choice often	
+Amahirwe	m	old chimps	20	02/11/2018	19	1	opaque	opaque	apple	grape	6	3	Bottom	1	t	0	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	opaque	opaque	apple	grape	7	1	None	1	d	1	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	opaque	opaque	apple	grape	8	1	Top	1	d	1	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	opaque	opaque	apple	grape	9	2	Top	1	b	0	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	opaque	opaque	apple	grape	10	1	All	1	d	1	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	opaque	opaque	apple	grape	11	3	None	1	b	0	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	opaque	opaque	apple	grape	12	1	Bottom	1	d	1	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	opaque	opaque	apple	grape	13	2	Top	1	t	0	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	opaque	opaque	apple	grape	14	3	All	1	t	0	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	opaque	opaque	apple	grape	15	3	Bottom	1	b	0	0	0	0		0	0	0		
+Amahirwe	m	old chimps	20	02/11/2018	19	1	opaque	opaque	apple	grape	16	1	None	1	d	1	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	1	3	None	3	d	1	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	2	2	Bottom	3	b	0	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	3	2	Top	3	b	0	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	4	1	All	3	t	0	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	5	1	Top	3	b	0	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	6	2	None	3	b	0	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	7	3	All	3	d	1	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	8	3	Bottom	1	t	0	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	9	2	All	2	d	1	0	0	0		0	0	0	"but looked at 3, maybe wanted to choose 3?, without stands"	
+Julia	f	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	10	3	Top	3	d	1	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	11	1	None	1	d	1	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	12	3	Bottom	3	d	1	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	13	2	All	3	b	0	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	14	2	Bottom	3	b	0	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	15	1	Top	3	t	0	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	16	3	None	3	d	1	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	1	3	All	3	d	1	0	0	0		0	0	0	double baited is 3 instead of one EE	
+Julia	f	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	2	2	Bottom	3	b	0	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	3	2	None	2	d	1	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	4	3	Top	3	d	1	0	0	0		0	0	0	stood up a bit but should not have been able to see it	
+Julia	f	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	5	1	Bottom	3	b	0	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	6	3	All	3	d	1	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	7	3	Top	3	d	1	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	8	2	None	3	t	0	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	9	1	Top	3	b	0	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	10	2	All	3	b	0	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	11	1	None	3	b	0	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	12	3	Bottom	3	d	1	0	0	0		0	0	0	first choice between 2 and 3	
+Julia	f	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	13	3	None	3	d	1	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	14	2	Top	3	t	0	0	0	0		0	0	0		
+Julia	f	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	15	1	Bottom	3	t	0	0	0	0		0	0	0	head below bar but not peeking	
+Julia	f	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	16	2	All	3	b	0	0	0	0		0	0	0		
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	1	3	None	3	d	1	0	0	0		0	0	0		
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	2	2	Bottom	3	b	0	0	0	0		0	0	0		
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	3	2	Top	3	b	0	0	0	0		0	0	0		
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	4	1	All	3	t	0	0	0	0		0	0	0		
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	5	1	Top	3	b	0	0	0	0		0	0	0		
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	6	2	None	3	b	0	0	0	0		0	0	0		
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	7	3	All	3	d	1	0	0	0		0	0	0		
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	8	3	Bottom	3	d	1	0	0	0		0	0	0	used grape on top	
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	9	2	All	3	b	0	0	0	0		0	0	0	without stands	
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	10	3	Top	3	d	1	0	0	0		0	0	0		
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	11	1	None	3	t	0	0	0	0		0	0	0	climed up but just to bite the piece of tape	
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	12	3	Bottom	3	d	1	0	0	0		0	0	0		
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	13	2	All	3	b	0	0	0	0		0	0	0		
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	14	2	Bottom	3	b	0	0	0	0		0	0	0		
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	15	1	Top	3	t	0	0	0	0		0	0	0		
+Zee	m	old chimps	18	05/11/2018	19	1	transparent	transparent	apple	grape	16	3	None	3	d	1	0	0	0		0	0	0		
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	1	1	All	3	t	0	1	0	1		1	0	1	"not sure zee could see it, table was a bit too close, was below bar and during baiting"	
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	2	2	Bottom	3	b	0	0	0	0		0	0	0	indecisive between 2 and 3	
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	3	2	None	3	b	0	1	0	1		1	0	1		
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	4	3	Bottom	3	d	1	0	0	0		0	0	0	bottom instead of top baiting visible	
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	5	1	Bottom	3	b	0	0	0	0		0	0	0		
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	6	3	All	3	d	1	1	0	1		1	0	1		
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	7	3	Top	3	d	1	0	0	0		0	0	0		
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	8	2	None	3	t	0	1	0	1		1	0	1		
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	9	1	Top	3	b	0	0	0	0		0	0	0		
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	10	2	All	1	t	0	1	0	1	1	0	0	0	maybe peak above not really high enough	
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	11	1	None	3	b	0	0	0	0		0	0	0		
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	12	3	Bottom	3	d	1	0	1	1	1	0	0	0	not too sure if zee peaked	
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	13	3	None	3	d	1	0	0	0		0	0	0		
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	14	2	Top	3	t	0	1	0	1		1	0	1		
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	15	1	Bottom	3	t	0	0	0	0		0	0	0	"EE, repeated trial - same choice, no peaking"	
+Zee	m	old chimps	18	05/11/2018	19	1	opaque	opaque	apple	grape	16	2	All	3	b	0	1	0	1	1	0	0	0	not sure it is really peeking	
+Mary	f	old chimps	15	05/11/2018	19	1	transparent	transparent	grape	apple	1	1	Top	1	d	1	0	0	0		0	0	0	indecisive between 1 and 2	
+Mary	f	old chimps	15	05/11/2018	19	1	transparent	transparent	grape	apple	2	3	None	3	d	1	0	0	0		0	0	0		
+Mary	f	old chimps	15	05/11/2018	19	1	transparent	transparent	grape	apple	3	2	All	1	b	0	0	0	0		0	0	0		
+Mary	f	old chimps	15	05/11/2018	19	1	transparent	transparent	grape	apple	4	3	Bottom	2	b	0	0	0	0		0	0	0		
+Mary	f	old chimps	15	05/11/2018	19	1	transparent	transparent	grape	apple	5	1	Bottom	2	b	0	0	0	0		0	0	0		
+Mary	f	old chimps	15	05/11/2018	19	1	transparent	transparent	grape	apple	6	2	All	2	d	1	0	0	0		0	0	0		
+Mary	f	old chimps	15	05/11/2018	19	1	transparent	transparent	grape	apple	7	3	None	3	d	1	0	0	0		0	0	0		
+Mary	f	old chimps	15	05/11/2018	19	1	transparent	transparent	grape	apple	8	1	Top	2	t	0	0	0	0		0	0	0		
+Mary	f	old chimps	15	05/11/2018	19	1	transparent	transparent	grape	apple	9	1	All	2	b	0	0	0	0		0	0	0	set up fell down after choice	
+Mary	f	old chimps	15	05/11/2018	19	1	transparent	transparent	grape	apple	10	3	None	2	b	0	0	0	0		0	0	0		
+Mary	f	old chimps	15	05/11/2018	19	1	transparent	transparent	grape	apple	11	2	Bottom	3	b	0	0	0	0		0	0	0		
+Mary	f	old chimps	15	05/11/2018	19	1	transparent	transparent	grape	apple	12	2	Top	2	d	1	0	0	0		0	0	0		
+Mary	f	old chimps	15	05/11/2018	19	1	transparent	transparent	grape	apple	13	2	All	2	d	1	0	0	0		0	0	0	first chose 3?	
+Mary	f	old chimps	15	05/11/2018	19	1	transparent	transparent	grape	apple	14	3	Top	2	t	0	1	0	1	1	0	0	0	maybe peaked above but actually just wanted tape	
+Mary	f	old chimps	15	05/11/2018	19	1	transparent	transparent	grape	apple	15	3	Bottom	2	b	0	0	0	0		0	0	0		
+Mary	f	old chimps	15	05/11/2018	19	1	transparent	transparent	grape	apple	16	1	None	2	t	0	0	0	0		0	0	0		
+Mary	f	old chimps	15	05/11/2018	19	1	opaque	opaque	grape	apple	1	1	All	2	b	0	0	0	0		0	0	0	stood up to look in opaque cylinders when I placed them on the table	
+Mary	f	old chimps	15	05/11/2018	19	1	opaque	opaque	grape	apple	2	2	None	2	d	1	0	0	0		0	0	0	went up when occluder was up but just to bite tape	
+Mary	f	old chimps	15	05/11/2018	19	1	opaque	opaque	grape	apple	3	2	Top	1	b	0	0	0	0		0	0	0	"indecisive, went up when occluder was up but just to bite tape"	
+Mary	f	old chimps	15	05/11/2018	19	1	opaque	opaque	grape	apple	4	1	Bottom	2	t	0	0	0	0		0	0	0		
+Mary	f	old chimps	15	05/11/2018	19	1	opaque	opaque	grape	apple	5	2	All	2	d	1	0	0	0		0	0	0		
+Mary	f	old chimps	15	05/11/2018	19	1	opaque	opaque	grape	apple	6	3	Top	3	d	1	1	0	1	1	0	0	0	went up but just for tape	
+Mary	f	old chimps	15	05/11/2018	19	1	opaque	opaque	grape	apple	7	1	None	2	b	0	0	0	0		0	0	0		
+Mary	f	old chimps	15	05/11/2018	19	1	opaque	opaque	grape	apple	8	3	Bottom	2	t	0	0	0	0		0	0	0		
+Mary	f	old chimps	15	05/11/2018	19	2	opaque	opaque	grape	apple	9	2	Top	2	d	1	0	0	0		0	0	0		
+Mary	f	old chimps	15	05/11/2018	19	2	opaque	opaque	grape	apple	10	1	Bottom	2	t	0	1	0	1	1	0	0	0	very short	
+Mary	f	old chimps	15	05/11/2018	19	2	opaque	opaque	grape	apple	11	2	All	2	d	1	0	0	0		0	0	0		
+Mary	f	old chimps	15	05/11/2018	19	2	opaque	opaque	grape	apple	12	3	None	2	b	0	0	0	0		0	0	0		
+Mary	f	old chimps	15	05/11/2018	19	2	opaque	opaque	grape	apple	13	3	Bottom	2	t	0	0	0	0		0	0	0		
+Mary	f	old chimps	15	05/11/2018	19	2	opaque	opaque	grape	apple	14	1	None	2	b	0	1	0	1		1	0	1		
+Mary	f	old chimps	15	05/11/2018	19	2	opaque	opaque	grape	apple	15	2	Top	1	t	0	0	0	0		0	0	0		
+Mary	f	old chimps	15	05/11/2018	19	2	opaque	opaque	grape	apple	16	3	All	2	b	0	1	0	1	1	0	0	0	not high enough	
+Akela	f	young chimps	30	03/12/2018	19	1	transparent	transparent	apple	grape	1	3	None	3	d	1	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	transparent	transparent	apple	grape	2	2	Bottom	3	b	0	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	transparent	transparent	apple	grape	3	2	Top	3	b	0	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	transparent	transparent	apple	grape	4	1	All	3	t	0	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	transparent	transparent	apple	grape	5	1	Top	3	b	0	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	transparent	transparent	apple	grape	6	2	None	3	b	0	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	transparent	transparent	apple	grape	7	3	All	3	d	1	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	transparent	transparent	apple	grape	8	3	Bottom	3	d	1	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	transparent	transparent	apple	grape	9	2	All	2	d	1	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	transparent	transparent	apple	grape	10	3	Top	3	d	1	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	transparent	transparent	apple	grape	11	1	None	2	b	0	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	transparent	transparent	apple	grape	12	3	Bottom	3	d	1	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	transparent	transparent	apple	grape	13	2	All	3	b	0	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	transparent	transparent	apple	grape	14	2	Bottom	3	b	0	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	transparent	transparent	apple	grape	15	1	Top	3	t	0	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	transparent	transparent	apple	grape	16	3	None	3	d	1	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	opaque	opaque	apple	grape	1	1	All	3	t	0	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	opaque	opaque	apple	grape	2	2	Bottom	3	b	0	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	opaque	opaque	apple	grape	3	2	None	2	d	1	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	opaque	opaque	apple	grape	4	3	Top	3	d	1	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	opaque	opaque	apple	grape	5	1	Bottom	3	b	0	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	opaque	opaque	apple	grape	6	3	All	3	d	1	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	opaque	opaque	apple	grape	7	3	Top	3	d	1	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	opaque	opaque	apple	grape	8	2	None	3	t	0	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	opaque	opaque	apple	grape	9	1	Top	2	t	0	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	opaque	opaque	apple	grape	10	2	All	3	b	0	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	opaque	opaque	apple	grape	11	1	None	3	b	0	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	opaque	opaque	apple	grape	12	3	Bottom	3	d	1	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	opaque	opaque	apple	grape	13	3	None	3	d	1	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	opaque	opaque	apple	grape	14	2	None	3	t	0	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	opaque	opaque	apple	grape	15	1	Bottom	3	b	0	0	0	0		0	0	0		
+Akela	f	young chimps	30	03/12/2018	19	1	opaque	opaque	apple	grape	16	2	All	3	b	0	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	transparent	transparent	apple	grape	1	1	Top	2	t	0	0	0	0		0	0	0	chose 1 first	
+Joy	f	young chimps	14	30/11/2018	19	1	transparent	transparent	apple	grape	2	3	None	3	d	1	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	transparent	transparent	apple	grape	3	2	All	3	t	0	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	transparent	transparent	apple	grape	4	3	Bottom	3	d	1	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	transparent	transparent	apple	grape	5	1	Bottom	2	b	0	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	transparent	transparent	apple	grape	6	2	All	2	d	1	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	transparent	transparent	apple	grape	7	3	None	2	t	0	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	transparent	transparent	apple	grape	8	1	Top	2	t	0	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	transparent	transparent	apple	grape	9	1	All	3	t	0	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	transparent	transparent	apple	grape	10	3	None	2	b	0	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	transparent	transparent	apple	grape	11	2	Bottom	3	b	0	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	transparent	transparent	apple	grape	12	2	Top	2	d	1	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	transparent	transparent	apple	grape	13	2	All	2	d	1	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	transparent	transparent	apple	grape	14	3	Top	2	t	0	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	transparent	transparent	apple	grape	15	3	Bottom	3	d	1	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	transparent	transparent	apple	grape	16	1	None	2	t	0	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	opaque	opaque	apple	grape	1	1	All	1	d	1	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	opaque	opaque	apple	grape	2	2	None	1	b	0	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	opaque	opaque	apple	grape	3	2	Top	3	t	0	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	opaque	opaque	apple	grape	4	1	Bottom	3	b	0	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	opaque	opaque	apple	grape	5	2	All	2	d	1	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	opaque	opaque	apple	grape	6	3	Top	3	d	1	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	opaque	opaque	apple	grape	7	1	None	3	t	0	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	opaque	opaque	apple	grape	8	3	Bottom	3	d	1	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	opaque	opaque	apple	grape	9	2	Top	3	b	0	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	opaque	opaque	apple	grape	10	1	Bottom	3	b	0	0	0	0		0	0	0	peak before trial started?	
+Joy	f	young chimps	14	30/11/2018	19	1	opaque	opaque	apple	grape	11	2	All	1	t	0	1	0	1	1	0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	opaque	opaque	apple	grape	12	3	None	2	b	0	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	opaque	opaque	apple	grape	13	1	Bottom	2	t	0	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	opaque	opaque	apple	grape	14	1	None	2	b	0	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	opaque	opaque	apple	grape	15	2	Top	3	b	0	0	0	0		0	0	0		
+Joy	f	young chimps	14	30/11/2018	19	1	opaque	opaque	apple	grape	16	3	All	3	d	1	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	transparent	transparent	apple	grape	1	2	Bottom	2	d	1	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	transparent	transparent	apple	grape	2	1	Top	1	d	1	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	transparent	transparent	apple	grape	3	3	All	3	d	1	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	transparent	transparent	apple	grape	4	2	None	1	b	0	0	0	0		0	0	0	initially chose 2	
+Bahati	f	young chimps	25	30/11/2018	19	1	transparent	transparent	apple	grape	5	3	Top	3	d	1	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	transparent	transparent	apple	grape	6	1	All	3	b	0	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	transparent	transparent	apple	grape	7	1	Bottom	2	b	0	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	transparent	transparent	apple	grape	8	3	None	3	d	1	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	transparent	transparent	apple	grape	9	2	All	2	d	1	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	transparent	transparent	apple	grape	10	3	Bottom	3	d	1	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	transparent	transparent	apple	grape	11	1	None	3	b	0	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	transparent	transparent	apple	grape	12	2	Top	2	d	1	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	transparent	transparent	apple	grape	13	3	None	3	d	1	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	transparent	transparent	apple	grape	14	2	All	3	b	0	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	transparent	transparent	apple	grape	15	3	Bottom	3	d	1	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	transparent	transparent	apple	grape	16	1	Top	3	b	0	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	opaque	opaque	apple	grape	1	2	Top	3	t	0	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	opaque	opaque	apple	grape	2	3	None	1	t	0	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	opaque	opaque	apple	grape	3	1	Bottom	3	b	0	1	0	1		1	0	1		
+Bahati	f	young chimps	25	30/11/2018	19	1	opaque	opaque	apple	grape	4	1	All	2	b	0	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	opaque	opaque	apple	grape	5	2	None	2	d	1	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	opaque	opaque	apple	grape	6	3	Top	3	d	1	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	opaque	opaque	apple	grape	7	2	Bottom	2	d	1	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	opaque	opaque	apple	grape	8	1	All	3	b	0	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	opaque	opaque	apple	grape	9	2	Top	2	d	1	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	opaque	opaque	apple	grape	10	3	All	3	d	1	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	opaque	opaque	apple	grape	11	2	None	3	t	0	1	0	1		1	0	1	peaked after trial	
+Bahati	f	young chimps	25	30/11/2018	19	1	opaque	opaque	apple	grape	12	3	Bottom	2	t	0	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	opaque	opaque	apple	grape	13	2	All	3	b	0	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	opaque	opaque	apple	grape	14	2	None	2	d	1	0	0	0		0	0	0		
+Bahati	f	young chimps	25	30/11/2018	19	1	opaque	opaque	apple	grape	15	3	Top	3	d	1	1	0	1		1	0	1		
+Bahati	f	young chimps	25	30/11/2018	19	1	opaque	opaque	apple	grape	16	1	Bottom	3	b	0	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	transparent	transparent	grape	apple	1	3	None	1	t	0	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	transparent	transparent	grape	apple	2	2	Bottom	2	d	1	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	transparent	transparent	grape	apple	3	2	Top	3	b	0	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	transparent	transparent	grape	apple	4	1	All	2	b	0	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	transparent	transparent	grape	apple	5	1	Top	1	d	1	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	transparent	transparent	grape	apple	6	2	None	2	d	1	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	transparent	transparent	grape	apple	7	3	All	1	t	0	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	transparent	transparent	grape	apple	8	3	Bottom	3	d	1	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	transparent	transparent	grape	apple	9	2	All	2	d	1	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	transparent	transparent	grape	apple	10	3	Top	1	t	0	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	transparent	transparent	grape	apple	11	1	None	3	b	0	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	transparent	transparent	grape	apple	12	3	Bottom	1	t	0	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	transparent	transparent	grape	apple	13	2	All	3	b	0	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	transparent	transparent	grape	apple	14	2	Bottom	1	t	0	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	transparent	transparent	grape	apple	15	1	Top	1	d	1	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	transparent	transparent	grape	apple	16	3	None	1	t	0	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	opaque	opaque	grape	apple	1	1	All	1	b	0	0	0	0		0	0	0	peaked while baiting	
+Dufa	f	young chimps	27	30/11/2018	19	1	opaque	opaque	grape	apple	2	2	Bottom	1	t	0	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	opaque	opaque	grape	apple	3	2	None	1	t	0	1	0	1		1	0	1		
+Dufa	f	young chimps	27	30/11/2018	19	1	opaque	opaque	grape	apple	4	3	Top	1	t	0	1	0	1	1	0	0	0	climed up	
+Dufa	f	young chimps	27	30/11/2018	19	1	opaque	opaque	grape	apple	5	1	Bottom	1	d	1	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	opaque	opaque	grape	apple	6	3	All	1	t	0	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	opaque	opaque	grape	apple	7	3	Top	1	t	0	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	opaque	opaque	grape	apple	8	2	None	1	b	0	1	0	1	1	0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	opaque	opaque	grape	apple	9	1	Top	1	d	1	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	opaque	opaque	grape	apple	10	2	All	1	t	0	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	opaque	opaque	grape	apple	11	1	None	1	d	1	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	opaque	opaque	grape	apple	12	3	Bottom	1	t	0	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	opaque	opaque	grape	apple	13	2	None	1	t	0	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	opaque	opaque	grape	apple	14	2	Top	1	b	0	1	0	1	1	0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	opaque	opaque	grape	apple	15	1	Bottom	1	d	1	0	0	0		0	0	0		
+Dufa	f	young chimps	27	30/11/2018	19	1	opaque	opaque	grape	apple	16	2	All	1	t	0	0	0	0		0	0	0		
+Kisa	m	young chimps	27	03/12/2018	19	1	transparent	transparent	grape	apple	1	1	Top	3	b	0	0	0	0		0	0	0		
+Kisa	m	young chimps	25	03/12/2018	19	1	transparent	transparent	grape	apple	2	3	None	3	d	1	0	0	0		0	0	0		
+Kisa	m	young chimps	25	03/12/2018	19	1	transparent	transparent	grape	apple	3	2	All	3	t	0	0	0	0		0	0	0		
+Kisa	m	young chimps	25	03/12/2018	19	1	transparent	transparent	grape	apple	4	3	Bottom	3	b	0	0	0	0		0	0	0		
+Kisa	m	young chimps	25	03/12/2018	19	1	transparent	transparent	grape	apple	5	1	Bottom	3	t	0	0	0	0		0	0	0		
+Kisa	m	young chimps	25	03/12/2018	19	1	transparent	transparent	grape	apple	6	2	All	3	b	0	0	0	0		0	0	0		
+Kisa	m	young chimps	25	03/12/2018	19	1	transparent	transparent	grape	apple	7	3	None	3	d	1	0	0	0		0	0	0		
+Kisa	m	young chimps	25	03/12/2018	19	1	transparent	transparent	grape	apple	8	1	Top	3	b	0	0	0	0		0	0	0		
+Kisa	m	young chimps	25	03/12/2018	19	1	transparent	transparent	grape	apple	9	1	All	2	b	0	0	0	0		0	0	0		
+Kisa	m	young chimps	25	03/12/2018	19	1	transparent	transparent	grape	apple	10	3	None	3	d	1	0	0	0		0	0	0		
+Kisa	m	young chimps	25	03/12/2018	19	1	transparent	transparent	grape	apple	11	2	Bottom	3	b	0	0	0	0		0	0	0		
+Kisa	m	young chimps	25	03/12/2018	19	1	transparent	transparent	grape	apple	12	2	Top	2	d	1	0	0	0		0	0	0		
+Kisa	m	young chimps	25	03/12/2018	19	1	transparent	transparent	grape	apple	13	2	All	3	b	0	0	0	0		0	0	0		
+Kisa	m	young chimps	25	03/12/2018	19	1	transparent	transparent	grape	apple	14	3	Top	3	d	1	0	0	0		0	0	0		
+Kisa	m	young chimps	25	03/12/2018	19	1	transparent	transparent	grape	apple	15	3	Bottom	3	d	1	1	0	1		1	0	1		
+Kisa	m	young chimps	25	03/12/2018	19	1	transparent	transparent	grape	apple	16	1	None	3	b	0	0	1	1	1	0	0	0		
+Kisa	m	young chimps	25	03/12/2018	19	1	opaque	opaque	grape	apple	1	1	All	2	b	0	0	0	0		0	0	0		
+Kisa	m	young chimps	25	03/12/2018	19	1	opaque	opaque	grape	apple	2	2	None	3	t	0	1	0	1		1	0	1		
+Kisa	m	young chimps	25	03/12/2018	19	1	opaque	opaque	grape	apple	3	3	Top	3	t	0	0	1	1	1	0	0	0		
+Kisa	m	young chimps	25	03/12/2018	19	1	opaque	opaque	grape	apple	4	1	Bottom	3	b	0	0	0	0		0	0	0		
+Kisa	m	young chimps	25	03/12/2018	19	1	opaque	opaque	grape	apple	5	2	All	3	b	0	0	0	0		0	0	0		
+Kisa	m	young chimps	25	03/12/2018	19	1	opaque	opaque	grape	apple	6	3	Top	2	b	0	0	0	0		0	0	0		
+Kisa	m	young chimps	25	03/12/2018	19	1	opaque	opaque	grape	apple	7	1	None	3	t	0	0	0	0		0	0	0		
+Kisa	m	young chimps	25	03/12/2018	19	1	opaque	opaque	grape	apple	8	3	Bottom	3	d	1	0	0	0		0	0	0		
+Kisa	m	young chimps	25	03/12/2018	19	1	opaque	opaque	grape	apple	9	2	Top	3	b	0	0	0	0		0	0	0		
+Kisa	m	young chimps	25	03/12/2018	19	1	opaque	opaque	grape	apple	10	1	Bottom	3	b	0	0	0	0		0	0	0		
+Kisa	m	young chimps	25	03/12/2018	19	1	opaque	opaque	grape	apple	11	2	All	3	t	0	1	0	1	1	0	0	0	very short	
+Kisa	m	young chimps	25	03/12/2018	19	1	opaque	opaque	grape	apple	12	3	None	3	d	1	1	0	1	1	0	0	0	not high enough	
+Kisa	m	young chimps	25	03/12/2018	19	1	opaque	opaque	grape	apple	13	1	Bottom	2	t	0	0	0	0		0	0	0		
+Kisa	m	young chimps	25	03/12/2018	19	1	opaque	opaque	grape	apple	14	1	None	3	t	0	1	0	1		1	0	1		
+Kisa	m	young chimps	25	03/12/2018	19	1	opaque	opaque	grape	apple	15	2	Top	3	b	0	1	0	1	1	0	0	0	not high enough	
+Kisa	m	young chimps	25	03/12/2018	19	1	opaque	opaque	grape	apple	16	3	All	3	d	1	1	0	1		1	0	1		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	transparent	transparent	apple	grape	1	1	All	1	d	1	0	0	0		0	0	0		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	transparent	transparent	apple	grape	2	3	Bottom	3	d	1	0	0	0		0	0	0		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	transparent	transparent	apple	grape	3	2	None	2	d	1	0	0	0		0	0	0		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	transparent	transparent	apple	grape	4	2	Top	3	b	0	0	0	0		0	0	0		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	transparent	transparent	apple	grape	5	3	Bottom	3	d	1	0	0	0		0	0	0		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	transparent	transparent	apple	grape	6	1	All	3	b	0	0	0	0		0	0	0		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	transparent	transparent	apple	grape	7	3	Top	3	d	1	0	0	0		0	0	0		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	transparent	transparent	apple	grape	8	1	None	3	t	0	0	0	0		0	0	0		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	transparent	transparent	apple	grape	9	1	None	2	t	0	0	0	0		0	0	0		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	transparent	transparent	apple	grape	10	3	Bottom	3	d	1	0	0	0		0	0	0		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	transparent	transparent	apple	grape	11	2	All	2	d	1	0	0	0		0	0	0		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	transparent	transparent	apple	grape	12	2	Top	2	d	1	0	0	0		0	0	0		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	transparent	transparent	apple	grape	13	3	Bottom	3	d	1	0	0	0		0	0	0		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	transparent	transparent	apple	grape	14	2	All	2	d	1	0	0	0		0	0	0		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	transparent	transparent	apple	grape	15	1	None	1	d	1	0	0	0		0	0	0	first choice between 2 and 3	
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	transparent	transparent	apple	grape	16	2	Top	2	d	1	0	0	0		0	0	0		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	opaque	opaque	apple	grape	1	3	None	2	t	0	0	0	0		0	0	0		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	opaque	opaque	apple	grape	2	1	Bottom	3	t	0	0	0	0		0	0	0		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	opaque	opaque	apple	grape	3	2	All	3	b	0	0	0	0		0	0	0		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	opaque	opaque	apple	grape	4	2	Top	2	d	1	0	0	0		0	0	0		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	opaque	opaque	apple	grape	5	3	All	2	t	0	0	0	0		0	0	0		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	opaque	opaque	apple	grape	6	3	Bottom	3	d	1	1	0	1	1	0	0	0	too low	
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	opaque	opaque	apple	grape	7	1	None	2	t	0	1	0	1	1	0	0	0	"too low, wanted baybe 3??"	
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	opaque	opaque	apple	grape	8	1	Top	3	t	0	0	0	0		0	0	0		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	opaque	opaque	apple	grape	9	2	Top	2	d	1	0	0	0		0	0	0		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	opaque	opaque	apple	grape	10	1	All	3	t	0	1	0	1		1	0	1		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	opaque	opaque	apple	grape	11	3	None	3	d	1	0	0	0		0	0	0		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	opaque	opaque	apple	grape	12	1	Bottom	3	b	0	0	0	0		0	0	0		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	opaque	opaque	apple	grape	13	2	Top	2	d	1	0	0	0		0	0	0	also hand out for 3	
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	opaque	opaque	apple	grape	14	3	All	2	b	0	0	0	0		0	0	0	also hand out for 3	
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	opaque	opaque	apple	grape	15	3	Bottom	3	d	1	1	0	1		1	0	1		
+Niyonkuru	m	young chimps	28	03/12/2018	19	1	opaque	opaque	apple	grape	16	1	None	3	b	0	0	0	0		0	0	0		
